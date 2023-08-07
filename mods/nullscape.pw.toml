@@ -1,0 +1,14 @@
+name = "Nullscape"
+filename = "Nullscape_1.20.1_v1.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LPjGiSO4/versions/uXfroGYN/Nullscape_1.20.1_v1.2.1.jar"
+hash-format = "sha512"
+hash = "ec6bb68cba06f27df115d2cc37db7a25cf0cf51811865e27524fbaca600f2c1cb6a2f91ac0e1e5fac7ace7cec7f088d2593327a0d8dac4f9b301c2114f9c44d0"
+
+[update]
+[update.modrinth]
+mod-id = "LPjGiSO4"
+version = "uXfroGYN"

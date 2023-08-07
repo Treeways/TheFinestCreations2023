@@ -1,0 +1,14 @@
+name = "BlossomHomes"
+filename = "blossom-homes-2.1.0+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FXeppAS4/versions/HPcvDp5e/blossom-homes-2.1.0%2B1.20.jar"
+hash-format = "sha512"
+hash = "77e42393f8d58454feb48acdbb94ee15d810a63e0f34ce8541844776bf698ae71c928c440c31ad04ae8a5e975c439893fc5874f284d0ad9d2f93a4679d81f038"
+
+[update]
+[update.modrinth]
+mod-id = "FXeppAS4"
+version = "HPcvDp5e"

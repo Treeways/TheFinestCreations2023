@@ -1,0 +1,18 @@
+{
+  "invisibleShield": false,
+  "invisibleTotem": false,
+  "betterHorseHUD": false,
+  "fullBright": false,
+  "disableScoreboard": false,
+  "offHandSlotLoc": "VANILA",
+  "hideTutorialToasts": true,
+  "hideAdvancementToasts": false,
+  "hideRecipeUnlockToasts": false,
+  "deathCordsClipBoardButton": true,
+  "sendDeathCords": false,
+  "disablePortalGUIClosing": false,
+  "doNotPlantEdiblesIfHungry": false,
+  "noDoubleSlabPlacement": false,
+  "skipResourcePackDownload": false,
+  "noSplash": false
+}

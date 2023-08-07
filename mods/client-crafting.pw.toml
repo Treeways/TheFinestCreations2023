@@ -1,0 +1,14 @@
+name = "Client Crafting"
+filename = "clientcrafting-fabric-1.20.1-1.6.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a6b0da1e672505f254a5e89fb529a7b1b0e8d2d7"
+
+[update]
+[update.curseforge]
+file-id = 4647489
+project-id = 888790

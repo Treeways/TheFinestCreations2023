@@ -1,0 +1,14 @@
+name = "Where Is It"
+filename = "whereisit-1.20.1-2.0.10.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FCTyEqkn/versions/OYe7I4f2/whereisit-1.20.1-2.0.10.jar"
+hash-format = "sha512"
+hash = "9785022e446f934e6a0207ceb51080f07fca7f97a9e650108e71a2da5edb222bca97ebe6cb9690fdd4fee909cb5e364bf456a89b980d42b2237583acdf4bc4a4"
+
+[update]
+[update.modrinth]
+mod-id = "FCTyEqkn"
+version = "OYe7I4f2"

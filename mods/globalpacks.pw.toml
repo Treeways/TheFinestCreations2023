@@ -1,0 +1,14 @@
+name = "Global Packs"
+filename = "global_packs-quilt-1.19.4-1.16.1_quilt.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/WjtRRTw9/global_packs-quilt-1.19.4-1.16.1_quilt.jar"
+hash-format = "sha512"
+hash = "89fe1c9e3dfe38e3260cc8e2adb0e4c894cc89627d9f90e5269d82aebde49165e143d35a0016cc7d68cbaa080f0a24e72a36d0104b1671c9582fc59e51acf855"
+
+[update]
+[update.modrinth]
+mod-id = "NRLPy2mk"
+version = "WjtRRTw9"

@@ -1,0 +1,14 @@
+name = "Indium"
+filename = "indium-1.0.21+mc1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTh7W27h/indium-1.0.21%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "fb1291e8ee4e1239f5fa8f3469628a2249b51d45905fe8d8a46dd466283e930717636eaadfc9a545d37c32d455d8c920d56035262cd48e8d6d1d3c6139208652"
+
+[update]
+[update.modrinth]
+mod-id = "Orvt0mRa"
+version = "yTh7W27h"

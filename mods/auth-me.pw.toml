@@ -1,0 +1,14 @@
+name = "Auth Me"
+filename = "authme-7.0.2+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/RiTU8rGC/authme-7.0.2%2B1.20.jar"
+hash-format = "sha512"
+hash = "ddc38925b31596b6dc80acdfeb65a5d0353f2bc1bb5f5fbe368fd39a9d91b77ac3a85d7f16cb54692048160ff53fa64b9d6b47ee0e0bbca1a0789751f4838061"
+
+[update]
+[update.modrinth]
+mod-id = "yjgIrBjZ"
+version = "RiTU8rGC"
