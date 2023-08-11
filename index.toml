@@ -317,6 +317,140 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
+file = "global_packs/required_data/armor statues v2.8.5 (MC 1.20.x).zip"
+hash = "8d0f635b39d3b0ec0812f0b3f222a63cc123728003e0e2bd452c7663d296a4f1"
+
+[[files]]
+file = "global_packs/required_data/bat membranes v1.0.5 (MC 1.20.x).zip"
+hash = "f69f15f51a816a703b8cddf36ee4ff35fcb9f8329e57519aa078d718307a9f7c"
+
+[[files]]
+file = "global_packs/required_data/block_rotator.zip"
+hash = "20fbc3256903d6a75794e5744b67a97e86c74465b579d4ab3fd2b723a384366a"
+
+[[files]]
+file = "global_packs/required_data/credits.txt"
+hash = "d5a7a49635f98f1ca494af34aa0953b6318e70641fffba9a9fe1e14860343f04"
+
+[[files]]
+file = "global_packs/required_data/custom nether portals v2.3.7 (MC 1.20.x).zip"
+hash = "0f38b2765061ab02a9c8afce522736c3d3d8304ceeff4c32d5ec7d74f218da0a"
+
+[[files]]
+file = "global_packs/required_data/double shulker shells v1.3.4 (MC 1.20.x).zip"
+hash = "4d7d97097e105b41e18deb6346e7557c11331e13525d0ae76d2e85792200bc9b"
+
+[[files]]
+file = "global_packs/required_data/dragon drops v1.3.4 (MC 1.20.x).zip"
+hash = "a293bee51db832e4af9e6a51c4f983307b1222667b025a2a0d3007be0241b6db"
+
+[[files]]
+file = "global_packs/required_data/fast leaf decay v2.0.7 (MC 1.20.x).zip"
+hash = "33eb4b0e51f4e3e1f06f2af3d81d0a93144aa10f08bd3c1e720bfcbe14bd1ff0"
+
+[[files]]
+file = "global_packs/required_data/more mob heads v2.12.1 (MC 1.20.x).zip"
+hash = "bbd54fdc8cde1f57ce07a111a0008703f7a7fd4047047a5705b02573656ca561"
+
+[[files]]
+file = "global_packs/required_data/omnicut-better-wood-stone-cutter.pw.toml"
+hash = "1358c27f4292d5846a7f84460c963586338f50797fc91743327ccd315588fa2b"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/player head drops v1.1.4 (MC 1.20.x).zip"
+hash = "fd8e8a674ea85dab64ef9691adc6aecede02ddfc7bb1ddb88b208097a425a237"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/acacia_slabs_to_acacia_planks.json"
+hash = "cc3e448b7ce192024676120f547adf784a8808b5c31626b4e1f2a32cbb94cd75"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/bamboo_slabs_to_bamboo_planks.json"
+hash = "259fff4702c31f153da5331a590bd731d82b24d087d4b8f53b055af648df1c74"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/birch_slabs_to_birch_planks.json"
+hash = "58b941a73331b7ae22496e0d7611519fb9b5cef8119891901bfb632edcb418cc"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/cherry_slabs_to_cherry_planks.json"
+hash = "c187159eb6b4cf713df08f00790eb8aecb611f49e7a40450cf672770785f5a26"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/crimson_slabs_to_crimson_planks.json"
+hash = "58a06efdf70fb916ae95aaf8683b7f8504ef18fd90fe07bb365dbae90fa63326"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/dark_oak_slabs_to_dark_oak_planks.json"
+hash = "66aed2352de7c01b9385bbbfcc01f615fe0a73bc4cd3ded8e7a6aea259a2a8d0"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/jungle_slabs_to_jungle_planks.json"
+hash = "58e35656132f66470035ed8646092a1f5029e1c078c2d77183fb6ff02cc911c1"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/mangrove_slabs_to_mangrove_planks.json"
+hash = "bf2de672ad787191122a3d34222e372b2252d5385b485db18ccb6b6887e45a98"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/oak_slabs_to_oak_planks.json"
+hash = "338122243aa72d48ce4cc34e812dbd40674f1f52d585d270707e3d1cf7dd0c5a"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/purpur_slabs_to_purpur_block.json"
+hash = "390a117ef2c995f682647d54d3a4d305537c8187c13845559146141fe8b4b107"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/spruce_slabs_to_spruce_planks.json"
+hash = "68f1dc995aa62fa6d350a2485b49ef7cdece211e08fa88e3a1938728e2171653"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/warped_slabs_to_warped_planks.json"
+hash = "e91c993eb44326a870661d2712984c3c32f6046328d0b515647d95cf9e90f873"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/slabs.py"
+hash = "6bd9204dacfa215e6a230a31795ad71b40be39dff9a0c507692c988ee526735a"
+
+[[files]]
+file = "global_packs/required_data/slab_hero_tfc/pack.mcmeta"
+hash = "89c1042d8cc3fdd3d135e23096cbcb5bb7ec4affce9f710582523b3787ce3cef"
+
+[[files]]
+file = "global_packs/required_data/spectator night vision v1.1.4 (MC 1.20.x).zip"
+hash = "f3201330c164b2f7b646986b9c3938309ed8748052bd90ee98fe64e501a0ae12"
+
+[[files]]
+file = "global_packs/required_data/tfc_recipes/data/thefinestcreations/recipes/bundle_from_hide.json"
+hash = "2ff2192ee834b653bb1f68f69d7bdbb45a267615890e59927d0936e1154873d1"
+
+[[files]]
+file = "global_packs/required_data/tfc_recipes/data/thefinestcreations/recipes/bundle_from_leather.json"
+hash = "5be6699ecfc32b65274951f5e0a64632cbee75d085a1a12d2fd35490e6ee5cac"
+
+[[files]]
+file = "global_packs/required_data/tfc_recipes/data/thefinestcreations/recipes/rotten_flesh_to_leather.json"
+hash = "5b073288f85a69c3f04b6636af6bfc92d992fb8bc40d0933edb08091e9df9044"
+
+[[files]]
+file = "global_packs/required_data/tfc_recipes/data/thefinestcreations/recipes/wool_to_string.json"
+hash = "aa7873f23c009c812b03790d03a98284b396a8fea6133e1fb539b476cc550139"
+
+[[files]]
+file = "global_packs/required_data/tfc_recipes/pack.mcmeta"
+hash = "89c1042d8cc3fdd3d135e23096cbcb5bb7ec4affce9f710582523b3787ce3cef"
+
+[[files]]
+file = "global_packs/required_data/unlock all recipes v2.0.5 (MC 1.20.x).zip"
+hash = "69354e4f14a46544299620e269332a5fed112c5e8135bcf8703a2b26304bc94c"
+
+[[files]]
+file = "global_packs/required_data/wood_cutter.pw.toml"
+hash = "be00cb8530a8c0e2a1b27fd219b26020ead0af7cd197a81c47461f012aaed364"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "86fdfc720f3b38df68fa9c6624bc6de687c2db3bfb0bf81239a0ccf2ab7e472f"
 metafile = true
@@ -469,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "d653de3e0a16a4bd8637162adf89f183267144b3be284f73aa2f8a31cd07816e"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]

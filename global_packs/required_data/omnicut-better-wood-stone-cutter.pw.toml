@@ -1,0 +1,13 @@
+name = "OmniCut: Better Wood and Stone Cutter"
+filename = "OmniCut-1.11.0+1.20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpEvPjRi/versions/9naGDn96/OmniCut-1.11.0%2B1.20.zip"
+hash-format = "sha1"
+hash = "587c77e3a22503626a3ccda7cdc5fa9a2c377970"
+
+[update]
+[update.modrinth]
+mod-id = "MpEvPjRi"
+version = "9naGDn96"
