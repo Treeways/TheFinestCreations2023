@@ -3,10 +3,9 @@ filename = "structureessentials-fabric-1.20.1-2.9.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "b0d56e70f7f2f6a8858b2a363d4e5640dd20f9b4"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

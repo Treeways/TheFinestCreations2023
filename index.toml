@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
-hash = "c1c9fc4466ba025e86c776f1736510ad23f5f421bd0844dfc79544419a981ebd"
+hash = "edb1686db28f8b4c2de25050ba71f2ea0b60f46a813194aec85a7b4f029ae22d"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "1660cc0ba8745bef12c5cd62752c0541e953e0f316f9a38b908c1127c3f8886a"
+hash = "0ffa1ae79eec6ed36df6844342e3b05e6e34df7b8740f970800bfbe2216d4268"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "f2ebeccfcb0d48206a3aac3b95d8e98a16b666ea8ba5d1c25830cd26f9e03b90"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "dce15ae86e5f78194dc204ecc5307e75cc6f9bb55c36510ff3fea0ff89dfe384"
+hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "6e5a073b083315452dbced865465ce24d3bc9716d092678064ddabef8477caa2"
+hash = "3691df4eb2f27b1b9c457fdc1073179a3415aaa8b145ef83cb6e06e3377fce56"
 metafile = true
 
 [[files]]
