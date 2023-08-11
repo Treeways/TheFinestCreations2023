@@ -57,40 +57,1772 @@ file = "config/xaeropatreon.txt"
 hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
 
 [[files]]
-file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x).zip"
-hash = "8d0f635b39d3b0ec0812f0b3f222a63cc123728003e0e2bd452c7663d296a4f1"
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/advancements/crafting.json"
+hash = "d5afe334f6463fcc6a07624ed5c311e9f32e9fad3cc560ce719144130303352f"
 
 [[files]]
-file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x).zip"
-hash = "f69f15f51a816a703b8cddf36ee4ff35fcb9f8329e57519aa078d718307a9f7c"
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/advancements/enable.json"
+hash = "b83de50f5d36cf6cdf420e9d67da1111f2c6c0fd2731da13c09dbfacba16a58c"
 
 [[files]]
-file = "global_packs/required_data/block_rotator.zip"
-hash = "20fbc3256903d6a75794e5744b67a97e86c74465b579d4ab3fd2b723a384366a"
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/advancements/root.json"
+hash = "6932cfe668cbc5be30bf7e37d26118c661780301783b4e7b8d445d7da9837538"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/admin.mcfunction"
+hash = "52d47eabf86837f32d22ccc9e3e96c44b94425d32bd56a72be966e9180c7a809"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/admin/book_from_help_toggle.mcfunction"
+hash = "5948fb1bc3c6685dce947b0d3d0fea132faa76d353ec3c93673f0506de8ee0ab"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/admin/craft_book_toggle.mcfunction"
+hash = "adfaee42700b056fd4b5525cafb7854651a7b9ff83bc80a56d4643ea7240b3ab"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/admin/fixed_item_frame_toggle.mcfunction"
+hash = "7c92287fc655c06da9770e4641284151db0177f2e950a584076ee2dd93d29adb"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/admin/marker.mcfunction"
+hash = "94be62c6a0d079ed0143a0ce9016e5741dd21168aa7f095457f9648258f38e8f"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/admin/unused.mcfunction"
+hash = "275ddb698be3446e3d128cda657253030b16a89df91b29d1caf67e58361311fd"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/admin/uuid_lock_toggle.mcfunction"
+hash = "341ec139629af6e21d4dde4396f7bce7547446f8011d3febd35854f749680450"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/bugfix.mcfunction"
+hash = "e91e65c049cf7778688248883d4fb36cd4719c6aab45a7231a83ec0ddcc08dc6"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/craft_book.mcfunction"
+hash = "329c3c6ec28c538dfda87699b1382d5ccc7e6862eefa4b5973bb93f0524a5eec"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/enable.mcfunction"
+hash = "45cd26ba7e14eab5038c8056a7cb6872bc91b1ed65ee4c781ed175f8eaea00e4"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/give.mcfunction"
+hash = "0621c22759d28712547d923f80e38b06066d205920d15d5682919325e89cf612"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/help.mcfunction"
+hash = "a4a2eb6ddb62d05d15b5a3217cef24de7e450e994f7fe1306b2fce44d348ec29"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/help/chat_actionbar_toggle.mcfunction"
+hash = "a8446bd117d806301be4367e01d0015615ad2a1640b01b9b9284a08340d095de"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/help/credits.mcfunction"
+hash = "762e9cf8b2037232ca7117dfb754b319bd57e4b4d068ec93bfd426cd0b514e2b"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/help/get_book.mcfunction"
+hash = "11245731897fa586cff0f3d5ed06d1c71a8d667755d9b23e65c4bc433e9396e2"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/help/main.mcfunction"
+hash = "cbd97613a0f17ce06a26b4e159fd8a6cf46014165dde736452e9034ca57470a0"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/if_trigger.mcfunction"
+hash = "47067ab626ccb835c40ba82dab99bb8b78b10f5c2bf791b67fcaa6afb5f4d5ad"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/item_frames/fixed.mcfunction"
+hash = "5deab3a4f93e1ed3ecf8a08e2940464d6b8e15d224f6d866e9b7c7de35613915"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/item_frames/invisible.mcfunction"
+hash = "bd859664c308c39a01af4bd6376194219de4398a3568acd2726874ddbca389e9"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/item_frames/invisible_old.mcfunction"
+hash = "d560879920912c74198c622424de7c9828720c2413316aab4039ab1d2df053fc"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/item_frames/visible.mcfunction"
+hash = "86e748b5924d7139aa1cd317766310dbbe2351bd41b89eb5424ff2cfbb8f01c1"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/load.mcfunction"
+hash = "02838623a4c0cb4dd3aeee0cf86d0dc1952469adfb80b60de64ba56c00b12e30"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/locking/lock.mcfunction"
+hash = "bb6e6c437a0d9f68e1a794ccdfab12f4be7c290684019011f19dbfe82e0303f6"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/locking/lock_check.mcfunction"
+hash = "7581673802e23113e34215f4b3bca6999104c1a2e4a4efbffd49cf7cd08f0664"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/locking/unlock.mcfunction"
+hash = "e35863ec5db6d5760fa92dbb881b6565c437e9b405d31ccc72c707af5698c4ae"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/locking/uuid_check.mcfunction"
+hash = "826a2153c65ebc86a3016a5fdce17b1ba571bc510302b1bfbfb05af4433974f8"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/body.mcfunction"
+hash = "faa47c019810dc07437b999610f043fc03b2973c81d2ef51006cf28f3ca040e1"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/body_angle.mcfunction"
+hash = "d413959d994544d6c727096bb05eed4cdd9bda81bea28c17799e1e168e1ba476"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/head.mcfunction"
+hash = "5b9db21004cc179d2a9c5a552a578a133576276fd2f695a5d8938ab7fc1b8551"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/head_angle.mcfunction"
+hash = "f9db81bfc83f8f5fb70eca8212b0dc5d5e4e1aacf5a6a9fdc4e96ee677bf4de3"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/left_arm.mcfunction"
+hash = "985f71704ac6cf2c9a09c022d56c57d5883031ccf1790e8a27da8e8b1e529ac7"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/left_leg.mcfunction"
+hash = "3e896959a4377b7c41dd6bdc6a24c6aa42fd3effbf4a1a631daac6ab3342cab0"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/left_leg_angle.mcfunction"
+hash = "241954820c7b7cc5d1d4a57cb68d96f8e58e44f796e50472fe3efe711af632d3"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/right_arm.mcfunction"
+hash = "fb286daf6b4ae7d10ced4b34d2e32c7b7cf176fa6cd6091544ef5eb764944295"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/right_leg.mcfunction"
+hash = "16fe4da3b10325f2cea2218baf1e0ce5ee5c99373dfaafcc1f591a03104ed537"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/randomizer/right_leg_angle.mcfunction"
+hash = "3a0a7f0641d3370fd01f3625f2a6cd23b96e0ceb46962180c4ce1dc0e61bd06c"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/relative_position_aligned_nudge.mcfunction"
+hash = "ae28e659284a1cabff7075720b22425339ab20b1d3d8936ee3af0cb828974b73"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/relative_position_nudge.mcfunction"
+hash = "e9e5ab3614afbe58735165858fa8d3f86cc10da837045f6796a1b920fcfdfb9e"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/replace_book.mcfunction"
+hash = "fa4011a19c0028bf8f4ae8d426b7dab5830c41aca1efcedc579c25dedce277c3"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/sealing/seal.mcfunction"
+hash = "3712d79cfd3c1e62a472956b13a0e3bb5b141628b2edd56b86e7de53368d51c6"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/sealing/unseal.mcfunction"
+hash = "74bec6714f6848ec8dfff7e70b79c5657132272f207840cf24f1e61d5027e3e6"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/second.mcfunction"
+hash = "f9c726a57ecc05a263db370d99283ca63dfe5beb61c668e7b92e77f36f2eae9c"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/shrine/create.mcfunction"
+hash = "2ba55e96891653a324650d4c4f8366b70e9ff288608386bdbd231cfea8c734e2"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/shrine/main.mcfunction"
+hash = "9294791cb1b74c703327ef786e4f375f0da8baf340011239691058b2bdb4c764"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/shrine/remove.mcfunction"
+hash = "ead09973cecf2b0a94a3dbb669cf06e8edec97f064f3c82cf581c8ec78067573"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/storage_in.mcfunction"
+hash = "261faf2bd502a92df06f7255766cec9ae5e05b100f4904af2a5c333bb523dfad"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/storage_out.mcfunction"
+hash = "350127f14c358a6d2a4442c58e31435da53eda8a13745f222145b8171b04bb8c"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/tick.mcfunction"
+hash = "ae98348b5568aaf0f2043878d494c62270e2a1065f5dff3a12da4954ad3d4171"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger.mcfunction"
+hash = "66966785ff1faf454dd7ec4e4f7d8e59b9936a68799f087896f321c5b708799c"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/adjust.mcfunction"
+hash = "312a9501a2077b545dff5cc6af8eccb0324067ebd96c2c114e956b6e85579e4d"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/align.mcfunction"
+hash = "d250440c2f7f5add2a2955e84becae1d22a8f29bdfe8ae5d034abe23b58a408b"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/align_small.mcfunction"
+hash = "1a7fa5b67dc47aea41b0d3962c58d96b8f57ccf460c36c20f60a40f8682d9798"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/copy.mcfunction"
+hash = "8dc375c06789b7f9ee163bf3cc552b24923eeec3ad2c0af66e6edcb9c7fccda7"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/facing.mcfunction"
+hash = "a7c5a40c471f743aa5ff04a3754eca14b789353a545f5901738ff0bb49954b37"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/flip.mcfunction"
+hash = "ee702333144315efecbf9d175dabf74587ec07bf17dff80a57ca83f8b062e351"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/last_edit.mcfunction"
+hash = "06d2347bdb6a888ecc42abea3859a3d7156ffdf092480cf17a62f2fff2e8746e"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/lock.mcfunction"
+hash = "81572bb4265715d42bde3e6c42fef88df7dc48243ada67237a5be77b92334dd9"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/mirror.mcfunction"
+hash = "531a351a4aa3a3486155540a1ddc608a5efc59e8a6914a0dc3d79b26c637031d"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/paste.mcfunction"
+hash = "3a43f873a54be8eca87570998a2cb2f361830fb170e6841996d2e9227d59c46f"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/pointing.mcfunction"
+hash = "4ea9293652a72d525dbc42419a729d76009aa0e2c77045ba16bbeaf46da907de"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/pointing_small.mcfunction"
+hash = "f5093a30e6c5cc44cc0b772bd9a4d717209e949faffe93ca15c1952ba14e294b"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/position.mcfunction"
+hash = "77e94ada4d28aedf8296014ccac6bab021ee93e2becceea0f8a3d95f3a6d3af5"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/position_relative.mcfunction"
+hash = "29ac215b2ff5eb379296ba97ed24d19df106becda1f062ccb9ca0f3fa72045e7"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/presets.mcfunction"
+hash = "a773168dddecbb268c31abf0c52a39930efe75693be121ceafcb6deb7514c5e1"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/rack.mcfunction"
+hash = "78d6ab10d9e922da3a36b85b61ff364f34a26ffc6ae0a607e72bafb6d7831108"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/rack_small.mcfunction"
+hash = "50e52b9b2e712625410e7a5cb7b76ff06a7f67dcf817f3c99fad9a526a3f676d"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/random_pose.mcfunction"
+hash = "87166d0727264c821d59fa746af820cbb88a98824ae2dcca530ffec9bf6df072"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/rotation.mcfunction"
+hash = "bc600a0c299b72c258a9e4515bc6e40e525357db3618653a3724ae559bda1967"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/settings.mcfunction"
+hash = "c566cc08ccee5c447fff3c30246c175b4f64f8d095edb1c59933d1d0147492ea"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/trigger/slots.mcfunction"
+hash = "0f45129ccaa01f38af777a18291ccc548a24b513c77866cd8e9b11ca336865c2"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/functions/uninstall.mcfunction"
+hash = "c66b72075f8b142e5ec0920c8034cce96d53ab3d8f71046dcc5a044c0832b200"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/loot_tables/book.json"
+hash = "910673d820ec47e6f9fda16ebf9f909fe799da4c5e0e1a27d7043eb5b1641155"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/loot_tables/book.txt"
+hash = "8c0a9c9355393dfa28273b38429a5ab1491795546c5b5f8c2279ca32a3254a84"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/loot_tables/random_pose.json"
+hash = "86c6bd8970d2fe84d1449143bae1b916ef1677d2877f72f9b699bac041675807"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/loot_tables/replace.json"
+hash = "f3548ebde76c2017f6d42b055b100612ba5ece6296ea163d19381aecabb97235"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/book.json"
+hash = "b0cdb7bdbb9551ea3f840f257419efda16f413b0c0c0946538984d942488ca0a"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/bothhands.json"
+hash = "694486187807a338e2a0f1ec796b8f8a01390b9436a75ef40bb464564747c213"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/mainhand_potion.json"
+hash = "0f847d3821c598e34f2b313b14eebaa79fa161b4697c3d7edf7bb88ea41c0147"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/offhand_potion.json"
+hash = "d62f60b7341fb59d10a152e98a9ba5c474895397e4df8e4b221152f1e9473157"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/random_chance_10.json"
+hash = "fd694f813b2d6f48690c8b76c486f3ebedcb571932cc19dd3e164c64a93e4445"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/random_chance_15.json"
+hash = "fd694f813b2d6f48690c8b76c486f3ebedcb571932cc19dd3e164c64a93e4445"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/random_chance_20.json"
+hash = "3115db8a34fad663c4bca597577549ce000772275e5193cea1f1ce5fd36ee922"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/random_chance_30.json"
+hash = "fcba3ec5d8a30b7a870a28aa91df278ca49d8124c7494bdbde36f814752d6432"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/random_chance_40.json"
+hash = "3e7f9984ee80d67fd7e7ae2e148ec08df51f5f7359f71296017cce8d02200484"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/random_chance_50.json"
+hash = "1911ece8598995c970ae19cf1789a69341915eba0e2cadf132ff61835af6be4f"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/random_chance_70.json"
+hash = "f69e074ee2d5156cc808c5f287cb2b9b26077646aa611009222a86620c51949c"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/random_chance_85.json"
+hash = "d92529292bf9a2d1ae6de3d0513ed4a682ba3b44e8bf478594ebd1f6fba9e939"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/savedpose.json"
+hash = "2e253fd47999b932c5b2eac8a692a388e274a93593bb81490e9e1ef028777732"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/savedpose_mainhand.json"
+hash = "4dd5772fd587f917b88aec0bba8dd0e701467cbf25ef36017626b3f13aa0845b"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/predicates/savedpose_offhand.json"
+hash = "89a0bd4d2cadc0c822c3e68f3f2daced6c1740580c1d0d08453c31e77c7928cf"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/armor_statues/tags/items/potions.json"
+hash = "933bf893c7f5eb670f52ede4c81c1bc467591006f65c9739b46ea9ccff502bce"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/minecraft/tags/functions/load.json"
+hash = "80f6761ddd322b627bb0937b8046642ec4b94282dfff753caa6a1223de2f8c51"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/vanillatweaks/advancements/armor_statues.json"
+hash = "cd75297734ecf22a718b90919d9458fdc1e350ee6a0929b29583e6126cf1e9a1"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/data/vanillatweaks/tags/functions/uninstall.json"
+hash = "4c5fd152c793e381aab2d6034335645dfda36ec07ebd83d29e2a4b335590df08"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/pack.mcmeta"
+hash = "29da6a023d5b04c6cefb8bafb0cfb144ac94a1e10cc24e731c7d7bcefa9cdc54"
+
+[[files]]
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x)/pack.png"
+hash = "f447e7687d0daf2be6e285fb06f644c0be5af21dc35b3f9163717b66e414760b"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/bat_membranes/functions/load.mcfunction"
+hash = "b602e4ebe0648a2c4842dce5fc9bb4a6f9411d7f73332e28da61155f4dccf1cd"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/bat_membranes/functions/uninstall.mcfunction"
+hash = "e8b5c139c942ce4eaa5cd77b65d8f7a4ce8869856c8d698d8619a64340c096c5"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/minecraft/loot_tables/entities/bat.json"
+hash = "35af16953c6eb43ed820a95466b5a22bbaa298dfff059051f642d24d361a3d50"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/minecraft/loot_tables/entities/reference/extra/bat.json"
+hash = "7663aeb1cf49dd599c8cd719554dcd9a4db817aebd01fbe45a4155692eb82112"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/minecraft/tags/functions/load.json"
+hash = "06501fe4a3ce4e77e867ab771fd7875b0e671ccda9769d6d8ccfca0b8235ba67"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/vanilla/loot_tables/entities/bat.json"
+hash = "fb37b3c343aba8c731ed6276c6d4d9e8b9200b52405582b9f5f517bc5efa18af"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/vanilla/loot_tables/entities/phantom.json"
+hash = "d451588ddce04a5c514b5fdb8e689590b5ff6c3e8f964d3d4bc111c5617c66cd"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/vanillatweaks/advancements/bat_membranes.json"
+hash = "407c43b537c58aa6daaf5cb310ee83a3005ef8db4bb9d59f58e7f9edf508d35b"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/data/vanillatweaks/tags/functions/uninstall.json"
+hash = "8671727b8398e44db5977cd0c9d046c77bfa39acc9648c5dfa19cd25466883df"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/pack.mcmeta"
+hash = "bba8f6f273ad271c7f0feb8854f751f67688f239f2bbd1d7ec641c36c70b45e9"
+
+[[files]]
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x)/pack.png"
+hash = "ce69343f3c17c590d6ad980377cfbc3547c013279934a245ba7cb57259103a77"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/minecraft/tags/functions/load.json"
+hash = "969498f66091db6c9f36d715379c68800cd9c82b3135ce30469128a1efad581d"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/minecraft/tags/functions/tick.json"
+hash = "f1757eae4dd6f50cce616b773d846fb5b5f679365249287d3bb5d35ff159a721"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/load.mcfunction"
+hash = "72e29825cce0c061bd85aba8f96f2299701ce43be75f9ffbf23c1e2973b10077"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/main.mcfunction"
+hash = "46527e8701deab0927b9029a7cd2aa196c710ec0f6c667d3a0a040127e789774"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/cycle.mcfunction"
+hash = "1e4cbfa228ab406961b6201a3d915eb4d4b962d4c6e5a55ba73e60fa374f5cff"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/partialbox.mcfunction"
+hash = "dfecd97a4705b7e60fe57b5bb322dba07c290ef09a44c564a26c6a56169e6515"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/partialbox/end_rods.mcfunction"
+hash = "7b2a68f119a397e724fb3cc94efe47f0a1ed278062d9fd532c70103d041aa63c"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/partialbox/hoppers.mcfunction"
+hash = "e15640d414524befa39f908edabd8091dde9f0a0952fc311d94edd371fa977b7"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/partialbox/pistons.mcfunction"
+hash = "2d096a2667316e5f0d2fbf3ccaa729bb56b43f6c615a0084d88a8eb97078f638"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/partialbox/rails.mcfunction"
+hash = "3c6efa043ad24466e9ad78cb6f85e63f167c7f156e5ebdc1534d00c75e7f5254"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/partialbox/slabs.mcfunction"
+hash = "059a10292fd3884671224a88673d08bca7d7611786cc1976ad2b10600ef06bcc"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/partialbox/stairs.mcfunction"
+hash = "bca7854109a4020eabdfa73774ae172101d1fce51e26632943846bac5775da36"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/partialbox/sticky_pistons.mcfunction"
+hash = "d9039e15afc83c57a5b1913af113d1f7b992cce91686c32de8aee6153bb30750"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/raycast/start.mcfunction"
+hash = "969270640cb4342f5f9d6b51801165670560c35c3425dbdcde084702be0b35d8"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate.mcfunction"
+hash = "25cab550760fd9f6e15ea3b93ae9a0a4885ff7d24464acedc96949dd6c136740"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/end_rod_flip.mcfunction"
+hash = "8bc0fdbac9b5e91171ae774c381b560c5c3e93ad60a21459b37230b1e4f8ae68"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/extended_piston.mcfunction"
+hash = "9c59a9f41a64e3aaef63a49d0e09dcf05123b39a1c3c6ef127a80f2591f99ecb"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/glazed_terracotta.mcfunction"
+hash = "c02c75719f1cbfa765abddbb9f2039a3aa4634746fdcc4a1194430a432f03cec"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/glazed_terracotta_cycle.mcfunction"
+hash = "102d2f51656e4c2cdf65f2487b20268a9500c2ed6dd36bf3216ca34084adbe17"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/glazed_terracotta_mode.mcfunction"
+hash = "0c84e6f8b791881c0c738449c3d843fb49a048cd63beb6aaf15aeab44d48bf41"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/pillars.mcfunction"
+hash = "d7775158e4778e6d753bfa0f4e2c0365ccaf12acac6af72bda40773e106f4be7"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/pillars_click.mcfunction"
+hash = "d056c65b31674babe91e2f0a52523d8aec21916912e05da231c7acdd71f9555b"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/pillars_cycle.mcfunction"
+hash = "69cadd959c8ccde76e0398cb6ac578a9a888712a909c9c93ee1c50b9791915d5"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/pillars_player.mcfunction"
+hash = "847f851c73e0527c9606b78224f3bf6e44339d919ab734eafc7842aec6f47b70"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/rails.mcfunction"
+hash = "fbb958fba2362b617557368950ea5a34fac419759594010d6cadef58e6b1e371"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/rails_cycle.mcfunction"
+hash = "cca9e9babf53a40188cbdc234b618764b59323520e0f9afd132352bb439a17e4"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/rails_player.mcfunction"
+hash = "085b5d7faaf8f67ba9a9864d6bf805156ffad21e5e949c2c6fa5e7563c170499"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/redstone.mcfunction"
+hash = "04896fd1fcc322e0b406b310a05139c89dbfd722dfe0945f0841a52629db0bc4"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/redstone_click.mcfunction"
+hash = "4fb2387f0a19fb3847f48ca46b688d4eafcccbb0245a4f4cecbb87a3b0ad593d"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/redstone_cycle.mcfunction"
+hash = "0dc0b4a0d52a53ec0166032741cb747cea09f8b05893a341c17f62c50af18527"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/redstone_flip.mcfunction"
+hash = "c5ebaa6174081bf69cd917998d970d5ac858a473f8018381ddc4e688552cfeef"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/rotate/redstone_player.mcfunction"
+hash = "d633695daf467a1f857869ee0b7efd624d0a3bd2b87688bb9986f1ffcab8c011"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/use.mcfunction"
+hash = "291fe0b80ea922826dc0dcb55da060e1e21fd1fb1cac447816efba5b3420d9b8"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/wrench/convert.mcfunction"
+hash = "d14b63cddf1612242f5534050d0563f6af74bf4044c5e33c34d9efad74d6e487"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/wrench/give.mcfunction"
+hash = "05f5e27292102472a99dc636f884a35fb3144d5f911db25b8d78ca384e5ead85"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/wrench/offhand.mcfunction"
+hash = "e1c7c5ad6b64566d761ebc54e54cb2876509d07406b477fd30fef9edd803de94"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/functions/wrench/terracotta.mcfunction"
+hash = "c6c088c3e6da12d385c751863ea3bab7af7aac5d1eedb4335fbb872b5be7c929"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/tags/blocks/glazed_terracotta.json"
+hash = "2eca9d5b5362915aaf9bd599d8bac9644ef16edb94faf9f0ae387d3101938100"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/tags/blocks/notarget.json"
+hash = "e70aec130f63d85167c5530e5ad02bf9f935996d25986a2e3728f9d683e53a1b"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/tags/blocks/partialbox.json"
+hash = "1266c277b2e2dd21ac4434eaec4027be03be4ffb6a0a4887cf8e1867e69192a3"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/tags/blocks/pillars.json"
+hash = "be315b6b9cda2d72d8247928583db5beb08ea43a7ffb3389e70b8cdb12590d35"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/tags/blocks/piston_arm.json"
+hash = "ef0b140e5226cc5776d71c8da852ad184cef8cbefc935fb9a5d07bcd41cfe62f"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/tags/blocks/redstone.json"
+hash = "fa702764a89c9469df536eace04b3f3d08b9734420e92da1afdb88c75f88189e"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/data/rotator/tags/blocks/updates.json"
+hash = "455038d1d55ef3a1ce6a2ccc7ddf70beeee29f56fcfa0bdce9664824fc259b09"
+
+[[files]]
+file = "global_packs/required_data/block_rotator/pack.mcmeta"
+hash = "218b50f039dfb0e845a569a0e3b1fa1aeed4dd1b8f0de6c958ced52379a68d04"
 
 [[files]]
 file = "global_packs/required_data/credits.txt"
 hash = "d5a7a49635f98f1ca494af34aa0953b6318e70641fffba9a9fe1e14860343f04"
 
 [[files]]
-file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x).zip"
-hash = "0f38b2765061ab02a9c8afce522736c3d3d8304ceeff4c32d5ec7d74f218da0a"
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/advancements/use_ignition.json"
+hash = "16bf925b3cf7ab6f64ab1b8d99032c1e9711a54e5e6a856ed1cbb6ab9530a762"
 
 [[files]]
-file = "global_packs/required_data/double_shulker_shells_v1.3.4_(MC_1.20.x).zip"
-hash = "4d7d97097e105b41e18deb6346e7557c11331e13525d0ae76d2e85792200bc9b"
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/check_x.mcfunction"
+hash = "2d92f3973aef129668bb21cbb911be8d5385519b9935f02fb48de96cea8f24df"
 
 [[files]]
-file = "global_packs/required_data/dragon_drops_v1.3.4_(MC_1.20.x).zip"
-hash = "a293bee51db832e4af9e6a51c4f983307b1222667b025a2a0d3007be0241b6db"
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/check_x_diagonal.mcfunction"
+hash = "2831791b1dcedc7e8cbc7e2cb88d06c94089c70db12bcb9208691cc67398752f"
 
 [[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x).zip"
-hash = "33eb4b0e51f4e3e1f06f2af3d81d0a93144aa10f08bd3c1e720bfcbe14bd1ff0"
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/check_x_sides.mcfunction"
+hash = "9f357b0aeca53752ca9c5bd66a9d63415ee22c05e52d7a47c86ea7ff7d4636c2"
 
 [[files]]
-file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x).zip"
-hash = "bbd54fdc8cde1f57ce07a111a0008703f7a7fd4047047a5705b02573656ca561"
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/check_z.mcfunction"
+hash = "f58cb1be25738c49ac01fdf8dcc9ebbffb7ffb9165bc1bf57ba7895282580204"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/check_z_diagonal.mcfunction"
+hash = "02d9b2de23996b8e74247ccd9f58dd7c46d948cecabb0e69f90be0762ab9dcbb"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/check_z_sides.mcfunction"
+hash = "0706b736419b4b46bf052f2875ef7e50676a559027d467ca7aaebbb29e8dac98"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/config.mcfunction"
+hash = "fc1b1c5819b9c2cdf30d5715d42af69548b0a42772a6b700a10b721f14512e67"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/config/disable_crying_obsidian.mcfunction"
+hash = "34079d0475c8a7ac99e6039c2169fa8cbb9da4a16d29ef684dc9815a41982ae9"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/config/disable_non_rectangular.mcfunction"
+hash = "1d6d3ef6de23fa3a34846afef149384e468ba6e752c6fc8fe9c8273c6a0992b9"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/config/enable_crying_obsidian.mcfunction"
+hash = "876e6981d1e524e1d9680f6c0b93dbe86d4c763a9f1e8c091a2c68e5f8645046"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/config/enable_non_rectangular.mcfunction"
+hash = "9214c829436f51406999f245b0214311c2f282f2005f0c36b9225b4eb560ceff"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/continue_x.mcfunction"
+hash = "aed49cf74f6e4ce47abae905cfa79f8e7e9ca4147dcef446a3bf31090cca1a7c"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/continue_z.mcfunction"
+hash = "4d159d39a31e2618b36a63b00d14b9f44a891678b424a2aa233ade4a12df2039"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/create_portal_x.mcfunction"
+hash = "d14236a9e063b8e405697977c598006a4a72efa1acf0036dd473a339eb6c30ca"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/enable_trigger.mcfunction"
+hash = "e8867bd3ba0a903c26351bcb537811333bcaee4a46922622d5c58293f32aedb5"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/hide_command_feedback.mcfunction"
+hash = "e75777717b91d7856a11e5a28b1c6f449c508e38682bc16374d1dc02b9786640"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/ignite.mcfunction"
+hash = "a6ee9ecdb7644604f83d1bb0691a1898282c1ab7a32742c2065769a1637383c8"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/iterate_x.mcfunction"
+hash = "cd709c71ff14a8432955d838b9027ba43425681b7cde3d1aea8150ea2f3fac83"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/iterate_z.mcfunction"
+hash = "e914f29c504eb5df23152503fd18bd805e61edc82643e1a247017f458cf9434d"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/load.mcfunction"
+hash = "739236258d7b4f01c474db1c2fd34691e0e34a45999cce733255f6719cb981c0"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/raycast.mcfunction"
+hash = "c1197d5cc573d0f60f0b2013f1e6964db79f3239e93434fb13cb5fa9e1165a56"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/restore_command_feedback.mcfunction"
+hash = "900a876633ee1bc19621dac1d8b5532eb0d19e4c23633920e12bf9c821e4928f"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/trigger.mcfunction"
+hash = "1feebd43a8d9f2c8bc8a8b1573cbec8878da97a4809440af596f38aa29d418fa"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/try_to_iterate_x.mcfunction"
+hash = "a6148857baf76caca506aa47ac248cb1e38339c61862257304bb4f6e6b3d099e"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/try_to_iterate_z.mcfunction"
+hash = "cae76d597991ad85f22354f37ec09d026262d5ee6e6a2c0b29dda45996ae0c7a"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/try_to_trigger.mcfunction"
+hash = "da5bbe1045a843cfa452b0f520d9b485966dc2aa05e473583d63cfacacd637a1"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/try_z.mcfunction"
+hash = "312b5970785fb6a87da1ea9c1b8c5dd0eef5f7b1504ee69b99d435cfa3bf468a"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/uninstall.mcfunction"
+hash = "c1966dd4a4cc847cd128f2c6e61938be43dacdc9e4b83b2c8c0ebf972dc087e4"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/functions/use_ignition.mcfunction"
+hash = "126594fe36b309f6e24f80be21011606f0b4a5877aa9c01897bb26e992c39da1"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/predicates/valid.json"
+hash = "ba77a4dd7557cfcba1ae5de9a4932422592b753ee4b5c11818fdcfe5a21f5082"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/tags/blocks/air.json"
+hash = "1c4a6024446fe22b8eea94b37e1009facd5881930a1cde705f9835a9679e8be3"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/tags/blocks/obsidian.json"
+hash = "49ef1e7d789cf8297d0d04df1670a53fac5941ac31388ef27a3ce8eea3a8234e"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/tags/items/ignition.json"
+hash = "7907dad9386d0cb659afcfb0915fe7b4f2271673a804ab94e4b0f7303f10d267"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/minecraft/tags/functions/load.json"
+hash = "423d71a738bb972c13b0fbccf88acc6d3762306a878da814a595e128008df006"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/vanillatweaks/advancements/custom_nether_portals.json"
+hash = "a64030ee7d52003de5aa9045d4bac9b874b7e93276fbe74ab93540c21a4424aa"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/vanillatweaks/tags/functions/uninstall.json"
+hash = "720cd014a5e2c763629b6d4fe6f7287d568d6f47227b9871ab0ea4198e114443"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/pack.mcmeta"
+hash = "1be029b2cd0cda1a0055e5866f35529a88329e3a484964239dfa59ef2c71c5ae"
+
+[[files]]
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/pack.png"
+hash = "38190295a011d23c7a60175bdee70a10e5d634cb62679a7c2131a1486cdf21a7"
+
+[[files]]
+file = "global_packs/required_data/double_shulker_shells_v1.3.4_(MC_1.20.x)/data/minecraft/loot_tables/entities/reference/extra/shulker.json"
+hash = "ea7647c74e9c4e7a7371f44767873054594c21ccb14627ecb0495a111cc11141"
+
+[[files]]
+file = "global_packs/required_data/double_shulker_shells_v1.3.4_(MC_1.20.x)/data/minecraft/loot_tables/entities/shulker.json"
+hash = "edd754da9a22c07ffb54b93deabda1bbcebd4fc0f41fb908ce26917f96bf161b"
+
+[[files]]
+file = "global_packs/required_data/double_shulker_shells_v1.3.4_(MC_1.20.x)/data/vanilla/loot_tables/entities/shulker.json"
+hash = "59828aa45408a0f3f764897e25dfc18f80284eabd9f23e3af0692c23ab869140"
+
+[[files]]
+file = "global_packs/required_data/double_shulker_shells_v1.3.4_(MC_1.20.x)/data/vanillatweaks/advancements/double_shulker_shells.json"
+hash = "2580910679b991c91b143e9b1ed563fae4d167b8c04d3212f7482bcfd59f2fbd"
+
+[[files]]
+file = "global_packs/required_data/double_shulker_shells_v1.3.4_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/double_shulker_shells_v1.3.4_(MC_1.20.x)/pack.mcmeta"
+hash = "38e29b3dd1238269d47fbc293f1934b1caa2fd050579c8a8d62fafe0018a3bd9"
+
+[[files]]
+file = "global_packs/required_data/double_shulker_shells_v1.3.4_(MC_1.20.x)/pack.png"
+hash = "c624c432d135bdf16a04e53cde761b417c0f31f681b9a280fa445d0f4684fc72"
+
+[[files]]
+file = "global_packs/required_data/dragon_drops_v1.3.4_(MC_1.20.x)/data/minecraft/loot_tables/entities/ender_dragon.json"
+hash = "2aa42fbef439160a54e47034c86ed95a8cee12c941ee4dbdd265c87908aece0a"
+
+[[files]]
+file = "global_packs/required_data/dragon_drops_v1.3.4_(MC_1.20.x)/data/minecraft/loot_tables/entities/reference/extra/ender_dragon.json"
+hash = "d74bb72b1412005da35f52267814e9c79f0b30f0401638c7bfb236aa2fe5561e"
+
+[[files]]
+file = "global_packs/required_data/dragon_drops_v1.3.4_(MC_1.20.x)/data/vanillatweaks/advancements/dragon_drops.json"
+hash = "5c6cd2b2c725634ee90706713eb9db931777467120c05b217968a7dbd13a86a4"
+
+[[files]]
+file = "global_packs/required_data/dragon_drops_v1.3.4_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/dragon_drops_v1.3.4_(MC_1.20.x)/pack.mcmeta"
+hash = "eb63ee494d983a21752a8e99b9dd59ddc31a2ff809a07e15fb7076f83b93f239"
+
+[[files]]
+file = "global_packs/required_data/dragon_drops_v1.3.4_(MC_1.20.x)/pack.png"
+hash = "e89669add1dae863e0ee58f9b42ae3a0677f7d1e1391e99c8222ad6c308cdebf"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check.mcfunction"
+hash = "579d0c9928528cecaa65ba5ceca74bad2f70a57ed0c4546d8d2b08da74c65805"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/0.mcfunction"
+hash = "b8f33e102e845150afe87503104ecd9fbf0e1961c41febb039f7fcb749461fad"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/1.mcfunction"
+hash = "82ce601494f596ff63e4ab7f3d60b05c47eeef84cdfdf4126a49b8ecf6059613"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/2.mcfunction"
+hash = "39c39d8c4ad9a20e048c2a2fa0ca637290edd1db36195cd0bb5370a4d2ac32d7"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/3.mcfunction"
+hash = "71464d79611c2b6add2bb6f948bdae99046101206df64109000fc5537f67a890"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/4.mcfunction"
+hash = "3a6621de5b99efb1cd1c6ac00d3e576c715e0651a9e73a0bf380116fbc666045"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/5.mcfunction"
+hash = "7a1aa976ef06771026f4c7bf1da48d3e432ed21c84753b2f4e78acda43984d7d"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_marker.mcfunction"
+hash = "dcdab059c97ef608970ed812867c828b61461aeeac888e22d7fedb2b7144b63a"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/create_front_marker.mcfunction"
+hash = "5ce46cfdc4fc4b0b93d4042f9d7b975209fd6648fab6716b493a8c7d65f54f74"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/decay.mcfunction"
+hash = "0791aa657b832e45850e6f228ef04747f000c44273f2fd6b5f7be7502dff0caf"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/destroy_marker.mcfunction"
+hash = "8d594c1d4de8d7cdf84c6dfe6f9581ef88709d6a2a0e7ac35a716e5fbb0874ad"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/iterate.mcfunction"
+hash = "91ad2629ab457fcd0df46f603499cc8d19a3f209009e49386983ae55071fdb72"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/load.mcfunction"
+hash = "2729c03baa62fd02580ec53b1958e244ae6b48645087c2e908a7b3e7384452aa"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/raycast.mcfunction"
+hash = "bf9a95c848d5170a147589d27eabcdd3dfb397b808ae80f923870d64a9877f8f"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/reset_marker.mcfunction"
+hash = "29703620752ea1c24c0e1313a804f58dfbf42bd6f0b73608bf851ea0ec9ed53f"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/start_raycasting.mcfunction"
+hash = "aba5ff43ba24dcae382809c1e0b4c1cdba61420300b6d923ad7d64cb2af07b73"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick.mcfunction"
+hash = "6b292060ec298542a1f20bd5b7f82a23b93a0644aa98ab0d0e45600946b48d2b"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick_distant_marker.mcfunction"
+hash = "4480d75d486f3574d933b6cd2034f85966816cd1f8a52b93ff53b1312ed33cf1"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick_front_marker.mcfunction"
+hash = "ab49662a0a181a0219701ce1506e2bd549de041d24be341a5f29b818f49bde00"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick_marker.mcfunction"
+hash = "41706f5b60e54509f2392d5cc2ed3ab1e808fd8e9348a82b234a870ad27c9019"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick_marker_in_leaves.mcfunction"
+hash = "c319ef3403888599486da98f77c84a270fd9927a53fbbec5aa601fe316c55c18"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/try_to_create_markers.mcfunction"
+hash = "c95108fc366731f6bfbd5fa6fe6d9719a57947a4a9bcc8408fc009c1d679a2f2"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/uninstall.mcfunction"
+hash = "b296276e1397a6bcc2a8e4f268ea99b61a113aabb2a33fcbee0b757bab215cf6"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/0.json"
+hash = "57db3f4ede98d4bc6ccf626c33479d295c8212e6ecebc9469084257fcbb7dc80"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/1.json"
+hash = "763ccee7341a26908cae06de4edd24c5c66d3ff78b87ec3b93726f78767c8fdd"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/2.json"
+hash = "20cf8f6f5fb7cf455daeff19106ff805d4b7d0e60f1f6751bd12228433ff4253"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/3.json"
+hash = "a98f9213d53e3c3f5d62001828110457acee5a5725ad0d7e5f092b2f46a80851"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/4.json"
+hash = "1b81978cb6868d8bdad49f53c50cc22d25ee1c56a20d151fcb122c2e002b9a4f"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/should_decay.json"
+hash = "93bc8e779c06fdc79f6f68339fef8cf312de5b15717e2ee70d95ebc5479e684e"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/should_start_raycasting.json"
+hash = "041f5b48076088df1d2e3e6824e1984610531ccbb3bdf712fdaa3febe9e75c72"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/minecraft/tags/functions/load.json"
+hash = "5c7e9f0db8b0686bd2e40a6e8d60dc5494031ff2143ff86fb45d6e78b07b876e"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/timber/tags/functions/api/break_log.json"
+hash = "ddb129bbdadef518a7dae3d1f7cfa9204c3bc7b3dee9c233d24699ab70c961a7"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/vanillatweaks/advancements/fast_leaf_decay.json"
+hash = "ea2b706d9930468bd7b41bae47e2e37d095e0b646b34d5d4ae20d0dd1968ce68"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/vanillatweaks/tags/functions/uninstall.json"
+hash = "7267193d181f61d0dead3193b41b0e2ef2591048fa3e9b1f166ac75071da9ca7"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/pack.mcmeta"
+hash = "1eff778d1570a17d04989f7731c861ce64eff9f15db7e9360f7088d3e6b39a1d"
+
+[[files]]
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/pack.png"
+hash = "d8eea9b9f71c409b3fd7c8347c124d4e443e9c52a139723dc0e7c639fa773019"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/allay.json"
+hash = "783be9f94b45f9921a701757a369165b5fcc722678643c3d8de4633ce2e9b2a5"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/axolotl.json"
+hash = "282cca159616d68188a6c4514a794a3b507f25ad8e27c71c6d68ecd475659120"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/bat.json"
+hash = "35af16953c6eb43ed820a95466b5a22bbaa298dfff059051f642d24d361a3d50"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/bee.json"
+hash = "2150299eac9676038c1d74a196b68b880fde84c5a905b02a6cbb87487968b40f"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/blaze.json"
+hash = "f86e12004738189891027f7c3066027fd092e1e9a0f7edeed85884ede63171c4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/camel.json"
+hash = "8aae826ef41325b3b7dc3973c30cba702cc15525362a04bb00af655f537fdaf0"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/cat.json"
+hash = "7ee93b831930fe4bc3542c42e7f89009035d4c405adb97fdf1713b3a8b02942d"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/cave_spider.json"
+hash = "969b49c677f05b2bc109c9f9b81c8ef2db5efdb5b778adaa27041e30f86e15ad"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/chicken.json"
+hash = "1f281c8b068c4c371d6f9275efa4308e4d6d31155f505e122204c8bd31c8b731"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/cod.json"
+hash = "4f38e0c22fdf389ff393b280cab0d18c1c76dee9cdbb27cce4f9048b7f1b909a"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/cow.json"
+hash = "d80a7575116304169bba1d4a20cf28c512b42d5b896c6c59e190a9da97330d28"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/creeper.json"
+hash = "3b8f2e507204e98d5cbd8562e23f9f562ee621c457d5e51b7f18a4f46624744c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/dolphin.json"
+hash = "be4e5080dd7040fca84fbf25dfc75d66ef5101164d9466f26acbae38359bd209"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/donkey.json"
+hash = "29a9c42b38b5413831fd6724a11227385755b3cf9b37ea8588376250030031eb"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/drowned.json"
+hash = "2fed5ed542dc373babee7cd03a2ec20d0cdeb313af16acef75e544b9899bae9a"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/elder_guardian.json"
+hash = "eeecf9442823d0c6bb4d6e07eebc14fa39c59abbeda65043c045cff71ec6ae50"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/ender_dragon.json"
+hash = "a716d95125b7eadbb46d69912003b317f81b5f701d82743fec9fe1bdb74413a4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/enderman.json"
+hash = "9e63d178941817dbca07bcb91b0bba52d90adefdcba260ec605341793c6e4d93"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/endermite.json"
+hash = "86e5331aa5072377c548f92b4f03d520874ac6ff04dd791c236ae826826db480"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/evoker.json"
+hash = "bed2287fac472817c4213050b29295802b73128d2864cc8bd0697a0673d89b5c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/fox.json"
+hash = "52ce86bd059076aa2176c0b6764a1f1a36d7a3d6d3d90d6f4aa530546f8a1ee6"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/frog.json"
+hash = "fe37b1aa8294490ed72c6ae40c59eb60ecbfd3f0cbecdb8dfee1c10d9a071298"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/ghast.json"
+hash = "800675283988fd8d4bcc24721103362748c38a264c34c4da57c0f1a477872eb4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/glow_squid.json"
+hash = "5dd531c1a2ae82a033baf8742d1bbdc7ef52d2ca5b0b9ceb9570f79873be94a7"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/goat.json"
+hash = "9871a6e1751c1a832960c1cd9ca1605eec63ae527c4bc7260f429342a6cd7a4c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/guardian.json"
+hash = "c525a515665b25f5760008a5c40c53b55e13070dc48122efb695ee3e6e3a6c0f"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/hoglin.json"
+hash = "1a5de37ba3dc6afd49a388e0d571af716d13bd4be9ac5c26440a869911615321"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/horse.json"
+hash = "f59ee7553e4eefc7ee4df24897e735fc984912ebf298ddb8d5e3a24f50beb4b8"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/husk.json"
+hash = "2e729c754cc5bf42f1de843af07a89e9907fec1cbfd4508f2f9e8b3cd2a8a72d"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/illusioner.json"
+hash = "848600f63278947b35bc4d030769bc182cbf088bbb231301de57391449c0bb59"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/iron_golem.json"
+hash = "74e83caf8fe46a6bf03e529cc79dcb16388bd67b801d646516809c5a6666c4de"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/llama.json"
+hash = "25c84fe5d85ecb6e571e2281fd1f7d8677d4f404613165f39200c0849dda441c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/magma_cube.json"
+hash = "11aee8a4306de25f2a43f62fd19b2d72e2e68b38b75a147ae3c5c5785ef1bb89"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/mooshroom.json"
+hash = "89ac4829421e53337d46eb022733783649e637f941414fbb7b221d84720e56ca"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/mule.json"
+hash = "efb5171c5ee7d382c7a9a51ba0c60f2529f545c0b7ed0e69e4dec6a4de6d2d81"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/ocelot.json"
+hash = "f59876a68c3c8bdbbcb9bb5a9dcd9d058cd260a37c4fb1bc2d7262fce1aa92af"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/panda.json"
+hash = "b9b96408252232e17a0b75c1aa6da507b624ce2e5af38392ef1626e70e352322"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/parrot.json"
+hash = "7835672a7431f5455a5305e78f8bcb30799e4b4bff9dec1804a555b2f0707eb7"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/phantom.json"
+hash = "fd8b375331e512364f2140f30d2d3d968046ac13e152c787916706ef80f62242"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/pig.json"
+hash = "9c782ed1ad6ad294068bbb106c5ec994ac6aa8dd3addf0021ba960d094e16b31"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/piglin_brute.json"
+hash = "04bdb6bceb40a34413832eebcd86314ce1cf7712da6ea12f0bded46d0eed4604"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/pillager.json"
+hash = "1f8769ddcdcf90877229076c0eeba812f5a12ba4326b89f7d6338ddd26f58467"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/polar_bear.json"
+hash = "0207c91d31826d4d0528428ca5af17de882b6ccf06f868c2092d132d9927580c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/pufferfish.json"
+hash = "d70fa448351505aea4077309b57cf27daa89661129fa5de42b0005997dee1035"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/rabbit.json"
+hash = "3bac5c22d42c3ddab7cab33a21952d94c7710b911a7182c92aea7f30a1a7fe8c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/ravager.json"
+hash = "9c23726bf44a9c2a7776d8e07ed6f748fdbd4a8870ca3a14d6b6df8160b65bdc"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/reference/mmh/bat.json"
+hash = "0b11e7d30000867289bb90c36d537d91e1048a9e1d6a4f03c58c9a96e03f88e4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/reference/mmh/ender_dragon.json"
+hash = "bdc541ada87fc24f9570026f52405428216694c15ca2dd43e5bbc28037600a17"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/reference/mmh/shulker.json"
+hash = "f0cc16fb08f5a5e3a9178c126c9aa60bf81f9606304e93b82c7c4c25cbcac313"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/salmon.json"
+hash = "8a7afd185cbdafda72cc444ba6ba6e8881d5af8e087cdadf6f4759cd00dce2ec"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/black.json"
+hash = "ac9d4115f89dcbbbca34b675491445a400b39e7e61e4aee4c297432451f2c3b6"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/blue.json"
+hash = "424295475edfa92359f503a4c61c8cdacedc71a291aa8263da474e005293b963"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/brown.json"
+hash = "f6a588be2c79d53677d0cfd882f24c80333e858e2a937c8995015412c15a432e"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/cyan.json"
+hash = "b846d92d3b07ddb668cea6e0012b55b1417292831795460b2c6cb0ee0d4238c2"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/gray.json"
+hash = "713143cfad9d50fed61240a39132f714b141bafdf5830ebcb4e07c1c4ea82c52"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/green.json"
+hash = "1cfe2b304ffb19415b315e84b5c5e2b42d3bedf3c1ece07b1f06e8e2fff2847c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/jeb_sheep.json"
+hash = "095beede288357e314046940e67f71d9bfa7443dd96a40cdabc4b3fd0f7f8a33"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/light_blue.json"
+hash = "749ae0c1bcd4f1d1bb602bdfdbfe87a60f1a42aad63df3a077ca710c1af36b0d"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/light_gray.json"
+hash = "660649381dbe3250001f7d8cd6f7825b2fcd1ce12b3191d76fd340992863ca71"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/lime.json"
+hash = "b936e17ddacd46f676e9369cb2a98d303f29f764de4723d04d7aa4b90de5c196"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/magenta.json"
+hash = "21e3b0502e693322f53f60c0e588e37641450311de14553b3a98b44011f11480"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/orange.json"
+hash = "446256d07cb73988d606d4f4c75d89c68ff029478050699df79c22b6ed0bd912"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/pink.json"
+hash = "f19be977a4e9a7ca859ae6bdf6df4a6cba3e153cbe2bbee55de44bd2c515facb"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/purple.json"
+hash = "0219588a4210d74d85391f78037bc9570cb2cf615c3d52d9bc3f73ea223cfbab"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/red.json"
+hash = "cec952e8d3dd179d90571692ddcb95198fbc90397bcfea452c28b2d06d983098"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/white.json"
+hash = "aa2926d380e3b21df4117aeaecad52d1ac319ec209faf20356a26bb0a5d54bcd"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sheep/yellow.json"
+hash = "47195285457a23c4afd40001478673d5ec8f5d7286592e24ecd99b10f91a7d6b"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/shulker.json"
+hash = "edd754da9a22c07ffb54b93deabda1bbcebd4fc0f41fb908ce26917f96bf161b"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/silverfish.json"
+hash = "46aba6c0a9debc5ab245e1b75e50b1a830a15f6d25c2390a5ba93cd7b7c3a160"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/skeleton_horse.json"
+hash = "8efbcd7047e630db472ede39d1c29e55616e5b666d08e5979f053d86274fea66"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/slime.json"
+hash = "c41c59c4f098902fdfe789214d873cc2d325f5c257e0034b21dfdf2cd35c7cdb"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/sniffer.json"
+hash = "61768430039436de1ca9c9cd6ed0074d2c791d3b67ce491595b010fdee57bb8b"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/snow_golem.json"
+hash = "3bfa6fa101865f2c875adfacb116924ff86c99ce4d10c8ff58f4275fe44f3039"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/spider.json"
+hash = "692038fa67d8649a2fe4a1d4d0df552f05577936f3debb37d9fee663ba85d0d6"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/squid.json"
+hash = "70a84544e01b2c8cfadaf64f74278e8ad670b22ba15bf8638c1b37ad2bab0692"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/stray.json"
+hash = "f7558e01a0fe53ac55776feee594c1feb3f0333953812d84f3daa24238aaf505"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/strider.json"
+hash = "c72d735ad3dc13cbf772f4a9050d9ee0502d1125657da771cee67c88eacb4d9d"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/tadpole.json"
+hash = "84e2882fa389d0c61bfe917d49eb5925072a638c1ef16efa877155b7ad85b7c5"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/trader_llama.json"
+hash = "de4886b7736659cb639b6856a24582f8f227994709e042d1285f79ce9562174e"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/tropical_fish.json"
+hash = "8fe5481b4098c6bad27b6c74ea85e187951cd692134001e5d995f28e297babc4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/turtle.json"
+hash = "45b81f10fc82c73be60b24ddcb45356ed6249612c5e771fa2cde5ea546ee7de6"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/vex.json"
+hash = "30372a9b254e7e35e90c6978cd4fa8f401eb0bf7f675b56ab7330e2578254cf8"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/villager.json"
+hash = "0532d4f5a1f830b74369209de64c52ef0bc3493c38fa5d1026c0583d368bd68f"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/vindicator.json"
+hash = "d0b0fc2af54c2cfff629afd62734931aea19d3be80d2330031bed4995952fe1a"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/wandering_trader.json"
+hash = "46c0776039b55e726edfb619279167fe0ddb90e0e290cdf410d633fc283eb4a4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/warden.json"
+hash = "37c6ceb42ecd5cc1e26c6e8321b28328a66c0deceb3ee8d8dbc245bb140394ff"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/witch.json"
+hash = "1ec9c4a92aee54f6429c13813304551e468d43467c28eea2378d1a0c5f786877"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/wither.json"
+hash = "e226ab77d8fa444be6eac43020319d78289f5e73085a7011323c0da055b66e0a"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/wolf.json"
+hash = "7a873ca728907892874f1491a22adacbecc07840cc111fc4b62454a44a632891"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/zoglin.json"
+hash = "2c1a4786c130d2512e459b455bb50be762de88c9a37f8c9cddb23cd492a03d64"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/zombie_horse.json"
+hash = "7da8da64bbd8e87f38fd6a99ec1a2277f76587861cefeef82d6f48d650eb9908"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/zombie_villager.json"
+hash = "9aed96c681ae08ab3660c1e89a8c314054c6d54e39763a8926279d61706ac292"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/zombified_piglin.json"
+hash = "25081bb10b09859faa7680bc52e9decb309279680a680a3d56b007af2128abdb"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/allay.json"
+hash = "7b9094a5a6219f59024e36c508633acaecb0302bd5032d2ad76e063b6fe16b60"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/armor_stand.json"
+hash = "363a5bf435bfa38724cb501b177c7288c62835c992ff41f339209e17f37aa2f0"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/axolotl.json"
+hash = "c757b40548024c66e698e33322c2e5a4d55da4794e1abe5269d575bf3e27781c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/bat.json"
+hash = "c92757b61e609af1ac4d570750fdd1360535d14e68166bd015009a1c99942420"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/bee.json"
+hash = "e5ef9cc8b74cbdb81eb143c28049beb113b24d284885e29d1b2299bba00dd0d0"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/blaze.json"
+hash = "f7ea2475766f4c02e6e851790e41dd463ea4910afcde106bcd40fa2d01efa2ee"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/camel.json"
+hash = "a445c3f8456eb17b36a3fd52874e1da378dc351435ba6eb60cb23dfe74490867"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/cat.json"
+hash = "fd23fc36702ca634dab18deed4357e9773b5e05237e947272a4298fdd1437127"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/cave_spider.json"
+hash = "2cd057dace2fe0e4dc2a4e470b2db8c6246feb65c31ce4fb904653bc9ff932e8"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/chicken.json"
+hash = "996aa46d95213b806993f0244164f2dc013aad7f461848b1b33f5e2c16616f77"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/cod.json"
+hash = "87721e9cf77f81168bce4a7fda0670f8912add6ca55db93f03380ccef8bd0842"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/cow.json"
+hash = "820fa3937ccfcf27c703b4aab133929a9a21fc99c6475e83f97e3dcfea9f11bd"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/creeper.json"
+hash = "f850e4d3c3125440e42e37709261f44f8206194d7d848035f6f8c855191b06bb"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/dolphin.json"
+hash = "26fc89a3a87a8cc7d23b04c0d217820f8c08a815ed90380751a4297434ffc0c7"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/donkey.json"
+hash = "e2c92ef365552528394e3cd4aded6bfe2b7fa8d4054797b87948d0606cc55381"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/drowned.json"
+hash = "4b7409224a205de1e22d7f4f4961601568f1739c427ad7b169d65bcbcf05b421"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/elder_guardian.json"
+hash = "c2001077a61848908f9d930362b6b4a90fd8964e9362b078bdc2a07b52368e81"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/ender_dragon.json"
+hash = "e8ed8f9054911358b1b587904de71f6f415a51c5dcd851f53f18c5b2b79de157"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/enderman.json"
+hash = "120e5351da371ca7d8ef3c02fa85f7e9808f2f9bae9af1b1ae91fdeee4da64e4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/endermite.json"
+hash = "a98365a553b2ebbf07f2f281bc0a3922f54be05b723ab60815c53163a402f71b"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/evoker.json"
+hash = "bd12ef1a2db976175514ed096434decd000257b0584612edd3eef79c68831107"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/fox.json"
+hash = "1639488899680c1463f8224064e91fe777a97f0d026362fdebd776a9520af020"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/frog.json"
+hash = "b8ad4e82126d96924a54bba3e36c44f2fbee18c206e8facd1c9e7decfac526bb"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/ghast.json"
+hash = "ddfe8a0de2c15e4ea554af9bb11d094c497e39cd64e4de0e21c20ec739835649"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/giant.json"
+hash = "6e691fda866c0780076228a128c9606ef9ff90605b601cccf32321d7f1be46d8"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/glow_squid.json"
+hash = "8784ca1417dada64cc5026909b99fd3d116a0f4e7a967037d390bab57fa7d423"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/goat.json"
+hash = "64607c4f134775a9f7fa3a8ff3fc325977bb7119dbd12e693298dad4411e48cb"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/guardian.json"
+hash = "62f09ac1f49d3ad04e1f2105ce0c7101bf699a07043714249bcd78c4b5e9d840"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/hoglin.json"
+hash = "bdf137cbe764ee1a7291130d6fa2cb57a8e7ca377e57d3f14324d1f722064cf3"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/horse.json"
+hash = "13ab80c2f547eb78109ffe99d56f4d96b46c226683e2be9f65772bece87fca26"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/husk.json"
+hash = "4956aec2d8f5384e60cbafac9fd0e23726d28ba73eba149f3fd3c7b143f8c984"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/illusioner.json"
+hash = "4432d988f5f292aa99b0c66270e71b5038868866d938a7dab4b082afdb9aedd1"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/iron_golem.json"
+hash = "9ba05dfe32aa01beb1ad5f829cd5c26091cab9f0e59255eaab414a30e3139b02"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/llama.json"
+hash = "de18cb9e6fc190780d3fa9a86c82511133cb97de2b9c212f4ecfcec6a5bd394b"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/magma_cube.json"
+hash = "d2dd5b7c8bf50f44b25fa5d48fa266467dd96e31fbbdebe3f66b1e7a77f19999"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/mooshroom.json"
+hash = "93db187928c0280f3933cd297ed60372dab35c1c2150b8927abebb8dcb5b31c7"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/mule.json"
+hash = "f7a58bb9a4ce0a68622be0913616cc06d4081a5ca5f2dc1fd7707728c6006ec1"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/ocelot.json"
+hash = "d2e3e53951495551a20b918425d0316ad1731b96459a90e1b78c145995ecdefb"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/panda.json"
+hash = "b1e6fedc9c131a734bd18892cece4fb882b547a4097f9f85a05e7489e5d768df"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/parrot.json"
+hash = "ff6f3994baf5b405980139ca6ef79d48d890ede96d667bd0e49d4acee4225626"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/phantom.json"
+hash = "e3e8199f8dc2e691592ac6b0e92ee1a5d052812374a924d0778438e3d27534e4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/pig.json"
+hash = "27bc34ca53514ae04db76d8e12679831cba99ca3585408dde8b79aef38cb7296"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/piglin.json"
+hash = "98a3a84c8a3ddd2fbb434328c0d29b080d86335c0846e0825b2525c1f8cb3f75"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/piglin_brute.json"
+hash = "4b685175c77c4c3fdde21306409385b23beadfcac19a943302be5a37ee960c3e"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/pillager.json"
+hash = "a9dfc3535a2654f90aa1420810f0c4ae3f8274a9eb39262803016d3c95a70cdf"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/player.json"
+hash = "62e8cf37f6cf0419f61eea76d5eb2ace0e77a9e17aff22e6ae408398e1ae836f"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/polar_bear.json"
+hash = "12de8dc731efd3903ba8c97350dc92b1a19fd8d30085b29501dab5cded0a8f6e"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/pufferfish.json"
+hash = "cdac2736ec480fc524738cb5527047725da321253203379d88a45a8e95b4c7f6"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/rabbit.json"
+hash = "ca3dc3db632b6de0605b71dcfbe2115a6da841d4fe14412d5aa6d23c11dc584a"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/ravager.json"
+hash = "1d2a3b83bc9c742f9d24c3ece4fdc94a3294e92245f05f6f13ccc0936e385206"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/salmon.json"
+hash = "1893199f1fe0467271a6de7a39a859423c531593bb8955cde6462e8c06ea6d3a"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep.json"
+hash = "eb5ec8ab1a24bacc48c70f464db7826d204edda68ef4d978e9f15a70f8830635"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/black.json"
+hash = "f008b67f75a9ba5b817512a384de1685789b1f9d13b8b1d6ef71a44f75866b22"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/blue.json"
+hash = "61972a03f0b2c19f05486c41699fa15788266b632c1e935f17f6b7978cf7ddad"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/brown.json"
+hash = "2b810b45a90aea526de17a0e0386ea715d255b11840cbba347763f50bd16dc1a"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/cyan.json"
+hash = "deb461b5b7397762013cfab5b0bd3fad9e00ae2ff4dffa32695286c509462b1a"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/gray.json"
+hash = "0da1fc90cc36643b7d6010f1c4f2ce4a6e5bab31e79d49a6492d6f4179e2b93b"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/green.json"
+hash = "db3fa7938feecd94074f2e0ff820c342116bc815c6d31883ba6f479d15354c72"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/light_blue.json"
+hash = "04c05008188bc464e6d0dd71774f5e2dff5bf6b3b03f5d4abb861460244996f4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/light_gray.json"
+hash = "e781f18282257f9863f9058f2be5d5a3d995bf5c80a843cdf41e3e4bc769ed4d"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/lime.json"
+hash = "75b4948ed7e21204f1d009cbf7bf9824b95fa4614062f8ec7de14881911097a6"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/magenta.json"
+hash = "20b6c3009ee0241db4b98f506e2904819815afe9185574a7fe68b4095a661dc9"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/orange.json"
+hash = "f9ef8d0106c375683cab8e607be42a602357a706a214d10b712b20405777d491"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/pink.json"
+hash = "07750ef3b9ef7e6f706a101d3c68fbc8ff30642522fa57b59367b1cb2f854c14"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/purple.json"
+hash = "22dbb4893577d696badcc5ae417cc0f6bc0b3119a52c2c64757ba2359c41038d"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/red.json"
+hash = "163f872d84df3058fc2a1f4d8de32ae222d9157ed2436d679dead712bd3d326c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/white.json"
+hash = "cd153f6f27f9ead96cf3d9bfbc5e0a900d7388472315a495b2c23be2e3bf587e"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sheep/yellow.json"
+hash = "12ecf0363da66a4d0aa380232fc8679980599a1e8fcef9bd262d22971af9aff4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/shulker.json"
+hash = "3d565e9732e26540a22bf330c2e9cfc2ba13e3553308b2d6e08bb308dbe20f95"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/silverfish.json"
+hash = "7ef999d0110c03a2b942edcbb4d4632c90b4687ed7ec28de29dd4731a52c8f2e"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/skeleton.json"
+hash = "28ba69f2a53613fb17ae0ac9b3daabbeb360060a1eb860da9412d63c6275d9be"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/skeleton_horse.json"
+hash = "6584ccf3a238fd1399197b5449dcabaf638c44bb3e49fde9ed260b644bb45250"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/slime.json"
+hash = "b2597c393dd54bf4602951d50493bb46b48ab5511b0d1c84dcd3f4e80af41750"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/sniffer.json"
+hash = "1fba1370a69cf2c916f63906fab211119f431be0a676878e31a7e46336c80115"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/snow_golem.json"
+hash = "d96c1dae27fdabc87e0e52613a061a4d90ace02a69e7ebfd67564f1079a82229"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/spider.json"
+hash = "9cfe40acb97fce7d65cf67f4c43dd0bf6d00c10eaece1d78110b21b7362d76cc"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/squid.json"
+hash = "5212f0b1e41703a271237694842bf3654bdfd2fcced9f55dadca9a6aa7791aa4"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/stray.json"
+hash = "8ea1e713267b28212700a57b28d81102e4cbba9aa0ebc6255ee890b6e8096f69"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/strider.json"
+hash = "df92decf96ff265bca28674f98d8954e8edfff475131d9876307062022918374"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/tadpole.json"
+hash = "e13d7a9f6df2a9d6b84ef2a785f3f892cca12beb0c60f4ff1a3d5e632d628189"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/trader_llama.json"
+hash = "b2b8f9c907d96c537fd239592896b15f40e9838f51676430f0cfb62f5a6cca21"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/tropical_fish.json"
+hash = "a59c90bd9698e30311a23305d2c6304ba71dc727a7b727cd44a8a3abb3e38d3f"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/turtle.json"
+hash = "997c2b8190c1872faf578ec4fb4dc76eb768f2f9f72641d2e6c91717bc38c524"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/vex.json"
+hash = "6ecd46b391bcb08d0b58485f15c9441bef74c5c56190407d95ea40a55929881c"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/villager.json"
+hash = "8bbbd8400953808f9dcc81b0613a86b921daa67b11580f32b0bae99b61b065b9"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/vindicator.json"
+hash = "d47b5be8e3d5cee376f6d53c614cb569515b0b5d1b71e95b04a3cc9d2ef927a1"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/wandering_trader.json"
+hash = "c42fc8fb75f87d56247ff7c22fd55586db7b0665997187b5cc370b84c6dd35c7"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/warden.json"
+hash = "61761eee28eb05fe880aee64bf63db9718a398d965f5ba699edb6ebf7e86b16d"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/witch.json"
+hash = "34abaddaf23e72085397d03ebaee14e54666f221bfdb21a8dbdf5bccd547c2d2"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/wither.json"
+hash = "1297a721efeda080174613734f665b466868b1b482e877a787969d4543e828b1"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/wither_skeleton.json"
+hash = "6bd26b8fd8efef2448c38c2ee5fcffa3ec97c4fce942930424526a7d0713e058"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/wolf.json"
+hash = "8f98077287be09136967e24b7644940844f9cf993696c452473723c9bca6b473"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/zoglin.json"
+hash = "b881ee7cb80d91b7236873b73bbbbcd818244d23b33de94b82eda09536c945b0"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/zombie.json"
+hash = "f07dea44dfe429a53b86eb6426fb0ebb80ce234959e63ff7bc7e01ec1f8f92f1"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/zombie_horse.json"
+hash = "bfe2c2067f11a8f0b30766a3a8c3b43f199d4781a207c6ef08dd21a7c258183b"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/zombie_villager.json"
+hash = "24ceb8e446f147c4ebf63fe56652aa52b53f3a8041ad85e6c106d03126fca6ba"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanilla/loot_tables/entities/zombified_piglin.json"
+hash = "11b671bb03cbe977e2500b6de03ffca38b4401032cc7834cdddd358cbf46a529"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanillatweaks/advancements/more_mob_heads.json"
+hash = "f23989dd545bda3877a79e75ea68870d4388133cd639d83a7b9d16655fc59696"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/pack.mcmeta"
+hash = "dc7012b4ccfcea68bf05290c21bfe5bca91ee5401731c6093820889585e774e5"
+
+[[files]]
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/pack.png"
+hash = "be390f39163e45c588cde459c1721f80822d653a2abf20077b1d02afa1af1f36"
 
 [[files]]
 file = "global_packs/required_data/omnicut-better-wood-stone-cutter.pw.toml"
@@ -98,8 +1830,24 @@ hash = "1358c27f4292d5846a7f84460c963586338f50797fc91743327ccd315588fa2b"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/player_head_drops_v1.1.4_(MC_1.20.x).zip"
-hash = "fd8e8a674ea85dab64ef9691adc6aecede02ddfc7bb1ddb88b208097a425a237"
+file = "global_packs/required_data/player_head_drops_v1.1.4_(MC_1.20.x)/data/minecraft/loot_tables/entities/player.json"
+hash = "b341a3be0ad8d67f68fc45f0c042d741b4d9b2a1907bc605885e91154ea09319"
+
+[[files]]
+file = "global_packs/required_data/player_head_drops_v1.1.4_(MC_1.20.x)/data/vanillatweaks/advancements/player_head_drops.json"
+hash = "cee1643ab0f7c0d0987da4cc295cea97d4f15d16d7e3d56274eb1049e0f16554"
+
+[[files]]
+file = "global_packs/required_data/player_head_drops_v1.1.4_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/player_head_drops_v1.1.4_(MC_1.20.x)/pack.mcmeta"
+hash = "f0e0042a3e2946a9442fcb6caa9f0490b063fde18c6cea26a3882de495dd8ed0"
+
+[[files]]
+file = "global_packs/required_data/player_head_drops_v1.1.4_(MC_1.20.x)/pack.png"
+hash = "e79300aafb805857a686d5bbf9b176b63bb5dd8dd3113969b58ac23c4d208ba2"
 
 [[files]]
 file = "global_packs/required_data/slab_hero_tfc/data/slab_hero/recipes/acacia_slabs_to_acacia_planks.json"
@@ -158,8 +1906,48 @@ file = "global_packs/required_data/slab_hero_tfc/pack.mcmeta"
 hash = "89c1042d8cc3fdd3d135e23096cbcb5bb7ec4affce9f710582523b3787ce3cef"
 
 [[files]]
-file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x).zip"
-hash = "f3201330c164b2f7b646986b9c3938309ed8748052bd90ee98fe64e501a0ae12"
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/data/minecraft/tags/functions/load.json"
+hash = "2a2250a745417b9985a8c0239bc4fc3563d8b5be662f6aeb9f1f6f81bf073794"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/data/spectator_night_vision/functions/gamemode_change.mcfunction"
+hash = "2d435a8a66fc7f0d0055767c2f299c3cc0560879e1820bdb2779ab8c7d2a3869"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/data/spectator_night_vision/functions/load.mcfunction"
+hash = "109b4ebd57c4b5b921bb636c296a0dd46bd9da31a10eb9262865595066f67fed"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/data/spectator_night_vision/functions/tick.mcfunction"
+hash = "00668e7163d8f92cc0a60eb5fd0397ffc5b3a2469643b4a17fab099e6eee4632"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/data/spectator_night_vision/functions/toggle.mcfunction"
+hash = "26670e8650faa39e746af924d66c58dc016b077a06b054142ab7588696a778b4"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/data/spectator_night_vision/functions/uninstall.mcfunction"
+hash = "8151ad95d2ec877636dc012527cf5e7638edf8d18cde2de34c74cede0e9db78c"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/data/vanillatweaks/advancements/spectator_night_vision.json"
+hash = "9ad94afec2438f1cf344481f8c803e4092101776c098b75cd0132d03eb486fcc"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/data/vanillatweaks/tags/functions/uninstall.json"
+hash = "d071d2afda87dc4977a24ee5e958560bee1ebacdceba8c667df1783752993c6f"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/pack.mcmeta"
+hash = "42986331a8818f204746368bae3bbd8d52d56b359a0de72358e4573a650e8e82"
+
+[[files]]
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x)/pack.png"
+hash = "b4f68366dc3f19d5be2fa24fb90e02b89aafb4bbb275180b94b03a683930eda4"
 
 [[files]]
 file = "global_packs/required_data/tfc_recipes/data/thefinestcreations/recipes/bundle_from_hide.json"
@@ -182,8 +1970,44 @@ file = "global_packs/required_data/tfc_recipes/pack.mcmeta"
 hash = "89c1042d8cc3fdd3d135e23096cbcb5bb7ec4affce9f710582523b3787ce3cef"
 
 [[files]]
-file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x).zip"
-hash = "69354e4f14a46544299620e269332a5fed112c5e8135bcf8703a2b26304bc94c"
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/data/minecraft/tags/functions/load.json"
+hash = "f97a7c47a1bf1e4ec36ab6cbf4cae307dcd6f86c10fa7888c0e3173ae6a3558d"
+
+[[files]]
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/data/unlock_all_recipes/functions/uninstall.mcfunction"
+hash = "f39ca2fe7ae8984ae9e097a173ff55ec4ae6cf9f1c3551a0da78e4d09b9c8c34"
+
+[[files]]
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/data/unlock_all_recipes/functions/unlock_recipes.mcfunction"
+hash = "1157022986c3293174aad9b041e6e444f71b72bae619c6cbcd3d723180db4df1"
+
+[[files]]
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/data/unlock_all_recipes/tags/functions/after.json"
+hash = "e88f3962af6a1d51102151e8e7047ab8fd146aabae28a8915ffa461d87b0661f"
+
+[[files]]
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/data/unlock_all_recipes/tags/functions/before.json"
+hash = "e88f3962af6a1d51102151e8e7047ab8fd146aabae28a8915ffa461d87b0661f"
+
+[[files]]
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
+hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
+
+[[files]]
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/data/vanillatweaks/advancements/unlock_all_recipes.json"
+hash = "2623c705c4c483136c5cfc3b0f022b4ca45056949c1461da89a4c5c331e396cc"
+
+[[files]]
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/data/vanillatweaks/tags/functions/uninstall.json"
+hash = "4824761649de4abf4ece47adab946b20fa6136d5bc8fc3c4a8c89f3a667acc66"
+
+[[files]]
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/pack.mcmeta"
+hash = "14bef5c29f7bdb1f335e89180bd45fdd4c0afb7de8e082240ac70d8e5653d6f0"
+
+[[files]]
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x)/pack.png"
+hash = "9637475e6414805f2ba9a3ab89d07e0d5bb244dbe42a93a0f7eae7c3e5af9d04"
 
 [[files]]
 file = "global_packs/required_data/wood_cutter.pw.toml"
