@@ -13,244 +13,32 @@ file = "config/BlossomMods/BlossomTpa.json"
 hash = "d03c074ada1e349713a2cc4015e50e7a71aa9bf490902b325b22bd4faa5619c1"
 
 [[files]]
-file = "config/EmiLootConfig_v1.json"
-hash = "549a01a4183ce775ff7e3972a31372ce272a2c7d82a563d73053c258c5749eff"
-
-[[files]]
-file = "config/appleskin.json5"
-hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
-
-[[files]]
 file = "config/authme.json5"
 hash = "173d16817f126e291aa504f7e69ae2877e9f1f2a049bc417fb2516f35a76fdf7"
-
-[[files]]
-file = "config/balm-common.out.toml"
-hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
-
-[[files]]
-file = "config/balm-common.toml"
-hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
-
-[[files]]
-file = "config/betterpingdisplay.json"
-hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
-
-[[files]]
-file = "config/chunksending.json"
-hash = "4bb53cce5a363b4173052e66d609e2013b53c7a662de115e5ca59143fd3eab1b"
-
-[[files]]
-file = "config/connectivity.json"
-hash = "64db15233b5135e7b1ff652278896570c6599e5421864488f3ad3573a340fa61"
-
-[[files]]
-file = "config/continuity.json"
-hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
-
-[[files]]
-file = "config/debugify-descriptions.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/debugify.json"
 hash = "4866d534f5944417491059aeed345176f01a2e3587b27816b8bb5a53e4ae7924"
 
 [[files]]
-file = "config/emi.css"
-hash = "143ca02ddcaa2244cb1cf67c5ffdaca18d627301370544b82216be733aec6a5c"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "9fb173b65b6d6129c7b1aa467187f9d2cc20da06c063a503bd086e0d7f414d16"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
-
-[[files]]
-file = "config/forgeconfigapiport.toml"
-hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
-
-[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
-
-[[files]]
-file = "config/immediatelyfast.json"
-hash = "12caca468658e5f70ded5aa2d06ea5392d69d5e54534501d2d222216233b4e5c"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "9b9adff234fb169be2e9a2b9a4957607a49d96382f152b456e23009a195a3487"
-
-[[files]]
-file = "config/iris.properties"
-hash = "8e88d04921c6144c37e422618d3adf22cc82d71e0efb559ff0b8e41cf42fa71e"
-
-[[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "e29c72e0fec5860b6cc5a4466841e4092a863002e8f56247569c83fdfe494a09"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "bca5b02f5689992eedefaea160cecac8fd69ee8ae7cee403f5294afbe539e8ce"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "8f986a34dbe2053ece09b3f6d7635e38b17ea5c49befb91e87d2c2e1a44c8b1a"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "8f2761840207e6e133df740cd06303e52c711f418942300073cf58827a06b989"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "edcf4b6a8a50af05a52ef845d652f7e43d70bc37c9498fa9f83c1c111d6d6107"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "0ddf048bbfa9df9486537e76b6b0f6eed3c6994b1766bd148fb72528cc0bff6a"
-
-[[files]]
-file = "config/legendarytooltips-common.toml"
-hash = "26e2ea7f1c4b98599095fd59cefc956af67140036d7659231bdc4de402168e8c"
-
-[[files]]
-file = "config/litematica.json"
-hash = "dabc7e9236a7da949a6dc2b7cfc1a174f301f2c94ac9e4ea423f6b3e62357f40"
-
-[[files]]
-file = "config/litematica/litematica_54.39.250.69_25597.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_54.39.250.69_25597_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_8_4_23_2334_wheezed_almost_done_.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_8_4_23_2334_wheezed_almost_done__dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_8_4_23_2334_wheezed_almost_done__dim_minecraft_the_end.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_8_5_23_0025_no_more_catalogue.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_8_5_23_0025_no_more_catalogue_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
-
-[[files]]
-file = "config/malilib.json"
-hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "df2122c81ca4cd4b95f5f91b2fa8e16b245223ca79f5dd788362d5e575943b0b"
 
 [[files]]
-file = "config/modmenu.json"
-hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
-
-[[files]]
-file = "config/moreculling.toml"
-hash = "8a6515bea93d0c8ed23c5622a66b4fa4c81e6df2d27a5c8bb6215a2f0e526d4c"
-
-[[files]]
 file = "config/mousewheelie.hjson"
 hash = "724cf297a3b6657533745be80e45950fafda84479ae27ae6f79355f3b156d6b4"
-
-[[files]]
-file = "config/notenoughanimations.json"
-hash = "1ce156edd13da83bb8674fe0e9b91cbbdc3a4028baf7bea2bbaec2194412bfdd"
 
 [[files]]
 file = "config/ordinarytweaks.json"
 hash = "74733b8372e2c412530c29cda1706fb04488b50865b9fffc4709ee0e5be7851b"
 
 [[files]]
-file = "config/polymer/client.json"
-hash = "f16cd4039869b7c436f6904b6a51f856083fa6b3d91828af770e535b011571ec"
-
-[[files]]
-file = "config/polymer/common.json"
-hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
-
-[[files]]
-file = "config/polymer/resource-pack.json"
-hash = "20f8b2498e7c8b8de59f1dd30ee093b60a4d36a6da6d940a45c87cd3868298f0"
-
-[[files]]
-file = "config/polymer/server.json"
-hash = "8dda745385a635e22e8ce122ccd81bd3afb6c2204efaf177c696c7b6c2950ebc"
-
-[[files]]
 file = "config/quilt-loader.txt"
 hash = "8b15c1fba8ab3f2c2b6fa810fb0f5994754c36f63f287e1991f35b8faed19915"
-
-[[files]]
-file = "config/quilt/qsl/registry.toml"
-hash = "1a18dacc6cb807c3e2591482225d05f729e9e40872bdfacae4c439d9b43da842"
-
-[[files]]
-file = "config/smoothchunk.json"
-hash = "228d16ac3ebb3efe67596f25498f97eb4a626ac108bdc0deb2ddf0bb5c32cde9"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "4647c3ea6051a9cb08e001188c886e7b924326fd82a23e7c47e48083b37f2ef7"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "a32c52228ca930779d73429e2e0732470e35610c39fbb828cf3b5c51986eebaa"
-
-[[files]]
-file = "config/spark/config.json"
-hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/spark/tmp/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
-file = "config/structureessentials.json"
-hash = "34e14e20cd7ffa970d0bcdea197741519357ae7162f1f458d598da244ac19bea"
-
-[[files]]
-file = "config/trade_cycling/trade_cycling.properties"
-hash = "a476d18b6589c26c44df513d679c5ee002a66e6519f2547d47cff764dfe6c72b"
-
-[[files]]
-file = "config/trashslot-common.toml"
-hash = "0a6cc9c3df72abc431847e771413b91043b1b52051a3bced50849fb418b922f4"
 
 [[files]]
 file = "config/universal-graves/config.json"
@@ -261,40 +49,12 @@ file = "config/universal-graves/models/example.json"
 hash = "0034bd722f6259b09145be5a028852b82a9e355148c480a770a89275bdbfd226"
 
 [[files]]
-file = "config/visual_workbench.json"
-hash = "7885b862b10bf4b14d3103909971114a736d14a52e4a7994ace0d66a2474c14c"
-
-[[files]]
-file = "config/visualworkbench-client.toml"
-hash = "090cf77a65d58c12bc3e95d79f04a1f81f8859dd46cc66b82e92fcf2e2a995f1"
-
-[[files]]
 file = "config/vmp.properties"
-hash = "273cacb5608b7ffba1038d72f74f29cac6403a116138536ea0d10bf4769f7b4b"
-
-[[files]]
-file = "config/whereisit.json"
-hash = "4ab6384329ab996928acd6a62d8e6ccaf1f6b420231156c18f6c6b9ce79eaab2"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "0df1f954b4461c9ecb465eb444593a39a7c7c1ccc59bb4755b9e24866f5b9ab7"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "1577bee3e9a82ac486f2097cd5837ee7acaa3dfd1284628d5c8237353f3ecd3c"
+hash = "e25cf9aecb5e4b0574cef64b90b036872ef6b4f6df03ee2af531664773871a59"
 
 [[files]]
 file = "config/xaeropatreon.txt"
 hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "3aef45ea053577e954525fca58020306bc86b1de6f25840088f667c09593210e"
-
-[[files]]
-file = "config/zoomify.json"
-hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
 file = "global_packs/required_data/armor statues v2.8.5 (MC 1.20.x).zip"
