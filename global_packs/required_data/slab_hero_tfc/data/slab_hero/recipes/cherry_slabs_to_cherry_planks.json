@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SS ",
+        "   ",
+        "   "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:cherry_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:cherry_planks",
+        "count": 1
+    }
+}
