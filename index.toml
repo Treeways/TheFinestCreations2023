@@ -367,6 +367,11 @@ hash = "80ddb3c95cfb08f46acc0718fa8e26ce2877c95b376ff8a44bd08845ff55aee7"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7293ab05ee73400787ba9c31d4c59884d252dcc170880602e8e8da64dcf3f765"
+metafile = true
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "c252043e240caa0257789df89c4e6ba47548638391dacee43301a4710d4418b4"
 metafile = true
@@ -397,6 +402,11 @@ hash = "0fed3b46bbfeef8df8e8bfafb7aa4c116a5a8a5eadec5018d27c21439dd5df7e"
 metafile = true
 
 [[files]]
+file = "mods/datapacks.pw.toml"
+hash = "6bd3e501f1f766a6551a45ea7928a404ea23ccebe4d4e3419e6bb029313345cf"
+metafile = true
+
+[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "64bb37613b27f26ec07abb5189ee5c4de08de0402b05c248c2451aefa3b0fd74"
 metafile = true
@@ -407,6 +417,11 @@ hash = "0de8b03b32f17e3d454b26f9bb1254b95bc7924a8a8f88c9496e172e04d3b92f"
 metafile = true
 
 [[files]]
+file = "mods/easiervillagertrading.pw.toml"
+hash = "08a544f2cca66b70a13daae40268ee95a967f617c7f97670363065fb5fb06666"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "7b6c2f9c3517535158d1ac0ae60ae3023e547a5fd9045ed51bd87bb5990ec529"
 metafile = true
@@ -414,6 +429,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "a463035ddfa901370ec7293103a6405ed5f476f4a2a7468cc3552f07686bd510"
 metafile = true
 
 [[files]]
@@ -449,11 +469,6 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "d653de3e0a16a4bd8637162adf89f183267144b3be284f73aa2f8a31cd07816e"
-metafile = true
-
-[[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "ed91c0d3f867c429a6e1f91029355fa4af63ae53936ae1516aee01d0254e964f"
 metafile = true
 
 [[files]]
@@ -504,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "38704525d1328c74530ca03571c2cb1bb8f2c76f5d78d18909207a422d1420f9"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "977b2162a12c8a80fd13ef6acefb5018b504c53fdf790a4b9eb14c7646262022"
 metafile = true
 
 [[files]]
@@ -593,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
+hash = "63609b108f31e82863487ab43388995e5757818cee60148b053df3b0d3278163"
 metafile = true
 
 [[files]]
