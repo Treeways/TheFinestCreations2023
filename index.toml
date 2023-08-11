@@ -2166,7 +2166,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "4ff18ca3aed16eee644f803df95e26d891e3f9bef50d95010e9da5adf29d2b19"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -2316,7 +2316,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "63609b108f31e82863487ab43388995e5757818cee60148b053df3b0d3278163"
+hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 metafile = true
 
 [[files]]
