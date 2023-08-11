@@ -1,14 +1,13 @@
 name = "SomeOrdinaryTweaks"
-filename = "some-ordinary-tweaks-1.6.9+1.20.jar"
+filename = "some-ordinary-tweaks-1.7.0+1.20-alpha.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/glS8CV4b/some-ordinary-tweaks-1.6.9%2B1.20.jar"
-hash-format = "sha512"
-hash = "dda6549775179ff9b143de1150b21d0dbcb834fcbafe6159fde951cdb9907994111719c65349e54df9f66edf60813baedb8b23943156d633511101444ac12b15"
+url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/BrhmZQDc/some-ordinary-tweaks-1.7.0%2B1.20-alpha.jar"
+hash-format = "sha1"
+hash = "ad8d9d3c180b6a3844b84303e5d7413bba500fdb"
 
 [update]
 [update.modrinth]
 mod-id = "LNeXYJOg"
-version = "glS8CV4b"
+version = "BrhmZQDc"
