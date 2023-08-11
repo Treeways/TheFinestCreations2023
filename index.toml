@@ -276,6 +276,11 @@ hash = "0fed3b46bbfeef8df8e8bfafb7aa4c116a5a8a5eadec5018d27c21439dd5df7e"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "10a6735b79a84353f1620b561ea9fd584140b9a32e084172e74d383875eefa39"
+metafile = true
+
+[[files]]
 file = "mods/datapacks.pw.toml"
 hash = "6bd3e501f1f766a6551a45ea7928a404ea23ccebe4d4e3419e6bb029313345cf"
 metafile = true
