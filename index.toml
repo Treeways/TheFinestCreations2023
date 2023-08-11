@@ -57,11 +57,11 @@ file = "config/xaeropatreon.txt"
 hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
 
 [[files]]
-file = "global_packs/required_data/armor statues v2.8.5 (MC 1.20.x).zip"
+file = "global_packs/required_data/armor_statues_v2.8.5_(MC_1.20.x).zip"
 hash = "8d0f635b39d3b0ec0812f0b3f222a63cc123728003e0e2bd452c7663d296a4f1"
 
 [[files]]
-file = "global_packs/required_data/bat membranes v1.0.5 (MC 1.20.x).zip"
+file = "global_packs/required_data/bat_membranes_v1.0.5_(MC_1.20.x).zip"
 hash = "f69f15f51a816a703b8cddf36ee4ff35fcb9f8329e57519aa078d718307a9f7c"
 
 [[files]]
@@ -73,23 +73,23 @@ file = "global_packs/required_data/credits.txt"
 hash = "d5a7a49635f98f1ca494af34aa0953b6318e70641fffba9a9fe1e14860343f04"
 
 [[files]]
-file = "global_packs/required_data/custom nether portals v2.3.7 (MC 1.20.x).zip"
+file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x).zip"
 hash = "0f38b2765061ab02a9c8afce522736c3d3d8304ceeff4c32d5ec7d74f218da0a"
 
 [[files]]
-file = "global_packs/required_data/double shulker shells v1.3.4 (MC 1.20.x).zip"
+file = "global_packs/required_data/double_shulker_shells_v1.3.4_(MC_1.20.x).zip"
 hash = "4d7d97097e105b41e18deb6346e7557c11331e13525d0ae76d2e85792200bc9b"
 
 [[files]]
-file = "global_packs/required_data/dragon drops v1.3.4 (MC 1.20.x).zip"
+file = "global_packs/required_data/dragon_drops_v1.3.4_(MC_1.20.x).zip"
 hash = "a293bee51db832e4af9e6a51c4f983307b1222667b025a2a0d3007be0241b6db"
 
 [[files]]
-file = "global_packs/required_data/fast leaf decay v2.0.7 (MC 1.20.x).zip"
+file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x).zip"
 hash = "33eb4b0e51f4e3e1f06f2af3d81d0a93144aa10f08bd3c1e720bfcbe14bd1ff0"
 
 [[files]]
-file = "global_packs/required_data/more mob heads v2.12.1 (MC 1.20.x).zip"
+file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x).zip"
 hash = "bbd54fdc8cde1f57ce07a111a0008703f7a7fd4047047a5705b02573656ca561"
 
 [[files]]
@@ -98,7 +98,7 @@ hash = "1358c27f4292d5846a7f84460c963586338f50797fc91743327ccd315588fa2b"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/player head drops v1.1.4 (MC 1.20.x).zip"
+file = "global_packs/required_data/player_head_drops_v1.1.4_(MC_1.20.x).zip"
 hash = "fd8e8a674ea85dab64ef9691adc6aecede02ddfc7bb1ddb88b208097a425a237"
 
 [[files]]
@@ -158,7 +158,7 @@ file = "global_packs/required_data/slab_hero_tfc/pack.mcmeta"
 hash = "89c1042d8cc3fdd3d135e23096cbcb5bb7ec4affce9f710582523b3787ce3cef"
 
 [[files]]
-file = "global_packs/required_data/spectator night vision v1.1.4 (MC 1.20.x).zip"
+file = "global_packs/required_data/spectator_night_vision_v1.1.4_(MC_1.20.x).zip"
 hash = "f3201330c164b2f7b646986b9c3938309ed8748052bd90ee98fe64e501a0ae12"
 
 [[files]]
@@ -182,7 +182,7 @@ file = "global_packs/required_data/tfc_recipes/pack.mcmeta"
 hash = "89c1042d8cc3fdd3d135e23096cbcb5bb7ec4affce9f710582523b3787ce3cef"
 
 [[files]]
-file = "global_packs/required_data/unlock all recipes v2.0.5 (MC 1.20.x).zip"
+file = "global_packs/required_data/unlock_all_recipes_v2.0.5_(MC_1.20.x).zip"
 hash = "69354e4f14a46544299620e269332a5fed112c5e8135bcf8703a2b26304bc94c"
 
 [[files]]
