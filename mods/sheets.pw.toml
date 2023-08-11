@@ -1,0 +1,14 @@
+name = "Bedsheets"
+filename = "sheets-1.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/a1OnavKf/versions/6bZyOfAr/sheets-1.4.jar"
+hash-format = "sha512"
+hash = "929fb21d4783bcd537a46e83147891d2ef10c3752bc56a584442eeeccfd431bf9c2c01a4e824cd19554da873edc4162cbad7254664f47edbcc3daedcde1a80f7"
+
+[update]
+[update.modrinth]
+mod-id = "a1OnavKf"
+version = "6bZyOfAr"
