@@ -561,11 +561,6 @@ hash = "75ccdfd2f29fbe19c23602d87f3fe79276955878eda6705f138b393077cc482c"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "9578d411ad7f5ba5f5668bfa90b84f9e7a1d0fe68a877503d2232f789b43a52d"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "2b4d34da49e4ae43dda05891a6523a661b7b38ff47b0bfba4e99702bb9ca281e"
 metafile = true
