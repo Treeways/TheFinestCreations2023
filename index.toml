@@ -368,12 +368,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "26ab19c04cf12d261a71a6bf259d7b66bc79a8cf907c48b65305550cf88e2f05"
+hash = "c252043e240caa0257789df89c4e6ba47548638391dacee43301a4710d4418b4"
 metafile = true
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
-hash = "c1c9fc4466ba025e86c776f1736510ad23f5f421bd0844dfc79544419a981ebd"
+hash = "edb1686db28f8b4c2de25050ba71f2ea0b60f46a813194aec85a7b4f029ae22d"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "5140a07ce25a4c8717d12c0319db9c9bf58974bd98fb0a2434c33305cc4fa300"
+hash = "3652bc255842f4c2b8c5b1e1a6bcdf84be02203dda8926d95f85a025c8648471"
 metafile = true
 
 [[files]]
@@ -394,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "0fed3b46bbfeef8df8e8bfafb7aa4c116a5a8a5eadec5018d27c21439dd5df7e"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "10a6735b79a84353f1620b561ea9fd584140b9a32e084172e74d383875eefa39"
 metafile = true
 
 [[files]]
@@ -438,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "1660cc0ba8745bef12c5cd62752c0541e953e0f316f9a38b908c1127c3f8886a"
+hash = "0ffa1ae79eec6ed36df6844342e3b05e6e34df7b8740f970800bfbe2216d4268"
 metafile = true
 
 [[files]]
@@ -508,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "f2ebeccfcb0d48206a3aac3b95d8e98a16b666ea8ba5d1c25830cd26f9e03b90"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
 metafile = true
 
 [[files]]
@@ -523,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "dce15ae86e5f78194dc204ecc5307e75cc6f9bb55c36510ff3fea0ff89dfe384"
+hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
 
 [[files]]
@@ -598,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirectionor.pw.toml"
-hash = "b4099ba410d22a8a587760088e1056e50ac9359652f338864ce6b5195b04de7c"
+hash = "3620bde82f3e140b03b4277384caf04ae80a84f15276f700fc552131043fbb4f"
 metafile = true
 
 [[files]]
@@ -618,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "ad3d3f0da3abd91d1d7eefdb94ac419ff5be2eb7edce17e570de05c56b6b514a"
+hash = "a746a730133be74c0d63c51c8cb587ebe68efc0584808d5a3aeabb707312b0a6"
 metafile = true
 
 [[files]]
@@ -638,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "6e5a073b083315452dbced865465ce24d3bc9716d092678064ddabef8477caa2"
+hash = "bdf251ecd45fab639424ef1dc313c3ed001122bb91e726dc2fee385bc4478eb0"
 metafile = true
 
 [[files]]
