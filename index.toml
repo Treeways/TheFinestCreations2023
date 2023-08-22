@@ -2319,11 +2319,6 @@ hash = "48a284a6a4b129d2670f4f91f18c19e0aa72a8b3a508fd37e0b4a4164d506f15"
 metafile = true
 
 [[files]]
-file = "mods/lmd.pw.toml"
-hash = "525d61fe6eb0a90f9f68b8d53f55ce8641417dca80386664acc6cfa9cfaf8c34"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
 hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
