@@ -13,10 +13,6 @@ file = "config/BlossomMods/BlossomTpa.json"
 hash = "d03c074ada1e349713a2cc4015e50e7a71aa9bf490902b325b22bd4faa5619c1"
 
 [[files]]
-file = "config/authme.json5"
-hash = "173d16817f126e291aa504f7e69ae2877e9f1f2a049bc417fb2516f35a76fdf7"
-
-[[files]]
 file = "config/debugify.json"
 hash = "4866d534f5944417491059aeed345176f01a2e3587b27816b8bb5a53e4ae7924"
 
@@ -27,22 +23,6 @@ hash = "6a11e910965017987c0cc5a384e2b368ba6e95e88864f5f4f7f8f4d75a1a1707"
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
-
-[[files]]
-file = "config/iris.properties"
-hash = "fc8b691f13462dfd6556a727f493fbf6271ae7294a6c0f07a6016dad0cf674ce"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "df2122c81ca4cd4b95f5f91b2fa8e16b245223ca79f5dd788362d5e575943b0b"
-
-[[files]]
-file = "config/mousewheelie.hjson"
-hash = "724cf297a3b6657533745be80e45950fafda84479ae27ae6f79355f3b156d6b4"
-
-[[files]]
-file = "config/ordinarytweaks.json"
-hash = "74733b8372e2c412530c29cda1706fb04488b50865b9fffc4709ee0e5be7851b"
 
 [[files]]
 file = "config/quilt-loader.txt"
@@ -69,7 +49,27 @@ file = "config/vmp.properties"
 hash = "e25cf9aecb5e4b0574cef64b90b036872ef6b4f6df03ee2af531664773871a59"
 
 [[files]]
-file = "config/xaeropatreon.txt"
+file = "config/yosbr/config/authme.json5"
+hash = "28fbc1446fe5b1cb31c8d24233ff354b2623e67b446652c93f57a726cc64409a"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "fc8b691f13462dfd6556a727f493fbf6271ae7294a6c0f07a6016dad0cf674ce"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "df2122c81ca4cd4b95f5f91b2fa8e16b245223ca79f5dd788362d5e575943b0b"
+
+[[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+hash = "724cf297a3b6657533745be80e45950fafda84479ae27ae6f79355f3b156d6b4"
+
+[[files]]
+file = "config/yosbr/config/ordinarytweaks.json"
+hash = "74733b8372e2c412530c29cda1706fb04488b50865b9fffc4709ee0e5be7851b"
+
+[[files]]
+file = "config/yosbr/config/xaeropatreon.txt"
 hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
 
 [[files]]
@@ -2523,6 +2523,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1fdfcdff9c4d820f43874c0e8e574724c6da93f0ca5b55a425915f5600063c41"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]

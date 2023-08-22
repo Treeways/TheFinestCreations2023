@@ -1,0 +1,11 @@
+{
+	// Auth Button
+	"authButton": {
+		// Position of the button on the multiplayer screen
+		"x": 6,
+		// Position of the button on the multiplayer screen
+		"y": 6,
+		// True if the button can be dragged to a new position
+		"draggable": false
+	},
+}
