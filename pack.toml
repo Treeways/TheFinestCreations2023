@@ -1,13 +1,16 @@
 name = "The Finest Creations"
 author = "Treeway7"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "10fe850d003937f48381b8cc74a8beede9a5e5facc19f933514a76251346e016"
+hash = "ce05727c98e823162171c85f5549fbc51cb996831558840aa6ae66ce237a294f"
 
 [versions]
 minecraft = "1.20.1"
 quilt = "0.19.2"
+
+[options]
+datapack-folder = "global_packs/required_data"

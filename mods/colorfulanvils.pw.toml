@@ -1,0 +1,14 @@
+name = "Colorful Anvils"
+filename = "colorfulanvils-1.2.0+1.20.x.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Di6KteGa/versions/2RmWRyLP/colorfulanvils-1.2.0%2B1.20.x.jar"
+hash-format = "sha512"
+hash = "e3fe1ee4d97d364453987d65745c4aa59566572309b63a9c9784058939ba427650228e39e51ce9e669ad222d04b87131fc467ff1c666a41c95de1852d4c7fe2d"
+
+[update]
+[update.modrinth]
+mod-id = "Di6KteGa"
+version = "2RmWRyLP"

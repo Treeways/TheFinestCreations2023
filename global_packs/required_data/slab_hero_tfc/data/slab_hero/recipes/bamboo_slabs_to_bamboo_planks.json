@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SS ",
+        "   ",
+        "   "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:bamboo_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:bamboo_planks",
+        "count": 1
+    }
+}

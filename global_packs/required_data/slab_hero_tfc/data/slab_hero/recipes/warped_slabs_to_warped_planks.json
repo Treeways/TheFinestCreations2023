@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SS ",
+        "   ",
+        "   "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:warped_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:warped_planks",
+        "count": 1
+    }
+}

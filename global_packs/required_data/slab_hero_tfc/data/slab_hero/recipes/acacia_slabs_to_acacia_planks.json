@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SS ",
+        "   ",
+        "   "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:acacia_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:acacia_planks",
+        "count": 1
+    }
+}

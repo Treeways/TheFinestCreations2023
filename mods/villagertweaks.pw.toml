@@ -1,0 +1,13 @@
+name = "VillagerTweaks"
+filename = "villagertweaks-fabric-1.20-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22b59f5eb11f323bd92669b467e028eae6c8aa3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4588087
+project-id = 682997

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SS ",
+        "   ",
+        "   "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:crimson_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:crimson_planks",
+        "count": 1
+    }
+}
