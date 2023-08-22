@@ -1,12 +1,12 @@
 name = "The Finest Creations"
 author = "Treeway7"
-version = "1.0.1"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "168abd97d0c6ca442bab6e55ea009a6bcfb7ac84bdff986d3941c662291a8da8"
+hash = "ce05727c98e823162171c85f5549fbc51cb996831558840aa6ae66ce237a294f"
 
 [versions]
 minecraft = "1.20.1"
