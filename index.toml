@@ -21,6 +21,10 @@ file = "config/debugify.json"
 hash = "4866d534f5944417491059aeed345176f01a2e3587b27816b8bb5a53e4ae7924"
 
 [[files]]
+file = "config/enchant-tweaker.properties"
+hash = "6a11e910965017987c0cc5a384e2b368ba6e95e88864f5f4f7f8f4d75a1a1707"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
 
@@ -45,12 +49,20 @@ file = "config/quilt-loader.txt"
 hash = "8b15c1fba8ab3f2c2b6fa810fb0f5994754c36f63f287e1991f35b8faed19915"
 
 [[files]]
+file = "config/styled-nicknames.json"
+hash = "c899332ba59d23f804d6fa5526af0c206c6157c8993096206294023083ea1aed"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "a30675e8aad0962dd6f67833b2a75f345817f2555c08ccc032f1b80481ce2f9f"
 
 [[files]]
 file = "config/universal-graves/models/example.json"
 hash = "0034bd722f6259b09145be5a028852b82a9e355148c480a770a89275bdbfd226"
+
+[[files]]
+file = "config/villagertweaks.json5"
+hash = "8bd90ddd37ef296d7dfffad131e4863ff502f71fd7fb0e521100bbc4a81eba71"
 
 [[files]]
 file = "config/vmp.properties"
