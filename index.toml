@@ -62,7 +62,7 @@ hash = "df2122c81ca4cd4b95f5f91b2fa8e16b245223ca79f5dd788362d5e575943b0b"
 
 [[files]]
 file = "config/yosbr/config/mousewheelie.hjson"
-hash = "724cf297a3b6657533745be80e45950fafda84479ae27ae6f79355f3b156d6b4"
+hash = "a26f0cdf438b58a783c8df6a27261d847c4c5cc121421d79f7b84f0355f11852"
 
 [[files]]
 file = "config/yosbr/config/ordinarytweaks.json"
