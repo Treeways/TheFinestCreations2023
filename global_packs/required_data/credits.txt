@@ -8,7 +8,6 @@ bat membranes
 custom nether portals
 double shulker shells
 dragon drops
-fast leaf decay
 more mob heads
 player head drops
 spectator night vision

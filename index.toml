@@ -33,6 +33,10 @@ file = "config/styled-nicknames.json"
 hash = "c899332ba59d23f804d6fa5526af0c206c6157c8993096206294023083ea1aed"
 
 [[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "5f4a204972ba592b1fad576e1235ecb6c9ab8a722da095a5a5c60487a6c2415f"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "a30675e8aad0962dd6f67833b2a75f345817f2555c08ccc032f1b80481ce2f9f"
 
@@ -702,7 +706,7 @@ hash = "218b50f039dfb0e845a569a0e3b1fa1aeed4dd1b8f0de6c958ced52379a68d04"
 
 [[files]]
 file = "global_packs/required_data/credits.txt"
-hash = "d5a7a49635f98f1ca494af34aa0953b6318e70641fffba9a9fe1e14860343f04"
+hash = "df059876aea00380750239159459ca57e72fabbf5a69a4df013e6a7c9ef0a78c"
 
 [[files]]
 file = "global_packs/required_data/custom_nether_portals_v2.3.7_(MC_1.20.x)/data/custom_nether_portals/advancements/use_ignition.json"
@@ -915,154 +919,6 @@ hash = "eb63ee494d983a21752a8e99b9dd59ddc31a2ff809a07e15fb7076f83b93f239"
 [[files]]
 file = "global_packs/required_data/dragon_drops_v1.3.4_(MC_1.20.x)/pack.png"
 hash = "e89669add1dae863e0ee58f9b42ae3a0677f7d1e1391e99c8222ad6c308cdebf"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check.mcfunction"
-hash = "579d0c9928528cecaa65ba5ceca74bad2f70a57ed0c4546d8d2b08da74c65805"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/0.mcfunction"
-hash = "b8f33e102e845150afe87503104ecd9fbf0e1961c41febb039f7fcb749461fad"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/1.mcfunction"
-hash = "82ce601494f596ff63e4ab7f3d60b05c47eeef84cdfdf4126a49b8ecf6059613"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/2.mcfunction"
-hash = "39c39d8c4ad9a20e048c2a2fa0ca637290edd1db36195cd0bb5370a4d2ac32d7"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/3.mcfunction"
-hash = "71464d79611c2b6add2bb6f948bdae99046101206df64109000fc5537f67a890"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/4.mcfunction"
-hash = "3a6621de5b99efb1cd1c6ac00d3e576c715e0651a9e73a0bf380116fbc666045"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_leaves/5.mcfunction"
-hash = "7a1aa976ef06771026f4c7bf1da48d3e432ed21c84753b2f4e78acda43984d7d"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/check_marker.mcfunction"
-hash = "dcdab059c97ef608970ed812867c828b61461aeeac888e22d7fedb2b7144b63a"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/create_front_marker.mcfunction"
-hash = "5ce46cfdc4fc4b0b93d4042f9d7b975209fd6648fab6716b493a8c7d65f54f74"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/decay.mcfunction"
-hash = "0791aa657b832e45850e6f228ef04747f000c44273f2fd6b5f7be7502dff0caf"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/destroy_marker.mcfunction"
-hash = "8d594c1d4de8d7cdf84c6dfe6f9581ef88709d6a2a0e7ac35a716e5fbb0874ad"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/iterate.mcfunction"
-hash = "91ad2629ab457fcd0df46f603499cc8d19a3f209009e49386983ae55071fdb72"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/load.mcfunction"
-hash = "2729c03baa62fd02580ec53b1958e244ae6b48645087c2e908a7b3e7384452aa"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/raycast.mcfunction"
-hash = "bf9a95c848d5170a147589d27eabcdd3dfb397b808ae80f923870d64a9877f8f"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/reset_marker.mcfunction"
-hash = "29703620752ea1c24c0e1313a804f58dfbf42bd6f0b73608bf851ea0ec9ed53f"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/start_raycasting.mcfunction"
-hash = "aba5ff43ba24dcae382809c1e0b4c1cdba61420300b6d923ad7d64cb2af07b73"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick.mcfunction"
-hash = "6b292060ec298542a1f20bd5b7f82a23b93a0644aa98ab0d0e45600946b48d2b"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick_distant_marker.mcfunction"
-hash = "4480d75d486f3574d933b6cd2034f85966816cd1f8a52b93ff53b1312ed33cf1"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick_front_marker.mcfunction"
-hash = "ab49662a0a181a0219701ce1506e2bd549de041d24be341a5f29b818f49bde00"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick_marker.mcfunction"
-hash = "41706f5b60e54509f2392d5cc2ed3ab1e808fd8e9348a82b234a870ad27c9019"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/tick_marker_in_leaves.mcfunction"
-hash = "c319ef3403888599486da98f77c84a270fd9927a53fbbec5aa601fe316c55c18"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/try_to_create_markers.mcfunction"
-hash = "c95108fc366731f6bfbd5fa6fe6d9719a57947a4a9bcc8408fc009c1d679a2f2"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/functions/uninstall.mcfunction"
-hash = "b296276e1397a6bcc2a8e4f268ea99b61a113aabb2a33fcbee0b757bab215cf6"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/0.json"
-hash = "57db3f4ede98d4bc6ccf626c33479d295c8212e6ecebc9469084257fcbb7dc80"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/1.json"
-hash = "763ccee7341a26908cae06de4edd24c5c66d3ff78b87ec3b93726f78767c8fdd"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/2.json"
-hash = "20cf8f6f5fb7cf455daeff19106ff805d4b7d0e60f1f6751bd12228433ff4253"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/3.json"
-hash = "a98f9213d53e3c3f5d62001828110457acee5a5725ad0d7e5f092b2f46a80851"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/leaves/4.json"
-hash = "1b81978cb6868d8bdad49f53c50cc22d25ee1c56a20d151fcb122c2e002b9a4f"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/should_decay.json"
-hash = "93bc8e779c06fdc79f6f68339fef8cf312de5b15717e2ee70d95ebc5479e684e"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/fast_leaf_decay/predicates/should_start_raycasting.json"
-hash = "041f5b48076088df1d2e3e6824e1984610531ccbb3bdf712fdaa3febe9e75c72"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/minecraft/tags/functions/load.json"
-hash = "5c7e9f0db8b0686bd2e40a6e8d60dc5494031ff2143ff86fb45d6e78b07b876e"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/timber/tags/functions/api/break_log.json"
-hash = "ddb129bbdadef518a7dae3d1f7cfa9204c3bc7b3dee9c233d24699ab70c961a7"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/vanillatweaks/advancements/fast_leaf_decay.json"
-hash = "ea2b706d9930468bd7b41bae47e2e37d095e0b646b34d5d4ae20d0dd1968ce68"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/vanillatweaks/advancements/root.json"
-hash = "1c1904d38cf405f427730101ea35e1a44358ccae6d7b7aff71fa77ba758a2544"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/data/vanillatweaks/tags/functions/uninstall.json"
-hash = "7267193d181f61d0dead3193b41b0e2ef2591048fa3e9b1f166ac75071da9ca7"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/pack.mcmeta"
-hash = "1eff778d1570a17d04989f7731c861ce64eff9f15db7e9360f7088d3e6b39a1d"
-
-[[files]]
-file = "global_packs/required_data/fast_leaf_decay_v2.0.7_(MC_1.20.x)/pack.png"
-hash = "d8eea9b9f71c409b3fd7c8347c124d4e443e9c52a139723dc0e7c639fa773019"
 
 [[files]]
 file = "global_packs/required_data/more_mob_heads_v2.12.1_(MC_1.20.x)/data/minecraft/loot_tables/entities/allay.json"
@@ -2483,6 +2339,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "cfcb0e1a48c26e843d58a07a8204c7c52e8e0dbdaa56b298d09bb600822289ad"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "7abb44df595d8176b296678936304e7f6e046d704d365bf2df06b964f1a632fb"
 metafile = true
 
 [[files]]
