@@ -2013,7 +2013,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "5efaaf43fc63fe29948cb48504338d23deaa0c9c611fdcbe6f868583841f61ee"
+hash = "4bd30270e79455b8b2cbc381a376b11042283c376aed755637c3564611efd046"
 metafile = true
 
 [[files]]
@@ -2068,7 +2068,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchant-tweaker.pw.toml"
-hash = "431b01a5932def9d430c84557b9136247d4caf7ce7490374e2f0ab03e09b1011"
+hash = "33c19be58f526e9770dbda9dce518dd8b6d79d09d4ef046115712317ca0392ed"
 metafile = true
 
 [[files]]
@@ -2128,7 +2128,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0fd7ed17b969cf45a4640c821198795edd621e91b4593ca2970eda63d97eb2d3"
+hash = "b6729a7bc6e897aa5af43293e2b5f9476592d19f3ccc94576a95d8b6bf4e34ac"
 metafile = true
 
 [[files]]
@@ -2188,12 +2188,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
+hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "cda8d83a64e7b8a7815d63912ea3c65f420accf99283ec9158b53036de4ae9ed"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -2203,7 +2203,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
+hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
 metafile = true
 
 [[files]]
@@ -2358,12 +2358,12 @@ metafile = true
 
 [[files]]
 file = "mods/villagertweaks.pw.toml"
-hash = "0c64fe3d4694d42f8d1439a5bf6d08e6a43c26c8d63da2fa3957bd333b47362a"
+hash = "22f1b3c212a182e4ea7b476ef426a507ee22d69668e9c04d031e42786e9831c4"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "2b4d34da49e4ae43dda05891a6523a661b7b38ff47b0bfba4e99702bb9ca281e"
+hash = "ac4c88a8647ad645252469b50b3fef48030edca97f0ed5d31058ea6b71340d84"
 metafile = true
 
 [[files]]
@@ -2373,17 +2373,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0e6c95ef1ccab7d1c56a0222ecc3072e1ac9dfae171ae860e3d0e9a1a008e529"
+hash = "b2dd36a482e7526f70823d742886030089c966ab8a94a1e63c2e92c48bb5863b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6c1a9c599f7c81d6c2f39533b335afe410a3beeb6d2b02b251ad74d5c7a34782"
+hash = "1cfb52ef509e73cd2df7d19af4fff3a5b2d46ebe5e2674257ce78e3f400bb66e"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "1fdfcdff9c4d820f43874c0e8e574724c6da93f0ca5b55a425915f5600063c41"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
 metafile = true
 
 [[files]]
@@ -2393,5 +2393,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true

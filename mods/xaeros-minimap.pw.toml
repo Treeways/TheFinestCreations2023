@@ -1,13 +1,13 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_23.6.3_Fabric_1.20.jar"
+filename = "Xaeros_Minimap_23.7.0_Fabric_1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bokaNcj/versions/vm3OXacK/Xaeros_Minimap_23.6.3_Fabric_1.20.jar"
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/AmT4OYf4/Xaeros_Minimap_23.7.0_Fabric_1.20.jar"
 hash-format = "sha1"
-hash = "a9f6215937afeb6caefcdb8ee808a2c3fb64001c"
+hash = "b77e0c88d5f962ccb65700aa0bac81bd04b730f7"
 
 [update]
 [update.modrinth]
 mod-id = "1bokaNcj"
-version = "vm3OXacK"
+version = "AmT4OYf4"
