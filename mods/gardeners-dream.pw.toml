@@ -1,0 +1,13 @@
+name = "Gardener's Dream"
+filename = "gardeners-dream-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cPfmk5E3/versions/vkj0XibE/gardeners-dream-1.jar"
+hash-format = "sha1"
+hash = "dd0fcf22776481d68ded352b6f045b257aaa79c2"
+
+[update]
+[update.modrinth]
+mod-id = "cPfmk5E3"
+version = "vkj0XibE"
