@@ -2262,6 +2262,11 @@ hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b73dc299ac242f3dc0e5cafe29701e3f1632adbe33a41561c17701da28cbf30c"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "fed0e9096e0541a15c9d1e937b2beb7c2a0a0693b4e98e7dbc4d988c82b67f90"
 metafile = true
@@ -2734,11 +2739,6 @@ metafile = true
 [[files]]
 file = "mods/trowel.pw.toml"
 hash = "bae355c2ab7052b023f25085e5632dadf95e97e773567405f1bd0702c397c535"
-metafile = true
-
-[[files]]
-file = "mods/umu-backpack.pw.toml"
-hash = "79e384cc88342444e9d9c3c731d1a7b62f4a6a14a8a83554d05fe0663e647137"
 metafile = true
 
 [[files]]
