@@ -1941,6 +1941,10 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/emi/index/stacks/example_hidden_stacks.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "255d9b4eae077fccd8e3c3ea2beb05f641fed5bbc646af3bbdc12ef4210cbf12"
 
