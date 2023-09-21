@@ -113,6 +113,10 @@ file = "config/yosbr/config/spark/config.json"
 hash = "230ef74f58b4ebfb809cc474e881be3462ede61d56a86437e935b4a3a1ac99f3"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "c0d8841a6089a516a8043f65c2c6b90f9af5671c574967713500104f710e3088"
+
+[[files]]
 file = "config/yosbr/config/xaeropatreon.txt"
 hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
 
@@ -2097,6 +2101,11 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "2a2e255c41e3328a781b04b32ac1fbdeb6eaae68baca737d3efe417c80a1e27b"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "7293ab05ee73400787ba9c31d4c59884d252dcc170880602e8e8da64dcf3f765"
 metafile = true
@@ -2262,11 +2271,6 @@ hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "b73dc299ac242f3dc0e5cafe29701e3f1632adbe33a41561c17701da28cbf30c"
-metafile = true
-
-[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "fed0e9096e0541a15c9d1e937b2beb7c2a0a0693b4e98e7dbc4d988c82b67f90"
 metafile = true
@@ -2299,6 +2303,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "174983521b194131c6c1f0d8a65538397166eb7b0ddd08bb02dc558df8ecb344"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "e5a66f936624909d847060c6aee2cded1300934c5ad1396db173275293dfbf86"
 metafile = true
 
 [[files]]
@@ -2739,6 +2748,16 @@ metafile = true
 [[files]]
 file = "mods/trowel.pw.toml"
 hash = "bae355c2ab7052b023f25085e5632dadf95e97e773567405f1bd0702c397c535"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
+metafile = true
+
+[[files]]
+file = "mods/umu-backpack.pw.toml"
+hash = "79e384cc88342444e9d9c3c731d1a7b62f4a6a14a8a83554d05fe0663e647137"
 metafile = true
 
 [[files]]
