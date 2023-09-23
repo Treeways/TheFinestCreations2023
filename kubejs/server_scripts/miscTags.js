@@ -3,5 +3,8 @@ ServerEvents.tags('block', (event) => {
 });
 
 ServerEvents.tags('item', (event) => {
-    event.add('farmersdelight:tools/knives', 'bakery:knives');
+    event.add('farmersdelight:straw_harvesters', 'bakery:bread_knife');
+    event.add('c:tools/knives', 'bakery:bread_knife');
+    event.add('bakery:knives', '#c:tools/knives');
+    event.add('trinkets:chest/cape', 'umu_backpack:backpack');
 });
