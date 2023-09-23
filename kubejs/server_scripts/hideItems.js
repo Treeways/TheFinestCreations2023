@@ -4,7 +4,7 @@
  * Takes a list of item ids and hides them from EMI.
  */
 function emiHideItems(itemsToHide) {
-    console.info('Hiding items from EMI...');
+    // console.info('Hiding items from EMI...');
 
     // == Hide low-level enchants and modified potions
 

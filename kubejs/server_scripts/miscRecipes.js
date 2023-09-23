@@ -1,15 +1,18 @@
 ServerEvents.recipes((event) => {
+    // Remove hopper botany pot recipes
     event.remove({ output: /hopper/, mod: 'botanypots' });
+    // Emergency Buttons' sounds are incompatible with Extreme Sound Muffler for some reason,
+    // which causes a fatal packet crash
+    event.remove({ output: /emergency/, mod: 'infinitybuttons' });
 
     // Remove recipes by ID
     [
-        'bodacious_berries:berry_harvester',
-        'wiredredstone:redstone_assembler',
         'clutter:clutter_recipe_book',
     ].forEach((recipeID) => {
         event.remove({ id: recipeID });
     });
 
+    // Kitchen sink should have water in the recipe
     event.custom(
         {
             type: 'minecraft:crafting_shaped',
@@ -34,29 +37,6 @@ ServerEvents.recipes((event) => {
                 item: 'bakery:kitchen_sink',
             },
         },
-    ).replaceIngredient('minecraft:water_bucket', 'minecraft:air')
+    ).replaceIngredient('minecraft:water_bucket', 'minecraft:air') // FIXME: replaceIngredient doesn't work on Quilt
         .id('bakery:kitchen_sink');
-
-    // [
-    //     'ochre', 'verdant', 'pearlescent',
-    // ].forEach((froglight) => {
-    event.custom({
-        type: 'minecraft:crafting_shaped',
-        pattern: [
-            'SSS',
-            'SFS',
-        ],
-        key: {
-            S: {
-                item: 'minecraft:stone',
-            },
-            F: {
-                tag: 'kubejs:froglights',
-            },
-        },
-        result: {
-            item: 'clutter:frog_statue',
-            count: 1,
-        },
-    }).id('kubejs:clutter/frog_statue_froglight');
 });

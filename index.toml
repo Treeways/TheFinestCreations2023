@@ -1949,6 +1949,14 @@ file = "kubejs/assets/emi/index/stacks/example_hidden_stacks.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "581f602a973ad3b0c8e2f163b992565029a25cc3b26532ca33a488b625de84c1"
+
+[[files]]
+file = "kubejs/assets/polaroidcamera/models/item/camera.json"
+hash = "88540a33de204d72407135c1de8135ea5fee5cd8e33ec97ee68eeb25b9de9759"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "255d9b4eae077fccd8e3c3ea2beb05f641fed5bbc646af3bbdc12ef4210cbf12"
 
@@ -1965,20 +1973,28 @@ file = "kubejs/server_scripts/farmersdelight2bakery.js"
 hash = "4bd91140c1ffa15a0d6bcc3b04c5b6a0728941206a7e691988fb1f6739b8c67f"
 
 [[files]]
+file = "kubejs/server_scripts/frogStatueFroglight.js"
+hash = "03325802a1fa2d4f3d5ca14f48dd57f09d765f55c858dc2f5955efaaec87b9f2"
+
+[[files]]
 file = "kubejs/server_scripts/hideItems.js"
-hash = "408677ecb0c4a8e8a58103c174ba8392977aed29adac0c59b6a64bd7f26771a7"
+hash = "9f2a5d984c1fc7ed775402183db54a4e9b6c546a042afec11b29ca967da9e31c"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipes.js"
-hash = "19d66d38c1a3796f016109f209eef0fb076d1f0245cc88d8ac52a417f1701513"
+hash = "292c2f9158cdb9eeadd578c34570c35faea296ee92218b9bfc1570c8744dd2d4"
+
+[[files]]
+file = "kubejs/server_scripts/miscTags.js"
+hash = "cf779317f570667d9e99bc470d31d48427a8a0d5875c5f08f5d8af140265783e"
 
 [[files]]
 file = "kubejs/server_scripts/silverHaunt.js"
 hash = "65bbf7fe79a995e65ac8f18a32cf4135bf6d946ba4ff0177588ee6555b36e253"
 
 [[files]]
-file = "kubejs/server_scripts/tags.js"
-hash = "1f4869f520e6eba238912a8ec657b57c8cd319fbe15ff8708ae8170fb311ef7e"
+file = "kubejs/startup_scripts/createTooltips.js"
+hash = "e878fd4678ecc2291b4b8bef0c2360583a3fd87a4e948180128c5dbaf381a7a1"
 
 [[files]]
 file = "mods/additional-banners.pw.toml"
@@ -2031,8 +2047,23 @@ hash = "16be84ad81b92b07d383e0f20adc309aa57041620029a71e8f3056ebf90d01b4"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "e7e792cc5aec854250db3cb9ee6fe16b6edcd88f3f949d1e47c976fcfd1b9c4e"
+metafile = true
+
+[[files]]
 file = "mods/better-end-sky.pw.toml"
 hash = "e30ff1fcaffabc0ae1f01a58be52f2d52783f20af4e074f1eabec360c456e2d5"
+metafile = true
+
+[[files]]
+file = "mods/better-ladders.pw.toml"
+hash = "9e3657be5dc803c96e9780bfcaea859251b1a15dcb5a757fd835103e574983c6"
+metafile = true
+
+[[files]]
+file = "mods/better-lily-pads.pw.toml"
+hash = "98d1d434f8925a945556b5bcf01db9fc38c5aa3c2b3bcd45812ba6232adbdd39"
 metafile = true
 
 [[files]]
@@ -2098,6 +2129,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
+file = "mods/carpeted-stairs.pw.toml"
+hash = "7d3e32de5baaad4c32873fdd063d06b193e87d9b9cf0d8f6a3519359d626bc1e"
 metafile = true
 
 [[files]]
@@ -2421,6 +2457,11 @@ hash = "fd5e250cb0a8b4397d76b954a5e1d486e46e1c2b65f7e02fd02a5e6ebdf9d998"
 metafile = true
 
 [[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "3d9b2eaf60c3abc7e39022e3a6faacc582cd87fc5d4fd5218292e672991b6ffa"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "4f4c7474436497c9fe179cbbf822d2257f13bdb820c8c007086479fc511b245f"
 metafile = true
@@ -2526,11 +2567,6 @@ hash = "ecd280a7f01ea8f25b8753730def582186641e5c4f54adfee8c7412a73755b7e"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
-metafile = true
-
-[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "c130f5f55ae6fc53ba8a7abb38351c84ffb08588c77ad4ca1178346a7f4a44b9"
 metafile = true
@@ -2538,6 +2574,11 @@ metafile = true
 [[files]]
 file = "mods/moyai.pw.toml"
 hash = "9ade6d933c054fdf833076aa8e8953f26431a683a007227f1933d738bacc8f06"
+metafile = true
+
+[[files]]
+file = "mods/nightlights.pw.toml"
+hash = "2233605385c51147bf8a0285ddba7d4f3292e688fb12a04a54ac0432803fda49"
 metafile = true
 
 [[files]]
@@ -2561,8 +2602,18 @@ hash = "029eb331ef366143d175d7a4fa06e424a4c1db702eeda54e8bbb7414219ec556"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "dd2d034ce20984ddc0c2c5979776b1912fa4e3697b5a1addcc0b70b38d86779d"
+metafile = true
+
+[[files]]
+file = "mods/polaroidcamera.pw.toml"
+hash = "3ff352a18028337803c95c68bd6c4d01eadf22f74412f22348bec0a09d378e1d"
 metafile = true
 
 [[files]]
@@ -2703,6 +2754,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "980fb3e746441d120ea40f9c8b488aa0200894c58474a080a8f7c353ae53818f"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "a69de34851715b0bf011311fafca0d6e8217cc32717f8351e12babbb382fc480"
 metafile = true
 
 [[files]]
