@@ -1,0 +1,14 @@
+{
+    "item.polaroidcamera.camera.tooltip": "Polaroid Camera",
+    "item.polaroidcamera.camera.tooltip.summary": "_Snaps a picture_ and applies it to an _Empty Map_ in your inventory.",
+    "item.polaroidcamera.camera.tooltip.condition1": "R-Click",
+    "item.polaroidcamera.camera.tooltip.behaviour1": "_Activates_ the camera screen.",
+    "item.polaroidcamera.camera.tooltip.condition2": "Escape",
+    "item.polaroidcamera.camera.tooltip.behaviour2": "_Deactivates_ the camera screen.",
+    "item.polaroidcamera.camera.tooltip.control1": "When using Movement Keys while Activated",
+    "item.polaroidcamera.camera.tooltip.action1": "_Nudges the viewport_ in any direction.",
+    "item.polaroidcamera.camera.tooltip.control2": "When using Scrollwheel while Activated",
+    "item.polaroidcamera.camera.tooltip.action2": "_Zooms the viewport_ in and out.",
+    "item.polaroidcamera.camera.tooltip.control3": "Snap Camera Button",
+    "item.polaroidcamera.camera.tooltip.action3": "_Selects center of viewport_ for the picture."
+}
