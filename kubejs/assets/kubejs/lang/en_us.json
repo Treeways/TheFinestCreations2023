@@ -9,6 +9,13 @@
     "item.polaroidcamera.camera.tooltip.action1": "_Nudges the viewport_ in any direction.",
     "item.polaroidcamera.camera.tooltip.control2": "When using Scrollwheel while Activated",
     "item.polaroidcamera.camera.tooltip.action2": "_Zooms the viewport_ in and out.",
-    "item.polaroidcamera.camera.tooltip.control3": "Snap Camera Button",
-    "item.polaroidcamera.camera.tooltip.action3": "_Selects center of viewport_ for the picture."
+    "item.polaroidcamera.camera.tooltip.control3": "When using the Snap Camera Button while Activated",
+    "item.polaroidcamera.camera.tooltip.action3": "_Selects the center of the viewport_ for the picture.",
+
+    "item.labels.label.tooltip": "Label",
+    "item.labels.label.tooltip.summary": "_Displays item silhouettes_ on chests.",
+    "item.labels.label.tooltip.condition1": "Crouch R-Click at Chest",
+    "item.labels.label.tooltip.behaviour1": "_Places_ the label on a chest.",
+    "item.labels.label.tooltip.condition2": "Crouch R-Click Item at Label",
+    "item.labels.label.tooltip.behaviour2": "_Displays an item_ within the label."
 }

@@ -20,7 +20,7 @@ GRAY_AND_GOLD
 GRAY_AND_RED
 ---
 
-Include this in one lang JSON file located in kubejs/assets/lang/en_us.json
+Include this in one lang JSON file located in kubejs/assets/kubejs/lang/en_us.json
 {
     "item.create.example_item.tooltip": "Polaroid Camera",
     "item.create.example_item.tooltip.summary": "A brief description of the item. _Underscores_ highlight a term.",
@@ -38,16 +38,17 @@ const $TooltipModifier = Java.loadClass('com.simibubi.create.foundation.item.Too
 const $Palette = Java.loadClass('com.simibubi.create.foundation.item.TooltipHelper$Palette');
 
 /**
- *
  * @param {string} itemID
+ * @param {Internal.TooltipHelper$Palette} palette
  */
-function STANDARD(itemID) {
+function registerTooltip(itemID, palette) {
     $TooltipModifier.REGISTRY.register(
         itemID,
-        new $ItemDescription(itemID, $Palette.STANDARD_CREATE),
+        new $ItemDescription(itemID, palette),
     );
 }
 
 ClientEvents.init((event) => {
-    STANDARD('polaroidcamera:camera');
+    registerTooltip('polaroidcamera:camera', $Palette.STANDARD_CREATE);
+    registerTooltip('labels:label', $Palette.BLUE);
 });

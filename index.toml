@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.md"
+hash = "9900a33b83057cd23990e688df7ee458bc3210d4b9574aece4c980627152b509"
+
+[[files]]
 file = "config/BlossomMods/BlossomHomes.json"
 hash = "e2d50eb7e084c04639af26b197d9d11b57a721cdc14d45702395b72e8e648633"
 
@@ -1945,12 +1949,48 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/copperhopper/credits.txt"
+hash = "15da716b88f56137d7a1d4fa964d6dbf3139b894a867f7227b7d081ce21c150d"
+
+[[files]]
+file = "kubejs/assets/copperhopper/lang/en_us.json"
+hash = "000c4210ff323c2cca8946fde45cb8b04cb013dce050fcd6d43838fcbd36068b"
+
+[[files]]
+file = "kubejs/assets/copperhopper/models/block/copper_hopper.json"
+hash = "6c3441122c12dea96f50bc71236bbbdbe5b82e4da5d4e2db538892d4f112c77c"
+
+[[files]]
+file = "kubejs/assets/copperhopper/models/block/copper_hopper_side.json"
+hash = "d23aaabd69309c6d7e8655d7d9cb8d62ed8c553f69e76abefb63e3baa4556047"
+
+[[files]]
+file = "kubejs/assets/copperhopper/textures/block/golden_hopper_inside.png"
+hash = "b5c08954751f27ef9635d3324cd371850c26f0a3a15c75683ac2e4cd2e4c24aa"
+
+[[files]]
+file = "kubejs/assets/copperhopper/textures/block/golden_hopper_outside.png"
+hash = "8783bb915cafc3c6caa3af517d76e98343e76b67a481a60ac0ec63e6112ead37"
+
+[[files]]
+file = "kubejs/assets/copperhopper/textures/block/golden_hopper_top.png"
+hash = "33d7a11bfdefcb39d405f4dd6e140a73b97474d92d2988f79120e574909fc757"
+
+[[files]]
+file = "kubejs/assets/copperhopper/textures/item/copper_hopper.png"
+hash = "345a4de5fa553ab7520ff0d9ef3cf9bcd6b3060982c583c43334503f32d73846"
+
+[[files]]
+file = "kubejs/assets/copperhopper/textures/item/copper_hopper_minecart.png"
+hash = "a8c54e38b40860819bec45502886a571069d2d32f8f9d8a535807f2133893c98"
+
+[[files]]
 file = "kubejs/assets/emi/index/stacks/example_hidden_stacks.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "581f602a973ad3b0c8e2f163b992565029a25cc3b26532ca33a488b625de84c1"
+hash = "9e343f982591964fff5e0d25582aec4f9f2b6aca65486c0edd40d95eca00fa84"
 
 [[files]]
 file = "kubejs/assets/polaroidcamera/models/item/camera.json"
@@ -1994,7 +2034,7 @@ hash = "65bbf7fe79a995e65ac8f18a32cf4135bf6d946ba4ff0177588ee6555b36e253"
 
 [[files]]
 file = "kubejs/startup_scripts/createTooltips.js"
-hash = "e878fd4678ecc2291b4b8bef0c2360583a3fd87a4e948180128c5dbaf381a7a1"
+hash = "a80e97ad23980aa26deef296c0cd382547d178beb099382f799fdaf6e45f551a"
 
 [[files]]
 file = "mods/additional-banners.pw.toml"
@@ -2227,6 +2267,16 @@ hash = "bf9e0f5724a457e130c37eef5d5dd4a194ef47b65942ba0628ab1ab2349a1b45"
 metafile = true
 
 [[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "842e17199861f6639ad0da2c3a2bac4874a7556d2cec00bd2d5f85289b749c15"
+metafile = true
+
+[[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "d5d499c4c555d25c91616a3dca350cd9677e6e166882d9c8e1405e3ca6c2686b"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "300462da5b682873455aea6c73ca6113b00434c94516d692baee2e060508cc2c"
 metafile = true
@@ -2417,11 +2467,6 @@ hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]
-file = "mods/glowing-torchflower.pw.toml"
-hash = "b38a7635f23e55121ed6bd111503fa80f7149e3e80001781102ecc62a0cae97a"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "9db7f06dd55021ec4a9d3c104ff694184088f940db16ec39e6eb27d167203033"
 metafile = true
@@ -2429,6 +2474,11 @@ metafile = true
 [[files]]
 file = "mods/headfix.pw.toml"
 hash = "ee80214c8d531367f647a87a4362e59b9ad957f04205fc8e930de443a0f69d73"
+metafile = true
+
+[[files]]
+file = "mods/hellions-sniffer+.pw.toml"
+hash = "d26baf8a8f8e338cbf7f0a0d3179de1920148c546b592b1193dafb30ba1480ad"
 metafile = true
 
 [[files]]
@@ -2489,6 +2539,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "79cb5803410fe55b896deeb08e3bf2d8446d1730664280b0d792b97bc4c72085"
+metafile = true
+
+[[files]]
+file = "mods/labels.pw.toml"
+hash = "f9a8157293c75d443effb46f703044a9c1a583c43483512c091c0ea820e7f7fb"
 metafile = true
 
 [[files]]
@@ -2577,6 +2632,11 @@ hash = "9ade6d933c054fdf833076aa8e8953f26431a683a007227f1933d738bacc8f06"
 metafile = true
 
 [[files]]
+file = "mods/new-nether-chest.pw.toml"
+hash = "347be924c49032269419f1a0c2423836334d57149eb45cc879e2c0b67771e512"
+metafile = true
+
+[[files]]
 file = "mods/nightlights.pw.toml"
 hash = "2233605385c51147bf8a0285ddba7d4f3292e688fb12a04a54ac0432803fda49"
 metafile = true
@@ -2597,6 +2657,11 @@ hash = "be14d9e96b119117afce2c77700bcae11d21cdc276471b54bbf3cf89496e2060"
 metafile = true
 
 [[files]]
+file = "mods/omnihopper.pw.toml"
+hash = "447fbc6e4f204c8f1bce48ea1bf45cc5840123f8846f595fbc6ddc614debbe89"
+metafile = true
+
+[[files]]
 file = "mods/ordinarytweaks.pw.toml"
 hash = "029eb331ef366143d175d7a4fa06e424a4c1db702eeda54e8bbb7414219ec556"
 metafile = true
@@ -2604,6 +2669,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/pick-block-pro.pw.toml"
+hash = "5915da1e2e03828deeec1a2353c9a884caf00885c6477ee0075393c776572b80"
 metafile = true
 
 [[files]]
@@ -2689,6 +2759,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "73e522db6666ce4a96b69a93953553dc02d1bec4520f61207502f154ea6d608e"
+metafile = true
+
+[[files]]
+file = "mods/shulker-box-slot.pw.toml"
+hash = "d7c0b106f8ac4a823e2818429de2398422fa4609964f5a0ebdc85bd87c40a099"
 metafile = true
 
 [[files]]
@@ -2809,11 +2884,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
-metafile = true
-
-[[files]]
-file = "mods/umu-backpack.pw.toml"
-hash = "79e384cc88342444e9d9c3c731d1a7b62f4a6a14a8a83554d05fe0663e647137"
 metafile = true
 
 [[files]]
