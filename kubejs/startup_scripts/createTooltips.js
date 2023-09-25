@@ -50,5 +50,5 @@ function registerTooltip(itemID, palette) {
 
 ClientEvents.init((event) => {
     registerTooltip('polaroidcamera:camera', $Palette.STANDARD_CREATE);
-    registerTooltip('labels:label', $Palette.BLUE);
+    registerTooltip('labels:label', $Palette.YELLOW);
 });

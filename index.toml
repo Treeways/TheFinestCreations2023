@@ -2034,7 +2034,7 @@ hash = "65bbf7fe79a995e65ac8f18a32cf4135bf6d946ba4ff0177588ee6555b36e253"
 
 [[files]]
 file = "kubejs/startup_scripts/createTooltips.js"
-hash = "a80e97ad23980aa26deef296c0cd382547d178beb099382f799fdaf6e45f551a"
+hash = "0ea198b51a87df5497848b19babc7f0a11042a70643f0570c232ab6ad36ce113"
 
 [[files]]
 file = "mods/additional-banners.pw.toml"
