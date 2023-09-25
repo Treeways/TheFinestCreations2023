@@ -17,5 +17,7 @@
     "item.labels.label.tooltip.condition1": "Crouch R-Click at Chest",
     "item.labels.label.tooltip.behaviour1": "_Places_ the label on a chest.",
     "item.labels.label.tooltip.condition2": "Crouch R-Click Item at Label",
-    "item.labels.label.tooltip.behaviour2": "_Displays an item_ within the label."
+    "item.labels.label.tooltip.behaviour2": "_Displays an item_ within the label.",
+
+    "tag.kubejs.tomato_sauce": "Tomato Sauce"
 }

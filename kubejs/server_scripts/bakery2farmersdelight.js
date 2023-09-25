@@ -1,4 +1,6 @@
 ServerEvents.recipes((event) => {
+    event.remove({id: 'jei:/bakery/pot_cooking/beetroot_soup'})
+    event.remove({id: 'bakery/pot_cooking/beetroot_soup'})
     event.forEachRecipe({ type: 'bakery:pot_cooking' }, (recipe) => {
         // Null-checking everything as a paranoid safety precaution!
         // We really don't want to risk a KubeJS error by trying to access null values.

@@ -1986,15 +1986,19 @@ hash = "a8c54e38b40860819bec45502886a571069d2d32f8f9d8a535807f2133893c98"
 
 [[files]]
 file = "kubejs/assets/emi/index/stacks/example_hidden_stacks.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "8ee623332758ca9c05049a7bee549de7574d7e688eafabcb9638cce4cc4027d5"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "9e343f982591964fff5e0d25582aec4f9f2b6aca65486c0edd40d95eca00fa84"
+hash = "08eb67dbc23117101f19301290544df61daa5455dfa2bfd98f3ce07c55b5eb63"
 
 [[files]]
 file = "kubejs/assets/polaroidcamera/models/item/camera.json"
 hash = "88540a33de204d72407135c1de8135ea5fee5cd8e33ec97ee68eeb25b9de9759"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2005,8 +2009,120 @@ file = "kubejs/config/common.properties"
 hash = "61b9b0e1d4731da5156ccbcec21d7daa2c6aa1506dce5397f6cd07dfbf352d91"
 
 [[files]]
+file = "kubejs/config/probejs.json"
+hash = "487128db93fe40f02ce10e18600fed05b353b3544fdfa223f80d21e81545477f"
+
+[[files]]
+file = "kubejs/data/candlelight/recipes/pan_cooking/bolognese.json"
+hash = "cb72e0914337cf3902cff625f7331bf9e99539a1b32fa40d7fb7ae1c15f6fc23"
+
+[[files]]
+file = "kubejs/data/candlelight/recipes/pan_cooking/pizza.json"
+hash = "e2fb1edd903a369e327c106dbc779cc25fe98e1dc8d083473e68b5639aee84fb"
+
+[[files]]
+file = "kubejs/data/candlelight/recipes/pot_cooking/pasta.json"
+hash = "d49131c7c3841ace7b32e763762ae93cb1abb5d4be240e8b8bf90af09cfa1d18"
+
+[[files]]
+file = "kubejs/data/candlelight/recipes/worldgen/configured_feature/tomatoes_patch.json"
+hash = "0b26fc13697781e28b8083bc5dbca1e26a31f776ec6629f59d3380b334080292"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/cooking/fish_stew.json"
+hash = "ff1e606a787d2168340dd54d3d8f5133705e0888bb39366b583270df36f54b70"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/cooking/pasta_with_meatballs.json"
+hash = "fbccc76e44d537aa43d7ebb77a3a67ff4564e68d4b28ce4981bb8056d0ac9190"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/cooking/pasta_with_mutton_chop.json"
+hash = "5cf22a9fe6e4ce6f3b76d97b4ae5afe884c9102dc236496dd4fe70313c7c1ad8"
+
+[[files]]
+file = "kubejs/jsconfig.json"
+hash = "70f26cbe24e0349047f8824b478a1aa94167048bd4dc85af86e84d85e649c535"
+
+[[files]]
+file = "kubejs/probe/cache/cachedForgeEvents.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/probe/cache/cachedJava.json"
+hash = "76f164886a0ff33578ea4df232e91d025825a7fcb602b2f92bbc1e2277d64a55"
+
+[[files]]
+file = "kubejs/probe/cache/docs/dynamicjs.json"
+hash = "71f12ab6d05a72e8c58748b232ed57ab955f5f337070cff27002ad26a3f58b3a"
+
+[[files]]
+file = "kubejs/probe/cache/docs/events.json"
+hash = "578aee5d392e6da1a4b12d91bd075d1b824d9fba6ee98f07b49e28f00d8c0dfd"
+
+[[files]]
+file = "kubejs/probe/cache/docs/kubejs.json"
+hash = "3db4ef01ff3999f14b21c7ff42346884f5de71a2569001c52ef4773b2ea593ab"
+
+[[files]]
+file = "kubejs/probe/cache/docs/kubejs_recipes.json"
+hash = "0ab68fcd509638e3735063b6490c32261c40289eed123cc8a6e977f951e38151"
+
+[[files]]
+file = "kubejs/probe/cache/docs/morejs.json"
+hash = "3b6076d8ff5ab4dcc2086e27691d7e3b8abfccdf7be23f890cdb28b23d50e779"
+
+[[files]]
+file = "kubejs/probe/cache/docs/probe.json"
+hash = "eabf3964c5cf77d0f31b58cd091776631bf5800ffcca1be6c4c4cd8d14cfbf83"
+
+[[files]]
+file = "kubejs/probe/cache/docs/registry.json"
+hash = "c76e8fdae5ab850f764c8d069258a5b2a0611f4b691ac563829dd1af7157f2d8"
+
+[[files]]
+file = "kubejs/probe/cache/docs/types.json"
+hash = "a22e5e391f8639530fa4649271b6a468b0dbd7d0619961b59066e9d8887e1b44"
+
+[[files]]
+file = "kubejs/probe/cache/modHash.txt"
+hash = "78df979ee980faf68b1abd1dd8d74499309badf69a0e7e22a48d2ec40ab2ec14"
+
+[[files]]
+file = "kubejs/probe/generated/constants.d.ts"
+hash = "3f0688de159c8f78d0018b1cba6a4de322cd26b28d74f6dad50ea0f3ab865c2f"
+
+[[files]]
+file = "kubejs/probe/generated/events.d.ts"
+hash = "c8fe67c4aa0efe133c84e61339798197b4c3e2ed8af5c4932a65a530ad921865"
+
+[[files]]
+file = "kubejs/probe/generated/globals.d.ts"
+hash = "0fe4ada29efb73f70c6a7e01e503421e53f3393d9676d9d9fda06e24856796dc"
+
+[[files]]
+file = "kubejs/probe/generated/names.d.ts"
+hash = "d1fe0c1e3467db9c16cb4f0788d8f307cae2499664c53206bac2a42fc875bdaa"
+
+[[files]]
+file = "kubejs/probe/generated/raw.d.ts"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/probe/generated/registries.d.ts"
+hash = "a8576d3f9bb8c7ba80c621f5cb3edd8024845e1713e571934d6b99a67ba99056"
+
+[[files]]
+file = "kubejs/probe/generated/tag_events.d.ts"
+hash = "baf0fb317d586bc227dfe4b52ba08f82346a3ea2493d6e078f36291b10e91ae0"
+
+[[files]]
 file = "kubejs/server_scripts/bakery2farmersdelight.js"
-hash = "90e5348d025264aae24c1f545977e05a8517342c9f6209ee00455950e86d4d51"
+hash = "a9de73930772e62ed6d6425c7072be365ec5d79eccb1a19926bdab4b8a80e6bb"
+
+[[files]]
+file = "kubejs/server_scripts/crateworks.js"
+hash = "dc9d86f63f34fc815378700fccd4cf0043ee35c36159be2bec8096d5c019b82a"
 
 [[files]]
 file = "kubejs/server_scripts/farmersdelight2bakery.js"
@@ -2018,7 +2134,7 @@ hash = "03325802a1fa2d4f3d5ca14f48dd57f09d765f55c858dc2f5955efaaec87b9f2"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipes.js"
-hash = "292c2f9158cdb9eeadd578c34570c35faea296ee92218b9bfc1570c8744dd2d4"
+hash = "97aa20dedd7f984fc2fb18e02ad7172c6e293115d8a4a91e524e8f35189664b4"
 
 [[files]]
 file = "kubejs/server_scripts/miscTags.js"
@@ -2027,6 +2143,10 @@ hash = "cf779317f570667d9e99bc470d31d48427a8a0d5875c5f08f5d8af140265783e"
 [[files]]
 file = "kubejs/server_scripts/silverHaunt.js"
 hash = "65bbf7fe79a995e65ac8f18a32cf4135bf6d946ba4ff0177588ee6555b36e253"
+
+[[files]]
+file = "kubejs/server_scripts/tomatoSauce.js"
+hash = "5e89ab3d5f9d5d7ff0086850116b20b3e85e3e234ae2d49a163362e430bc10a1"
 
 [[files]]
 file = "kubejs/startup_scripts/createTooltips.js"
@@ -2160,6 +2280,11 @@ metafile = true
 [[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "2fc3448d061d935fde70c16fa0fc84e4a385ab62353e9eaa7428a8d9c2dca6aa"
+metafile = true
+
+[[files]]
+file = "mods/caffeinated.pw.toml"
+hash = "e07e9a0d4a0f64a1d47fb05b671b1a8d9470ad0ee07626d44b49f85446c1d979"
 metafile = true
 
 [[files]]
@@ -2448,6 +2573,11 @@ hash = "d653de3e0a16a4bd8637162adf89f183267144b3be284f73aa2f8a31cd07816e"
 metafile = true
 
 [[files]]
+file = "mods/frog-legs.pw.toml"
+hash = "9bab93891a3ed73e3ace20fe58f2b38ef161deee4a37c09f30b43114f6b1acd1"
+metafile = true
+
+[[files]]
 file = "mods/gardeners-dream.pw.toml"
 hash = "67f9841d080362f422acae70e447fc8a9f624bae11dbd48f4c9dcbe25365ecf3"
 metafile = true
@@ -2555,6 +2685,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
 hash = "ecc3a3b5a12fcf6ff40271efd26b9098f17e1a65447511e9de12baf0e03e0042"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "d9b42897527de1975a58049c4063b04f83f2913cdd8cd8cfd27ff435854b98f2"
 metafile = true
 
 [[files]]
