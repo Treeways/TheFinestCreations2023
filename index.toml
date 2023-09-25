@@ -2005,6 +2005,10 @@ file = "kubejs/config/common.properties"
 hash = "61b9b0e1d4731da5156ccbcec21d7daa2c6aa1506dce5397f6cd07dfbf352d91"
 
 [[files]]
+file = "kubejs/data/snifferplus/worldgen/biome/timeless_grotto.json"
+hash = "2b379a262724fc453b3e8c1cc9570daa5c003c8f2c6385fa86cdd50d22a04530"
+
+[[files]]
 file = "kubejs/server_scripts/bakery2farmersdelight.js"
 hash = "90e5348d025264aae24c1f545977e05a8517342c9f6209ee00455950e86d4d51"
 
@@ -2015,10 +2019,6 @@ hash = "4bd91140c1ffa15a0d6bcc3b04c5b6a0728941206a7e691988fb1f6739b8c67f"
 [[files]]
 file = "kubejs/server_scripts/frogStatueFroglight.js"
 hash = "03325802a1fa2d4f3d5ca14f48dd57f09d765f55c858dc2f5955efaaec87b9f2"
-
-[[files]]
-file = "kubejs/server_scripts/hideItems.js"
-hash = "9f2a5d984c1fc7ed775402183db54a4e9b6c546a042afec11b29ca967da9e31c"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipes.js"
