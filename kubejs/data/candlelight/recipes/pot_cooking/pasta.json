@@ -1,0 +1,21 @@
+{
+    "type": "candlelight:pot_cooking",
+    "ingredients": [
+      {
+        "tag": "candlelight:pasta"
+      },
+      {
+        "tag": "kubejs:tomato_sauce"
+      },
+      {
+        "tag": "vinery:wine"
+      }
+    ],
+    "container": {
+      "item": "minecraft:bowl"
+    },
+    "result": {
+      "item": "candlelight:pasta",
+      "count": 4
+    }
+  }
