@@ -10,5 +10,7 @@
     "item.polaroidcamera.camera.tooltip.control2": "When using Scrollwheel while Activated",
     "item.polaroidcamera.camera.tooltip.action2": "_Zooms the viewport_ in and out.",
     "item.polaroidcamera.camera.tooltip.control3": "Snap Camera Button",
-    "item.polaroidcamera.camera.tooltip.action3": "_Selects center of viewport_ for the picture."
+    "item.polaroidcamera.camera.tooltip.action3": "_Selects center of viewport_ for the picture.",
+
+    "tag.kubejs.tomato_sauce": "Tomato Sauce"
 }

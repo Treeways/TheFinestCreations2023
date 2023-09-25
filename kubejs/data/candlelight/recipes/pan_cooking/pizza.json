@@ -1,0 +1,22 @@
+{
+    "type": "candlelight:pan_cooking",
+    "ingredients": [
+      {
+        "tag": "kubejs:tomato_sauce"
+      },
+      {
+        "tag": "candlelight:dough"
+      },
+      {
+        "tag": "candlelight:cheese"
+      }
+    ],
+    "container": {
+      "item": "minecraft:bowl"
+    },
+    "result": {
+      "item": "candlelight:pizza",
+      "count": 1,
+      "experience": 0.75
+    }
+  }
