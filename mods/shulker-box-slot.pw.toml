@@ -1,0 +1,13 @@
+name = "Shulker Box Slot"
+filename = "shulkerboxslot-quilt-5.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R5T1RmWr/versions/wHK9s2cb/shulkerboxslot-quilt-5.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "dd3e83d3a324838efbc0570d7adf47176b3b3d79"
+
+[update]
+[update.modrinth]
+mod-id = "R5T1RmWr"
+version = "wHK9s2cb"

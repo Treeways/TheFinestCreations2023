@@ -1,0 +1,13 @@
+name = "Cobweb Recipe"
+filename = "Cobweb Recipe.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EpK9oHrA/versions/O752tcUH/Cobweb%20Recipe.zip"
+hash-format = "sha1"
+hash = "8e65357543d8bf6733d5a180d94b28dbac71562b"
+
+[update]
+[update.modrinth]
+mod-id = "EpK9oHrA"
+version = "O752tcUH"

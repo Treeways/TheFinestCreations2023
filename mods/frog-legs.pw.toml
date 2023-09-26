@@ -1,0 +1,13 @@
+name = "Frog Legs"
+filename = "FrogLegs-v1.1.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/equ26Hrh/versions/KwxeG8bC/FrogLegs-v1.1.0-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "6233933dd96a5f37c4c908e0b7f5c84731f708d8"
+
+[update]
+[update.modrinth]
+mod-id = "equ26Hrh"
+version = "KwxeG8bC"
