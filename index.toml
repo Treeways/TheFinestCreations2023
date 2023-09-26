@@ -2485,7 +2485,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "174983521b194131c6c1f0d8a65538397166eb7b0ddd08bb02dc558df8ecb344"
+hash = "c5cceaf1509b02a8167850ee3fa208952ed72ba057b00e4ef36956ed8facd584"
 metafile = true
 
 [[files]]
@@ -2595,7 +2595,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "42e432f5ea263ae6f2f9bec2ce8fc17f56d074541c6080eee6741ea15f083899"
+hash = "27724b388d3edaa554955873ddd3062cd08b3aa827c37d386e6c539573b2660b"
 metafile = true
 
 [[files]]
@@ -2605,7 +2605,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "fd5e250cb0a8b4397d76b954a5e1d486e46e1c2b65f7e02fd02a5e6ebdf9d998"
+hash = "336ea3e0d5ce873f83b316b68c6a10eb215d9552881c272e3cd7ed87b6797927"
 metafile = true
 
 [[files]]
@@ -2615,7 +2615,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4f4c7474436497c9fe179cbbf822d2257f13bdb820c8c007086479fc511b245f"
+hash = "6dac263acaa4a748dede2ef6399cf0dfe26e5ad2d1ec3d5b2f4e6d505d92fbe5"
 metafile = true
 
 [[files]]
@@ -2650,7 +2650,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "5d0e837f74aa864f3ef6c7659606282b6b0261ea86148cc044ef6cd37ea6e5a6"
+hash = "797f86c7fc837d9f6539532ea2a95f2778b13c4c71ac4c22faf1e4604cd6ec09"
 metafile = true
 
 [[files]]
@@ -2835,7 +2835,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "7c5fce14ecebded06e99b8226d93b00c9cf7c3d463053d21746fe7741c7c9de5"
+hash = "7c188d076634c4bd9c41778c4c9a44bee61dd44e50249a1b8cd38a383c9421ff"
 metafile = true
 
 [[files]]
@@ -2900,12 +2900,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "28886fd5471a7a5cc215f155991e1628aaa86224da1cf46e1c2d12cef88118f4"
+hash = "9a95450545986bf74307b399d60a42236926b21e142bf246408f7ae0804ccee8"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "5e7f4f61070d8fb61912b66b021ea5751fcb9f256b6a3c0acf0a75d427224373"
+hash = "89b5b5a0824c6cdd70cd416b5d1baa6754ad7db3a779fc28d20af89b4d1575f0"
 metafile = true
 
 [[files]]
@@ -3010,7 +3010,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagertweaks.pw.toml"
-hash = "0c64fe3d4694d42f8d1439a5bf6d08e6a43c26c8d63da2fa3957bd333b47362a"
+hash = "22f1b3c212a182e4ea7b476ef426a507ee22d69668e9c04d031e42786e9831c4"
 metafile = true
 
 [[files]]
@@ -3055,5 +3055,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
+hash = "59bb2c1e4341dac93bea7eaa109722d42d08360724d3d12c85e9f86d3444eb94"
 metafile = true
