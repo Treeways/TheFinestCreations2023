@@ -2005,20 +2005,8 @@ file = "kubejs/assets/polaroidcamera/models/item/camera.json"
 hash = "88540a33de204d72407135c1de8135ea5fee5cd8e33ec97ee68eeb25b9de9759"
 
 [[files]]
-file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "255d9b4eae077fccd8e3c3ea2beb05f641fed5bbc646af3bbdc12ef4210cbf12"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "61b9b0e1d4731da5156ccbcec21d7daa2c6aa1506dce5397f6cd07dfbf352d91"
-
-[[files]]
-file = "kubejs/config/probejs.json"
-hash = "487128db93fe40f02ce10e18600fed05b353b3544fdfa223f80d21e81545477f"
 
 [[files]]
 file = "kubejs/data/bakery/recipes/pot_cooking/beetroot_soup.json"
@@ -2034,7 +2022,7 @@ hash = "cb72e0914337cf3902cff625f7331bf9e99539a1b32fa40d7fb7ae1c15f6fc23"
 
 [[files]]
 file = "kubejs/data/candlelight/recipes/pan_cooking/pizza.json"
-hash = "e2fb1edd903a369e327c106dbc779cc25fe98e1dc8d083473e68b5639aee84fb"
+hash = "448f3bc60292b084f0ee31bb297f72a2408fcfc5545116eea734d8afe2a92b9f"
 
 [[files]]
 file = "kubejs/data/candlelight/recipes/pot_cooking/pasta.json"
@@ -2057,16 +2045,8 @@ file = "kubejs/data/farmersdelight/recipes/cooking/pasta_with_mutton_chop.json"
 hash = "5cf22a9fe6e4ce6f3b76d97b4ae5afe884c9102dc236496dd4fe70313c7c1ad8"
 
 [[files]]
-file = "kubejs/jsconfig.json"
-hash = "70f26cbe24e0349047f8824b478a1aa94167048bd4dc85af86e84d85e649c535"
-
-[[files]]
-file = "kubejs/server_scripts/bakery2farmersdelight.js"
-hash = "a9de73930772e62ed6d6425c7072be365ec5d79eccb1a19926bdab4b8a80e6bb"
-
-[[files]]
 file = "kubejs/server_scripts/chocolate.js"
-hash = "9b8f41632a0257f297bd12c7206b109dd57313e074e218de9b50011a33a08df7"
+hash = "17122a8171a4669d57fe07425040d82c86b453b8049b6f5a4f3d073f30ee9468"
 
 [[files]]
 file = "kubejs/server_scripts/cooking_pot_compat/bakery2candlelight.js"
@@ -2081,20 +2061,20 @@ file = "kubejs/server_scripts/cooking_pot_compat/candlelight2farmersdelight.js"
 hash = "8ce5bb831d30074837834d9bec7a813fff001b58b613d43309055597cf840060"
 
 [[files]]
+file = "kubejs/server_scripts/cooking_pot_compat/farmersdelight2bakery.js"
+hash = "4bd91140c1ffa15a0d6bcc3b04c5b6a0728941206a7e691988fb1f6739b8c67f"
+
+[[files]]
 file = "kubejs/server_scripts/cooking_pot_compat/farmersdelight2candlelight.js"
 hash = "cf4832981554326dc19876536d16e0b85d1dc0191ebd10fa91c1258641753f35"
 
 [[files]]
 file = "kubejs/server_scripts/crateworks.js"
-hash = "dc9d86f63f34fc815378700fccd4cf0043ee35c36159be2bec8096d5c019b82a"
+hash = "874e134960a8e3d644268fbafc53a8a7c2a79b27c05446a54d08b8ca545bb540"
 
 [[files]]
 file = "kubejs/server_scripts/dough.js"
-hash = "b12167a46e20fe164b148170f8e4bac32b862697d7cd5a1ae32df166e1f756a3"
-
-[[files]]
-file = "kubejs/server_scripts/farmersdelight2bakery.js"
-hash = "4bd91140c1ffa15a0d6bcc3b04c5b6a0728941206a7e691988fb1f6739b8c67f"
+hash = "a3c04a731b4b61d6337ab9601e42431db274a7bb46d64a1a1fd4b3874bc0fdb7"
 
 [[files]]
 file = "kubejs/server_scripts/frogStatueFroglight.js"
@@ -2106,11 +2086,11 @@ hash = "a8aa824112e74fa52bcb0f3e9e012f002e78305bbec578e8235d99f003e63924"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipes.js"
-hash = "79e6650610dd72e6a30ede6867a691fcc5200273df819432b0555993c6fa9aed"
+hash = "4fde120215a70326e2cb2f449b126a41506a2eaf6bfb9aa7e2d9d0df0abac3b7"
 
 [[files]]
 file = "kubejs/server_scripts/miscTags.js"
-hash = "1afef371bb10609130bc0c9d1723cf703d80c7b15b370c534beea7c4d01239f0"
+hash = "c60d0d7fdac666fc360b2e9bb5518d4e4083eb34ebfb0b6a9054cfbccd5ef6e8"
 
 [[files]]
 file = "kubejs/server_scripts/silverHaunt.js"
@@ -2118,11 +2098,7 @@ hash = "65bbf7fe79a995e65ac8f18a32cf4135bf6d946ba4ff0177588ee6555b36e253"
 
 [[files]]
 file = "kubejs/server_scripts/soup.js"
-hash = "f9380ce9a4eebbe8837b6a647bcf32030348c3ffae4b1f016ffbb90dc16b6e07"
-
-[[files]]
-file = "kubejs/server_scripts/tomatoSauce.js"
-hash = "5e89ab3d5f9d5d7ff0086850116b20b3e85e3e234ae2d49a163362e430bc10a1"
+hash = "11ef2638438228314b525b57ac306d5362f2378835d65e96e530c61d7bbfa66b"
 
 [[files]]
 file = "kubejs/startup_scripts/createTooltips.js"
