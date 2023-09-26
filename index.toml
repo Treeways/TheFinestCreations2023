@@ -49,6 +49,10 @@ file = "config/styled-nicknames.json"
 hash = "c899332ba59d23f804d6fa5526af0c206c6157c8993096206294023083ea1aed"
 
 [[files]]
+file = "config/supplementaries-common.json"
+hash = "1be5af525b1e6795c5365c1d328e8577456b91d25bb4b4858cb868f9f7f09de6"
+
+[[files]]
 file = "config/treeharvester/harvestable_axe_blacklist.txt"
 hash = "5f4a204972ba592b1fad576e1235ecb6c9ab8a722da095a5a5c60487a6c2415f"
 
@@ -1949,6 +1953,10 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/bakery/lang/en_us.json"
+hash = "eb3eb108722d706a9cd7ae9508cb16ab4541215a5b9dcf10378bb6ca9d0ce8f6"
+
+[[files]]
 file = "kubejs/assets/copperhopper/credits.txt"
 hash = "15da716b88f56137d7a1d4fa964d6dbf3139b894a867f7227b7d081ce21c150d"
 
@@ -1986,7 +1994,7 @@ hash = "a8c54e38b40860819bec45502886a571069d2d32f8f9d8a535807f2133893c98"
 
 [[files]]
 file = "kubejs/assets/emi/index/stacks/example_hidden_stacks.json"
-hash = "8ee623332758ca9c05049a7bee549de7574d7e688eafabcb9638cce4cc4027d5"
+hash = "427f43c1517fed84cfabe4938349775ad122c5cdc61bf9204ebcceba7ea8783c"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
@@ -2011,6 +2019,14 @@ hash = "61b9b0e1d4731da5156ccbcec21d7daa2c6aa1506dce5397f6cd07dfbf352d91"
 [[files]]
 file = "kubejs/config/probejs.json"
 hash = "487128db93fe40f02ce10e18600fed05b353b3544fdfa223f80d21e81545477f"
+
+[[files]]
+file = "kubejs/data/bakery/recipes/pot_cooking/beetroot_soup.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/bakery/recipes/pot_cooking/rabbit_stew.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "kubejs/data/candlelight/recipes/pan_cooking/bolognese.json"
@@ -2121,8 +2137,32 @@ file = "kubejs/server_scripts/bakery2farmersdelight.js"
 hash = "a9de73930772e62ed6d6425c7072be365ec5d79eccb1a19926bdab4b8a80e6bb"
 
 [[files]]
+file = "kubejs/server_scripts/chocolate.js"
+hash = "9b8f41632a0257f297bd12c7206b109dd57313e074e218de9b50011a33a08df7"
+
+[[files]]
+file = "kubejs/server_scripts/cooking_pot_compat/bakery2candlelight.js"
+hash = "f0046662f42969d69d3efd1c3cc9005e5ab547e11b35a891fbe3f09c6b72a34f"
+
+[[files]]
+file = "kubejs/server_scripts/cooking_pot_compat/bakery2farmersdelight.js"
+hash = "90e5348d025264aae24c1f545977e05a8517342c9f6209ee00455950e86d4d51"
+
+[[files]]
+file = "kubejs/server_scripts/cooking_pot_compat/candlelight2farmersdelight.js"
+hash = "8ce5bb831d30074837834d9bec7a813fff001b58b613d43309055597cf840060"
+
+[[files]]
+file = "kubejs/server_scripts/cooking_pot_compat/farmersdelight2candlelight.js"
+hash = "cf4832981554326dc19876536d16e0b85d1dc0191ebd10fa91c1258641753f35"
+
+[[files]]
 file = "kubejs/server_scripts/crateworks.js"
 hash = "dc9d86f63f34fc815378700fccd4cf0043ee35c36159be2bec8096d5c019b82a"
+
+[[files]]
+file = "kubejs/server_scripts/dough.js"
+hash = "b12167a46e20fe164b148170f8e4bac32b862697d7cd5a1ae32df166e1f756a3"
 
 [[files]]
 file = "kubejs/server_scripts/farmersdelight2bakery.js"
@@ -2134,19 +2174,23 @@ hash = "03325802a1fa2d4f3d5ca14f48dd57f09d765f55c858dc2f5955efaaec87b9f2"
 
 [[files]]
 file = "kubejs/server_scripts/hideItems.js"
-hash = "9f2a5d984c1fc7ed775402183db54a4e9b6c546a042afec11b29ca967da9e31c"
+hash = "a8aa824112e74fa52bcb0f3e9e012f002e78305bbec578e8235d99f003e63924"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipes.js"
-hash = "97aa20dedd7f984fc2fb18e02ad7172c6e293115d8a4a91e524e8f35189664b4"
+hash = "79e6650610dd72e6a30ede6867a691fcc5200273df819432b0555993c6fa9aed"
 
 [[files]]
 file = "kubejs/server_scripts/miscTags.js"
-hash = "cf779317f570667d9e99bc470d31d48427a8a0d5875c5f08f5d8af140265783e"
+hash = "1afef371bb10609130bc0c9d1723cf703d80c7b15b370c534beea7c4d01239f0"
 
 [[files]]
 file = "kubejs/server_scripts/silverHaunt.js"
 hash = "65bbf7fe79a995e65ac8f18a32cf4135bf6d946ba4ff0177588ee6555b36e253"
+
+[[files]]
+file = "kubejs/server_scripts/soup.js"
+hash = "f9380ce9a4eebbe8837b6a647bcf32030348c3ffae4b1f016ffbb90dc16b6e07"
 
 [[files]]
 file = "kubejs/server_scripts/tomatoSauce.js"

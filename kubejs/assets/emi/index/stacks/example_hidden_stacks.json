@@ -1,6 +1,6 @@
 {
 	"removed": [
-		"item:minecraft:stone",
-		"item:minecraft:dirt"
+		"item:candlelight:tomato_seeds",
+		"item:candlelight:tomato"
 	]
 }

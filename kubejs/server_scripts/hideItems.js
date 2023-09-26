@@ -19,6 +19,6 @@ function emiHideItems(itemsToHide) {
     JsonIO.write('kubejs/assets/emi/index/stacks/example_hidden_stacks.json', obj);
 }
 
-const exampleList = ['minecraft:stone', 'minecraft:dirt'];
+const exampleList = ['candlelight:tomato_seeds', 'candlelight:tomato', 'candlelight:dough', 'bakery:dough', 'create:dough'];
 
 emiHideItems(exampleList);

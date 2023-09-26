@@ -38,4 +38,12 @@ ServerEvents.recipes((event) => {
         },
     ) //.replaceIngredient('minecraft:water_bucket', 'minecraft:air') // FIXME: replaceIngredient doesn't work on Quilt
         .id('bakery:kitchen_sink');
+
+    event.shapeless(
+        Item.of('farmersdelight:tomato_seeds'), ['candlelight:tomato_seeds']
+    );
+    event.remove({id: 'candlelight:seeds_tomato'})
+    event.shapeless(
+        Item.of('farmersdelight:tomato'), ['candlelight:tomato']
+    );
 });
