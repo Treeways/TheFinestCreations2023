@@ -1,10 +1,9 @@
 ServerEvents.recipes((event) => {
-
     // Recipe Removal
-    event.remove({output: 'candlelight:carrot_crate'});
-    event.remove({output: 'candlelight:tomato_crate'});
-    event.remove({output: 'candlelight:potato_crate'});
-    event.remove({output: 'candlelight:beetroot_crate'});
+    event.remove({ output: 'candlelight:carrot_crate' });
+    event.remove({ output: 'candlelight:tomato_crate' });
+    event.remove({ output: 'candlelight:potato_crate' });
+    event.remove({ output: 'candlelight:beetroot_crate' });
 
     // Stonecutting
     event.stonecutting('candlelight:carrot_crate', 'farmersdelight:carrot_crate');
@@ -20,10 +19,6 @@ ServerEvents.recipes((event) => {
     event.stonecutting('farmersdelight:beetroot_crate', 'candlelight:beetroot_crate');
 
     // Tomato Fix
-    event.remove({id: 'candlelight:tomato'});
-    event.shapeless(
-        Item.of('farmersdelight:tomato', 9), ['candlelight:tomato_crate']
-    );
-
-
-})
+    event.remove({ id: 'candlelight:tomato' });
+    event.shapeless(Item.of('farmersdelight:tomato', 9), ['candlelight:tomato_crate']);
+});

@@ -3,7 +3,7 @@ ServerEvents.tags('block', (event) => {
 
     event.add('bakery:allows_cooking', 'farmersdelight:stove');
     event.add('candlelight:allows_cooking', 'farmersdelight:stove');
-    event.add('c:allows_cooking', 'farmersdelight:stove')
+    event.add('c:allows_cooking', 'farmersdelight:stove');
 });
 
 ServerEvents.tags('item', (event) => {
