@@ -2090,7 +2090,7 @@ hash = "4fde120215a70326e2cb2f449b126a41506a2eaf6bfb9aa7e2d9d0df0abac3b7"
 
 [[files]]
 file = "kubejs/server_scripts/miscTags.js"
-hash = "c60d0d7fdac666fc360b2e9bb5518d4e4083eb34ebfb0b6a9054cfbccd5ef6e8"
+hash = "77f0d226ccf34d31facaa5dd91c3817709f5c90fa7ab7a154035c2a70136e7eb"
 
 [[files]]
 file = "kubejs/server_scripts/silverHaunt.js"
@@ -2658,7 +2658,12 @@ metafile = true
 
 [[files]]
 file = "mods/blossomback.pw.toml"
-hash = "1c0b76b67d67637d869862fc299230991ad5c1a923630c871beef37d228544f3"
+hash = "88ffe6dcd64fb05faec2f93151d610b6f472c6e1adb70f2dca4522f1fe85f914"
+metafile = true
+
+[[files]]
+file = "mods/blossomenderchest.pw.toml"
+hash = "2a84849e125efcfc521de41989e187814c7226589ca5f24c11f0f714a9ee2a2e"
 metafile = true
 
 [[files]]

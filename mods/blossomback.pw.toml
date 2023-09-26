@@ -1,6 +1,6 @@
 name = "BlossomBack"
 filename = "blossom-back-2.1.0+1.20.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tHwJbPJm/versions/hsgsAqBN/blossom-back-2.1.0%2B1.20.jar"
