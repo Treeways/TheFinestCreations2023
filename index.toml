@@ -41,6 +41,10 @@ file = "config/quilt-loader.txt"
 hash = "8b15c1fba8ab3f2c2b6fa810fb0f5994754c36f63f287e1991f35b8faed19915"
 
 [[files]]
+file = "config/shulkerboxslot-server.toml"
+hash = "48a23751ce30f580326b1073455b4f019520c6555bc3f2f95ce798608027f3b5"
+
+[[files]]
 file = "config/spiceoffabric.hjson"
 hash = "74281e3c9cb3fdbf30b04cbe95c9609ed7b1410e88378c4b54d6866cae2471e3"
 
