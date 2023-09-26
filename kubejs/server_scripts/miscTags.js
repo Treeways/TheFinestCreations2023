@@ -10,4 +10,6 @@ ServerEvents.tags('item', (event) => {
     event.add('farmersdelight:tools/knives', 'bakery:knives');
 
     event.add('c:chocolate', 'create:bar_of_chocolate');
+
+    event.add('kubejs:tomato_sauce', ['candlelight:tomato_soup', 'farmersdelight:tomato_sauce']);
 });
