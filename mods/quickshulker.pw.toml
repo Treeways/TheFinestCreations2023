@@ -1,0 +1,13 @@
+name = "QuickShulker"
+filename = "quickshulker-1.4.0-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RsZDxTI3/versions/Eq9r6JQQ/quickshulker-1.4.0-1.20.jar"
+hash-format = "sha1"
+hash = "10670458f2b106ce97a58bc287816ea184924741"
+
+[update]
+[update.modrinth]
+mod-id = "RsZDxTI3"
+version = "Eq9r6JQQ"

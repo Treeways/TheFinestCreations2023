@@ -2005,10 +2005,6 @@ file = "kubejs/config/common.properties"
 hash = "61b9b0e1d4731da5156ccbcec21d7daa2c6aa1506dce5397f6cd07dfbf352d91"
 
 [[files]]
-file = "kubejs/data/snifferplus/worldgen/biome/timeless_grotto.json"
-hash = "2b379a262724fc453b3e8c1cc9570daa5c003c8f2c6385fa86cdd50d22a04530"
-
-[[files]]
 file = "kubejs/server_scripts/bakery2farmersdelight.js"
 hash = "90e5348d025264aae24c1f545977e05a8517342c9f6209ee00455950e86d4d51"
 
@@ -2467,6 +2463,11 @@ hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]
+file = "mods/glowing-torchflower.pw.toml"
+hash = "b38a7635f23e55121ed6bd111503fa80f7149e3e80001781102ecc62a0cae97a"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "9db7f06dd55021ec4a9d3c104ff694184088f940db16ec39e6eb27d167203033"
 metafile = true
@@ -2474,11 +2475,6 @@ metafile = true
 [[files]]
 file = "mods/headfix.pw.toml"
 hash = "ee80214c8d531367f647a87a4362e59b9ad957f04205fc8e930de443a0f69d73"
-metafile = true
-
-[[files]]
-file = "mods/hellions-sniffer+.pw.toml"
-hash = "d26baf8a8f8e338cbf7f0a0d3179de1920148c546b592b1193dafb30ba1480ad"
 metafile = true
 
 [[files]]
@@ -2612,6 +2608,11 @@ hash = "96b7964374f7b1455391d075af3915576f2bc79cfcac047baafe855f07d6297a"
 metafile = true
 
 [[files]]
+file = "mods/more-chest-variants-lieonlion.pw.toml"
+hash = "d5696e519312821ea3305537a0715e14a492944a6771a4d2ac08e1867c7402a2"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
 metafile = true
@@ -2717,6 +2718,11 @@ hash = "7ffa8a332d46b6b412904e52353d7095b4709de406699d75bc31dc99ce416487"
 metafile = true
 
 [[files]]
+file = "mods/quickshulker.pw.toml"
+hash = "b6c3dbf9a6e4ced00cd9d7ea5c1383b2defcf915327f2bdf9d6752a20aaa6185"
+metafile = true
+
+[[files]]
 file = "mods/redirectionor.pw.toml"
 hash = "3620bde82f3e140b03b4277384caf04ae80a84f15276f700fc552131043fbb4f"
 metafile = true
@@ -2804,6 +2810,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
 hash = "f9634199a057b5d9baf729ad427dac363637d049f98a7392aa9b44abf795c589"
+metafile = true
+
+[[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "02a01bda1a82d2aea2a1c32227026e9979c09294318609950bb18f56063dcc8c"
 metafile = true
 
 [[files]]
