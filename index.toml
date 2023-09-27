@@ -3019,6 +3019,11 @@ hash = "6dac263acaa4a748dede2ef6399cf0dfe26e5ad2d1ec3d5b2f4e6d505d92fbe5"
 metafile = true
 
 [[files]]
+file = "mods/itemframesplus.pw.toml"
+hash = "f1634922f33817c14e24ca2b476db9ee2915342fa9143330bd0f7021657f8d12"
+metafile = true
+
+[[files]]
 file = "mods/items-displayed.pw.toml"
 hash = "e3559b30e33afbbbade5fe2e99f2de7aa107745890171a891a94bd413ae6f17d"
 metafile = true
@@ -3361,11 +3366,6 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
-metafile = true
-
-[[files]]
-file = "mods/toggle-item-frames.pw.toml"
-hash = "3f00dc5b8070f0ce5be1febbd250cb69036b13267a2b37e9adcd21ad81513a05"
 metafile = true
 
 [[files]]

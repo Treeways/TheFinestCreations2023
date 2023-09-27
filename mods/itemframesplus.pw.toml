@@ -1,0 +1,13 @@
+name = "ItemFrames+"
+filename = "itemframeplus-fabric-1.20-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WdzRUPck/versions/LGclcyZ7/itemframeplus-fabric-1.20-1.1.0.jar"
+hash-format = "sha1"
+hash = "81597311bbc176996a519aff5d3b370e9e90dd2a"
+
+[update]
+[update.modrinth]
+mod-id = "WdzRUPck"
+version = "LGclcyZ7"
