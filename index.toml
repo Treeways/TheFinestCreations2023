@@ -1961,42 +1961,6 @@ file = "kubejs/assets/bakery/lang/en_us.json"
 hash = "eb3eb108722d706a9cd7ae9508cb16ab4541215a5b9dcf10378bb6ca9d0ce8f6"
 
 [[files]]
-file = "kubejs/assets/copperhopper/credits.txt"
-hash = "15da716b88f56137d7a1d4fa964d6dbf3139b894a867f7227b7d081ce21c150d"
-
-[[files]]
-file = "kubejs/assets/copperhopper/lang/en_us.json"
-hash = "000c4210ff323c2cca8946fde45cb8b04cb013dce050fcd6d43838fcbd36068b"
-
-[[files]]
-file = "kubejs/assets/copperhopper/models/block/copper_hopper.json"
-hash = "6c3441122c12dea96f50bc71236bbbdbe5b82e4da5d4e2db538892d4f112c77c"
-
-[[files]]
-file = "kubejs/assets/copperhopper/models/block/copper_hopper_side.json"
-hash = "d23aaabd69309c6d7e8655d7d9cb8d62ed8c553f69e76abefb63e3baa4556047"
-
-[[files]]
-file = "kubejs/assets/copperhopper/textures/block/golden_hopper_inside.png"
-hash = "b5c08954751f27ef9635d3324cd371850c26f0a3a15c75683ac2e4cd2e4c24aa"
-
-[[files]]
-file = "kubejs/assets/copperhopper/textures/block/golden_hopper_outside.png"
-hash = "8783bb915cafc3c6caa3af517d76e98343e76b67a481a60ac0ec63e6112ead37"
-
-[[files]]
-file = "kubejs/assets/copperhopper/textures/block/golden_hopper_top.png"
-hash = "33d7a11bfdefcb39d405f4dd6e140a73b97474d92d2988f79120e574909fc757"
-
-[[files]]
-file = "kubejs/assets/copperhopper/textures/item/copper_hopper.png"
-hash = "345a4de5fa553ab7520ff0d9ef3cf9bcd6b3060982c583c43334503f32d73846"
-
-[[files]]
-file = "kubejs/assets/copperhopper/textures/item/copper_hopper_minecart.png"
-hash = "a8c54e38b40860819bec45502886a571069d2d32f8f9d8a535807f2133893c98"
-
-[[files]]
 file = "kubejs/assets/emi/index/stacks/example_hidden_stacks.json"
 hash = "427f43c1517fed84cfabe4938349775ad122c5cdc61bf9204ebcceba7ea8783c"
 
@@ -2803,11 +2767,6 @@ metafile = true
 [[files]]
 file = "mods/cooldown-coordinator.pw.toml"
 hash = "842e17199861f6639ad0da2c3a2bac4874a7556d2cec00bd2d5f85289b749c15"
-metafile = true
-
-[[files]]
-file = "mods/copper-hopper.pw.toml"
-hash = "d5d499c4c555d25c91616a3dca350cd9677e6e166882d9c8e1405e3ca6c2686b"
 metafile = true
 
 [[files]]
