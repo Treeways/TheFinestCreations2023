@@ -2570,11 +2570,6 @@ hash = "5bc807f39b86a98bab6d499a1dffac86be1dedd4a44d148256976addba12a124"
 metafile = true
 
 [[files]]
-file = "mods/banner-flags.pw.toml"
-hash = "16be84ad81b92b07d383e0f20adc309aa57041620029a71e8f3056ebf90d01b4"
-metafile = true
-
-[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "e7e792cc5aec854250db3cb9ee6fe16b6edcd88f3f949d1e47c976fcfd1b9c4e"
 metafile = true
