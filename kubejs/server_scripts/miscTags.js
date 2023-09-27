@@ -4,6 +4,8 @@ ServerEvents.tags('block', (event) => {
     event.add('bakery:allows_cooking', 'farmersdelight:stove');
     event.add('candlelight:allows_cooking', 'farmersdelight:stove');
     event.add('c:allows_cooking', 'farmersdelight:stove');
+
+    event.add('create:non_movable', '@chunkloaders');
 });
 
 ServerEvents.tags('item', (event) => {
