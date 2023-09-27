@@ -2844,6 +2844,11 @@ hash = "dcf9956e067b5902c98a892c7c5ba19b378385facfe40173bbc3e2746d9e2dc8"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+metafile = true
+
+[[files]]
 file = "mods/easiervillagertrading.pw.toml"
 hash = "08a544f2cca66b70a13daae40268ee95a967f617c7f97670363065fb5fb06666"
 metafile = true
