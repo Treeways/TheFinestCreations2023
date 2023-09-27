@@ -2555,12 +2555,12 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "368c405be7efc817b528461902c950fbb1f6a9d58cbf561760bae4d5705f96c4"
+hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
 metafile = true
 
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
-hash = "0d9535533fcae965820ca13e7b9e55fe6ef62e051bcc27e9763e477ede50c4f6"
+hash = "2a83e89f0cc1d91f5c8eaab0fd497e3a712979677b96a44ea32d927053abfb5d"
 metafile = true
 
 [[files]]
@@ -2650,7 +2650,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "6101baa55052ee4fd541dedb89ed0ddd9bd2e797743abba3a9d49c0c5ac8c532"
+hash = "be330200c6e0dc0fc1ad18919ecf555e87d0eb6d324f7d414023db389c54cff8"
 metafile = true
 
 [[files]]
@@ -2800,7 +2800,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "5efaaf43fc63fe29948cb48504338d23deaa0c9c611fdcbe6f868583841f61ee"
+hash = "adee56de36b08b1c6209ee506707dea3bebf06a74b057b7ea2a27be8d9a0f164"
 metafile = true
 
 [[files]]
@@ -3045,7 +3045,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "79cb5803410fe55b896deeb08e3bf2d8446d1730664280b0d792b97bc4c72085"
+hash = "df6500502b74df47ec1696130f90cd55f00eeb34fd69c1792e42ba1a266bbff7"
 metafile = true
 
 [[files]]
@@ -3110,17 +3110,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
+hash = "415bed4f1189fdde4b748258701f01a773a5a1b104f8770ef4e83b20db6aa7a1"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "52912963e381c9d7f8925685cd5abe699d2906906c9d0becf0ba93c2d11291eb"
+hash = "e30372b2fba24ebe1f79c5befae83165e7ca29252c488554d81bf0ef7d92091b"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "96b7964374f7b1455391d075af3915576f2bc79cfcac047baafe855f07d6297a"
+hash = "4150435ec9e3a6e92d61d972df268771d13a7662f7f585326268b7b411f388e4"
 metafile = true
 
 [[files]]
@@ -3215,12 +3215,12 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7ffa8a332d46b6b412904e52353d7095b4709de406699d75bc31dc99ce416487"
+hash = "e858d6d308278c7b871c8801021fea913f1c5315f61924bc4c6a02c1337a5cb6"
 metafile = true
 
 [[files]]
@@ -3230,7 +3230,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirectionor.pw.toml"
-hash = "3620bde82f3e140b03b4277384caf04ae80a84f15276f700fc552131043fbb4f"
+hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
 metafile = true
 
 [[files]]
@@ -3300,7 +3300,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "a746a730133be74c0d63c51c8cb587ebe68efc0584808d5a3aeabb707312b0a6"
+hash = "2aaac7a5b39270cbbe50f800b4d8d8d14b503e01c2f29cf8a4fbd8b9b9570806"
 metafile = true
 
 [[files]]
@@ -3360,7 +3360,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "249feb70bab5b9f12d695f3b71bdc8829b8879874fdfd94d342f9ac3998421b1"
+hash = "c34db37b2202fa21fb5d47e025f63922f3f80c1a1a59b81d21c449a5533f45eb"
 metafile = true
 
 [[files]]
@@ -3405,7 +3405,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "75ccdfd2f29fbe19c23602d87f3fe79276955878eda6705f138b393077cc482c"
+hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
@@ -3420,7 +3420,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "2b4d34da49e4ae43dda05891a6523a661b7b38ff47b0bfba4e99702bb9ca281e"
+hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
@@ -3435,7 +3435,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "33ac4f6bb510cf129a3be9e78f12b368bcbf0c813d78aad7c510d748e52c7db4"
+hash = "bc0ca9370e45f2a1e6e76f8bb9cf556121dd46b513b7ac796758e3ebe69880ec"
 metafile = true
 
 [[files]]
