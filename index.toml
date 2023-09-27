@@ -129,6 +129,10 @@ file = "config/yosbr/config/spark/config.json"
 hash = "230ef74f58b4ebfb809cc474e881be3462ede61d56a86437e935b4a3a1ac99f3"
 
 [[files]]
+file = "config/yosbr/config/trashslot-common.toml"
+hash = "f2786f3b8ed8572c0eeac5081d421ee7d29ca415b333545ffc21a9dcfccf2e03"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "26c1e5a75ba7df7b321c08da69518e994671104f84055b12c6bb56ccb45876be"
 
