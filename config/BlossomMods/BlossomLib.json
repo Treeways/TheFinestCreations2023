@@ -13,7 +13,7 @@
       "textColor": "white"
     },
     "titleMessage": {
-      "enabled": true,
+      "enabled": false,
       "titleCounting": {
         "counterColor": "gold",
         "color": "light_purple",
@@ -58,9 +58,9 @@
       "end": 1.0,
       "stepCount": 10
     },
-    "particleAnimation": "OFF",
+    "particleAnimation": null,
     "allowBack": true,
-    "cancelOnMove": false
+    "cancelOnMove": true
   },
   "colors": {
     "base": "light_purple",

@@ -5,12 +5,16 @@ file = "LICENSE.md"
 hash = "9900a33b83057cd23990e688df7ee458bc3210d4b9574aece4c980627152b509"
 
 [[files]]
+file = "config/BlossomMods/BlossomBack.json"
+hash = "bb6d36bd8f2971e18c635489ec9afe0c36dbac95eb8ca62fc1ae6ac00ec9857e"
+
+[[files]]
 file = "config/BlossomMods/BlossomHomes.json"
-hash = "e2d50eb7e084c04639af26b197d9d11b57a721cdc14d45702395b72e8e648633"
+hash = "68aabeb179a004e867e41506613a0255b1c32f23a58c440f14933757fe1393b1"
 
 [[files]]
 file = "config/BlossomMods/BlossomLib.json"
-hash = "52187ed3376cee1908b067d1bc3d852c9e933d153f74150192ece95ec3717475"
+hash = "711ddb4153afe13e6afecfa4e900f517d0b60be89182ec3ac83c085668b064d8"
 
 [[files]]
 file = "config/BlossomMods/BlossomTpa.json"
