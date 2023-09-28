@@ -2066,7 +2066,7 @@ hash = "4fde120215a70326e2cb2f449b126a41506a2eaf6bfb9aa7e2d9d0df0abac3b7"
 
 [[files]]
 file = "kubejs/server_scripts/miscTags.js"
-hash = "77f0d226ccf34d31facaa5dd91c3817709f5c90fa7ab7a154035c2a70136e7eb"
+hash = "acb9794df4f069d98fd9c6cc35a0ca943aac7b4c5bdde6a7f15de1c9a535465b"
 
 [[files]]
 file = "kubejs/server_scripts/silverHaunt.js"
