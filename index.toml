@@ -2763,11 +2763,6 @@ hash = "9c83931f6d91e850876704464b167839e26d70ba7740680ad6a3cb3713b272ae"
 metafile = true
 
 [[files]]
-file = "mods/cool-elytra-roll.pw.toml"
-hash = "bf9e0f5724a457e130c37eef5d5dd4a194ef47b65942ba0628ab1ab2349a1b45"
-metafile = true
-
-[[files]]
 file = "mods/cooldown-coordinator.pw.toml"
 hash = "842e17199861f6639ad0da2c3a2bac4874a7556d2cec00bd2d5f85289b749c15"
 metafile = true
