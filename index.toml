@@ -2069,6 +2069,10 @@ file = "kubejs/server_scripts/miscTags.js"
 hash = "acb9794df4f069d98fd9c6cc35a0ca943aac7b4c5bdde6a7f15de1c9a535465b"
 
 [[files]]
+file = "kubejs/server_scripts/serverLoad.js"
+hash = "24ba16312058a27a3d4928bd6cf5d943de4a85dd94fe9e2809b70582034d6645"
+
+[[files]]
 file = "kubejs/server_scripts/silverHaunt.js"
 hash = "65bbf7fe79a995e65ac8f18a32cf4135bf6d946ba4ff0177588ee6555b36e253"
 
@@ -3285,6 +3289,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "b0925105dc6d45e1b7e74a8f60bdaf3efb0fe5a43534053c618753ef3fba7f4a"
+metafile = true
+
+[[files]]
+file = "mods/shut-up-gl-error.pw.toml"
+hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
 metafile = true
 
 [[files]]
