@@ -2070,7 +2070,7 @@ hash = "acb9794df4f069d98fd9c6cc35a0ca943aac7b4c5bdde6a7f15de1c9a535465b"
 
 [[files]]
 file = "kubejs/server_scripts/serverLoad.js"
-hash = "24ba16312058a27a3d4928bd6cf5d943de4a85dd94fe9e2809b70582034d6645"
+hash = "5a8e0026df2787313049c6e396df383872574dce6966e2675cdece4523e80c33"
 
 [[files]]
 file = "kubejs/server_scripts/silverHaunt.js"
