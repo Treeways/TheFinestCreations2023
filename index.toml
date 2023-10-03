@@ -2062,7 +2062,7 @@ hash = "a8aa824112e74fa52bcb0f3e9e012f002e78305bbec578e8235d99f003e63924"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipes.js"
-hash = "4fde120215a70326e2cb2f449b126a41506a2eaf6bfb9aa7e2d9d0df0abac3b7"
+hash = "b6063d2d36aac7eb905b414e337e7c96da459b0c8a434bed2cecb1c7b32801c4"
 
 [[files]]
 file = "kubejs/server_scripts/miscTags.js"

@@ -38,6 +38,14 @@ ServerEvents.recipes((event) => {
         },
     ).id('bakery:kitchen_sink');
 
+    event.custom({
+        type: 'minecraft:smelting',
+        cookingtime: 200,
+        experience: 0.0,
+        ingredient: { tag: 'minecraft:planks' },
+        result: 'supplementaries:ash',
+    });
+
     event.shapeless(Item.of('farmersdelight:tomato_seeds'), ['candlelight:tomato_seeds']);
     event.remove({ id: 'candlelight:seeds_tomato' });
     event.shapeless(Item.of('farmersdelight:tomato'), ['candlelight:tomato']);
