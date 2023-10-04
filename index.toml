@@ -2050,7 +2050,7 @@ hash = "874e134960a8e3d644268fbafc53a8a7c2a79b27c05446a54d08b8ca545bb540"
 
 [[files]]
 file = "kubejs/server_scripts/dough.js"
-hash = "a3c04a731b4b61d6337ab9601e42431db274a7bb46d64a1a1fd4b3874bc0fdb7"
+hash = "4bb06599c9b4e7cd508f1061095d865bf5a3284115edd9e91cd93abb47e16d3f"
 
 [[files]]
 file = "kubejs/server_scripts/frogStatueFroglight.js"
