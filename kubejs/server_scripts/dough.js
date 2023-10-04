@@ -1,6 +1,7 @@
 ServerEvents.recipes((event) => {
     event.remove({ output: 'candlelight:dough' });
     event.remove({ output: 'bakery:dough' });
+    event.remove({ input: 'create:dough', output: 'minecraft:slime_ball' });
 
     event.custom(
         {
@@ -56,4 +57,6 @@ ServerEvents.recipes((event) => {
             },
         },
     ).id('create:crafting/appliances/dough');
+
+    event.shapeless(Item.of('minecraft:slime_ball'), ['farmersdelight:wheat_dough', 'minecraft:lime_dye']);
 });
