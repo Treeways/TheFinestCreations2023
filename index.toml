@@ -34,7 +34,7 @@ hash = "4866d534f5944417491059aeed345176f01a2e3587b27816b8bb5a53e4ae7924"
 
 [[files]]
 file = "config/enchant-tweaker.properties"
-hash = "6a11e910965017987c0cc5a384e2b368ba6e95e88864f5f4f7f8f4d75a1a1707"
+hash = "c9c8423053501025c406a52b61637eb5c674b2029bdaa097a27d5c5761cf1156"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
