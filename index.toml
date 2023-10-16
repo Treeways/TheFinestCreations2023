@@ -30,7 +30,7 @@ hash = "066b6d232f32b797457a3b5e49d041c4c527ad2a529d10203d9a98e58da7be3d"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "39b4625ad4a83c956a0655fe53742654e3e15e5715d1bc10c9ef0aacda6c9761"
+hash = "ad2e0c4a2c18452c1bfc3f387ba461e12ca5d1fa7916543c36c80dc9a4b41669"
 
 [[files]]
 file = "config/debugify.json"
