@@ -29,6 +29,10 @@ file = "config/clutterconfig.properties"
 hash = "066b6d232f32b797457a3b5e49d041c4c527ad2a529d10203d9a98e58da7be3d"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "39b4625ad4a83c956a0655fe53742654e3e15e5715d1bc10c9ef0aacda6c9761"
+
+[[files]]
 file = "config/debugify.json"
 hash = "4866d534f5944417491059aeed345176f01a2e3587b27816b8bb5a53e4ae7924"
 
