@@ -2596,6 +2596,11 @@ hash = "e30ff1fcaffabc0ae1f01a58be52f2d52783f20af4e074f1eabec360c456e2d5"
 metafile = true
 
 [[files]]
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "5ada61d65872c2e09a942464ba8ac3e5504c7358482f03aeb877e3089d237336"
+metafile = true
+
+[[files]]
 file = "mods/better-ladders.pw.toml"
 hash = "9e3657be5dc803c96e9780bfcaea859251b1a15dcb5a757fd835103e574983c6"
 metafile = true
@@ -3438,11 +3443,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a7f4c9db27e6d88dff443299ba7b04418f17a60316678b14719c767194b43ff3"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
