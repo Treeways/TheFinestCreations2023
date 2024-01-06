@@ -2956,6 +2956,11 @@ hash = "3b204991a74c3c0f542afc2ccc526de884733bc17d1456ceae8ce165af0a3b81"
 metafile = true
 
 [[files]]
+file = "mods/formidablefarmland.pw.toml"
+hash = "040e5a65708704f56121d88d608702fc33ee1084dccb38bef9ca2422f14cd540"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "d653de3e0a16a4bd8637162adf89f183267144b3be284f73aa2f8a31cd07816e"
 metafile = true
