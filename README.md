@@ -1,3 +1,3 @@
-# The Finest Creations Modpack
+# The Finest Creations 2023 Modpack
 
-A simple list of clientside modpacks that is fully supported by the TFC server.
+This is a Minecraft modpack hosted in late 2023 for r/place The Final Clean contributors.
